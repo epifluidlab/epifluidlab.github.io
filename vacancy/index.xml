@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vacancies on EpiFluid Lab</title>
-    <link>https://www.epifluidlab.org/vacancy/</link>
+    <link>https://epifluidlab.github.io/vacancy/</link>
     <description>Recent content in Vacancies on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
     
-	<atom:link href="https://www.epifluidlab.org/vacancy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epifluidlab.github.io/vacancy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.epifluidlab.org/vacancy/vacancy1/</link>
+      <link>https://epifluidlab.github.io/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/vacancy/vacancy1/</guid>
+      <guid>https://epifluidlab.github.io/vacancy/vacancy1/</guid>
       <description>Research Fellow (Computational)  Ph.D. (recent/expected) in computational biology, bioinformatics, genomics or quantitative research fields. Proficiency with at least one high-level scripting language (R/Python/Perl) and linux operating system. It will be better to also have some experience with Java/Scala. Excellent quantitative background in statistics and machine learning, and/or computational genomics background. Familiarity with large scale next generation sequencing (NGS) data analysis (WGS, WGBS, RNA-seq, ChIP-seq and/or related) At least one decent first or co-first author SCI paper published or accepted.</description>
     </item>
     

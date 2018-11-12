@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on EpiFluid Lab</title>
-    <link>https://www.epifluidlab.org/publication/</link>
+    <link>https://epifluidlab.github.io/publication/</link>
     <description>Recent content in Publications on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.epifluidlab.org/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epifluidlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Enhancing GTEx by bridging the gaps between genotype, gene expression, and disease</title>
-      <link>https://www.epifluidlab.org/publication/egtex2017/</link>
+      <link>https://epifluidlab.github.io/publication/egtex2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/egtex2017/</guid>
+      <guid>https://epifluidlab.github.io/publication/egtex2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence of reduced recombination rate in human regulatory domains</title>
-      <link>https://www.epifluidlab.org/publication/liu2017/</link>
+      <link>https://epifluidlab.github.io/publication/liu2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/liu2017/</guid>
+      <guid>https://epifluidlab.github.io/publication/liu2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oral administration of Lactobacillus plantarum 299v modulates gene expression in the ileum of pigs: prediction of crosstalk between intestinal immune cells and sub-mucosal adipocytes</title>
-      <link>https://www.epifluidlab.org/publication/hulst2015/</link>
+      <link>https://epifluidlab.github.io/publication/hulst2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/hulst2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/hulst2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of DNA methylation in directing the functional organization of the cancer epigenome</title>
-      <link>https://www.epifluidlab.org/publication/lay2015/</link>
+      <link>https://epifluidlab.github.io/publication/lay2015/</link>
       <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/lay2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/lay2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrative analysis of 111 reference human epigenomes</title>
-      <link>https://www.epifluidlab.org/publication/roadmap2015/</link>
+      <link>https://epifluidlab.github.io/publication/roadmap2015/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/roadmap2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/roadmap2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide mapping of nucleosome positioning and DNA methylation within individual DNA molecules</title>
-      <link>https://www.epifluidlab.org/publication/kelly2012/</link>
+      <link>https://epifluidlab.github.io/publication/kelly2012/</link>
       <pubDate>Sat, 22 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/kelly2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/kelly2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bis-SNP: combined DNA methylation and SNP calling for Bisulfite-seq data</title>
-      <link>https://www.epifluidlab.org/publication/liu2012/</link>
+      <link>https://epifluidlab.github.io/publication/liu2012/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/liu2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/liu2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regions of focal DNA hypermethylation and long-range hypomethylation in colorectal cancer coincide with nuclear lamina-associated domains</title>
-      <link>https://www.epifluidlab.org/publication/berman2012/</link>
+      <link>https://epifluidlab.github.io/publication/berman2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/berman2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/berman2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification and characterization of novel amphioxus microRNAs by Solexa sequencing</title>
-      <link>https://www.epifluidlab.org/publication/chen2009/</link>
+      <link>https://epifluidlab.github.io/publication/chen2009/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/chen2009/</guid>
+      <guid>https://epifluidlab.github.io/publication/chen2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDMCP uncouples yeast mitochondrial respiration and alleviates steatosis in L02 and hepG2 cells by decreasing ATP and H2O2 levels, a novel mechanism for NAFLD</title>
-      <link>https://www.epifluidlab.org/publication/jin2009/</link>
+      <link>https://epifluidlab.github.io/publication/jin2009/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://www.epifluidlab.org/publication/jin2009/</guid>
+      <guid>https://epifluidlab.github.io/publication/jin2009/</guid>
       <description></description>
     </item>
     

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EpiFluid Lab</title>
-    <link>https://www.epifluidlab.org/tags/</link>
+    <link>https://epifluidlab.github.io/tags/</link>
     <description>Recent content in Tags on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
     
-	<atom:link href="https://www.epifluidlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epifluidlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
