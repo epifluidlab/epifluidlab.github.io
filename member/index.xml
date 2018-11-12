@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on EpiFluid Lab</title>
-    <link>http://epifluidlab.org/member/</link>
+    <link>https://epifluidlab.github.io/member/</link>
     <description>Recent content in Members on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
     <lastBuildDate>Sat, 10 Nov 2018 15:52:22 +0200</lastBuildDate>
     
-	<atom:link href="http://epifluidlab.org/member/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epifluidlab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Principal Investigator</title>
-      <link>http://epifluidlab.org/member/member2/</link>
+      <link>https://epifluidlab.github.io/member/member2/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0200</pubDate>
       
-      <guid>http://epifluidlab.org/member/member2/</guid>
+      <guid>https://epifluidlab.github.io/member/member2/</guid>
       <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) in Division of Human Genetics, Department of Pediatric at CCHMC and School of Medicine at University of Cincinnati (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
     </item>
     
     <item>
       <title>Member 3</title>
-      <link>http://epifluidlab.org/member/member4/</link>
+      <link>https://epifluidlab.github.io/member/member4/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0210</pubDate>
       
-      <guid>http://epifluidlab.org/member/member4/</guid>
+      <guid>https://epifluidlab.github.io/member/member4/</guid>
       <description>Postdoctoral research associate at Broad institute (2015-2017). Ph.D. from UGA (2015)</description>
     </item>
     
     <item>
       <title>Postdoc</title>
-      <link>http://epifluidlab.org/member/member3/</link>
+      <link>https://epifluidlab.github.io/member/member3/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0300</pubDate>
       
-      <guid>http://epifluidlab.org/member/member3/</guid>
+      <guid>https://epifluidlab.github.io/member/member3/</guid>
       <description>Faculty at Huazhong Agricultural University (2014-2018). Ph.D. from Wuhan University (2014)</description>
     </item>
     

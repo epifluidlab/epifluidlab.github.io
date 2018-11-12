@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EpiFluid Lab</title>
-    <link>http://epifluidlab.org/</link>
+    <link>https://epifluidlab.github.io/</link>
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
     <lastBuildDate>Sat, 10 Nov 2018 15:52:22 +0200</lastBuildDate>
     
-	<atom:link href="http://epifluidlab.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Principal Investigator</title>
-      <link>http://epifluidlab.org/member/member2/</link>
+      <link>https://epifluidlab.github.io/member/member2/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0200</pubDate>
       
-      <guid>http://epifluidlab.org/member/member2/</guid>
+      <guid>https://epifluidlab.github.io/member/member2/</guid>
       <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) in Division of Human Genetics, Department of Pediatric at CCHMC and School of Medicine at University of Cincinnati (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
     </item>
     
     <item>
       <title>Member 3</title>
-      <link>http://epifluidlab.org/member/member4/</link>
+      <link>https://epifluidlab.github.io/member/member4/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0210</pubDate>
       
-      <guid>http://epifluidlab.org/member/member4/</guid>
+      <guid>https://epifluidlab.github.io/member/member4/</guid>
       <description>Postdoctoral research associate at Broad institute (2015-2017). Ph.D. from UGA (2015)</description>
     </item>
     
     <item>
       <title>Postdoc</title>
-      <link>http://epifluidlab.org/member/member3/</link>
+      <link>https://epifluidlab.github.io/member/member3/</link>
       <pubDate>Sat, 10 Nov 2018 15:52:22 +0300</pubDate>
       
-      <guid>http://epifluidlab.org/member/member3/</guid>
+      <guid>https://epifluidlab.github.io/member/member3/</guid>
       <description>Faculty at Huazhong Agricultural University (2014-2018). Ph.D. from Wuhan University (2014)</description>
     </item>
     
     <item>
       <title>Enhancing GTEx by bridging the gaps between genotype, gene expression, and disease</title>
-      <link>http://epifluidlab.org/publication/egtex2017/</link>
+      <link>https://epifluidlab.github.io/publication/egtex2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/egtex2017/</guid>
+      <guid>https://epifluidlab.github.io/publication/egtex2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence of reduced recombination rate in human regulatory domains</title>
-      <link>http://epifluidlab.org/publication/liu2017/</link>
+      <link>https://epifluidlab.github.io/publication/liu2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/liu2017/</guid>
+      <guid>https://epifluidlab.github.io/publication/liu2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oral administration of Lactobacillus plantarum 299v modulates gene expression in the ileum of pigs: prediction of crosstalk between intestinal immune cells and sub-mucosal adipocytes</title>
-      <link>http://epifluidlab.org/publication/hulst2015/</link>
+      <link>https://epifluidlab.github.io/publication/hulst2015/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/hulst2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/hulst2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of DNA methylation in directing the functional organization of the cancer epigenome</title>
-      <link>http://epifluidlab.org/publication/lay2015/</link>
+      <link>https://epifluidlab.github.io/publication/lay2015/</link>
       <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/lay2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/lay2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrative analysis of 111 reference human epigenomes</title>
-      <link>http://epifluidlab.org/publication/roadmap2015/</link>
+      <link>https://epifluidlab.github.io/publication/roadmap2015/</link>
       <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/roadmap2015/</guid>
+      <guid>https://epifluidlab.github.io/publication/roadmap2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide mapping of nucleosome positioning and DNA methylation within individual DNA molecules</title>
-      <link>http://epifluidlab.org/publication/kelly2012/</link>
+      <link>https://epifluidlab.github.io/publication/kelly2012/</link>
       <pubDate>Sat, 22 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/kelly2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/kelly2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bis-SNP: combined DNA methylation and SNP calling for Bisulfite-seq data</title>
-      <link>http://epifluidlab.org/publication/liu2012/</link>
+      <link>https://epifluidlab.github.io/publication/liu2012/</link>
       <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/liu2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/liu2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regions of focal DNA hypermethylation and long-range hypomethylation in colorectal cancer coincide with nuclear lamina-associated domains</title>
-      <link>http://epifluidlab.org/publication/berman2012/</link>
+      <link>https://epifluidlab.github.io/publication/berman2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/berman2012/</guid>
+      <guid>https://epifluidlab.github.io/publication/berman2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification and characterization of novel amphioxus microRNAs by Solexa sequencing</title>
-      <link>http://epifluidlab.org/publication/chen2009/</link>
+      <link>https://epifluidlab.github.io/publication/chen2009/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/chen2009/</guid>
+      <guid>https://epifluidlab.github.io/publication/chen2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HDMCP uncouples yeast mitochondrial respiration and alleviates steatosis in L02 and hepG2 cells by decreasing ATP and H2O2 levels, a novel mechanism for NAFLD</title>
-      <link>http://epifluidlab.org/publication/jin2009/</link>
+      <link>https://epifluidlab.github.io/publication/jin2009/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/publication/jin2009/</guid>
+      <guid>https://epifluidlab.github.io/publication/jin2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://epifluidlab.org/mission/</link>
+      <link>https://epifluidlab.github.io/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/mission/</guid>
+      <guid>https://epifluidlab.github.io/mission/</guid>
       <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!
 if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://epifluidlab.org/news/</link>
+      <link>https://epifluidlab.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/news/</guid>
+      <guid>https://epifluidlab.github.io/news/</guid>
       <description> News 
  Dr. Xionghui Zhang joins EpiFluid Lab as a research fellow. Welcome!  </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://epifluidlab.org/research/</link>
+      <link>https://epifluidlab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/research/</guid>
+      <guid>https://epifluidlab.github.io/research/</guid>
       <description> Research Directions 
  Understanding the heterogeneity of cfDNA, exosome and its related cell types
  Profiling multi-dimensional -omics simultaneously in cfDNA and its related cell types
@@ -163,10 +163,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
     
     <item>
       <title></title>
-      <link>http://epifluidlab.org/software/</link>
+      <link>https://epifluidlab.github.io/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/software/</guid>
+      <guid>https://epifluidlab.github.io/software/</guid>
       <description> Softwares 
  CcInference In preparation   Infer DNA methylation level from cfDNA
   Bhmem In preparation   Computational pipeline for Methyl-HiC
@@ -177,10 +177,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
     
     <item>
       <title></title>
-      <link>http://epifluidlab.org/vacancy/vacancy1/</link>
+      <link>https://epifluidlab.github.io/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://epifluidlab.org/vacancy/vacancy1/</guid>
+      <guid>https://epifluidlab.github.io/vacancy/vacancy1/</guid>
       <description>Research Fellow (Computational)  Ph.D. (recent/expected) in computational biology, bioinformatics, genomics or quantitative research fields. Proficiency with at least one high-level scripting language (R/Python/Perl) and linux operating system. It will be better to also have some experience with Java/Scala. Excellent quantitative background in statistics and machine learning, and/or computational genomics background. Familiarity with large scale next generation sequencing (NGS) data analysis (WGS, WGBS, RNA-seq, ChIP-seq and/or related) At least one decent first or co-first author SCI paper published or accepted.</description>
     </item>
     
