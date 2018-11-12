@@ -1,0 +1,98 @@
+layoutdir = "themes/hugo-academic-group/layouts"
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "http://epifluidlab.org/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "EpiFluid Lab"
+math = true
+copyright = "&copy; EpiFluid Lab, 2018 "
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "EpiFluid Lab (Yaping Liu's research group)"
+  author = "Yaping Liu"
+  email = "lyping1986@gmail.com"
+  address = "3333 Burnet Ave, Cincinnati, OH 45229"
+
+  slogan = "EpiFluid Lab"
+  slogan_text = "Epigenomics & Liquid Biopsy"
+
+  [[params.slogan_columns]]
+    title = "About"
+    text =  "We are epigenomics and computational biology lab within Division of Human Genetics, Department of Pediatric in the Cincinnati Children’s Hospital Medical Center (CCHMC) and also part of the School of Medicine, University of Cincinnati."
+    link = "/member"
+    link_text = "Meet the team"
+    weight = 1
+
+  [[params.slogan_columns]]
+    title = "Mission"
+    text = "The focus of the lab on developing and applying machine learning and high throughput experiment method to understand the gene regulation. Specifically, we would like to extract genetic and multi-dimensional epigenetic information in circulating cell-free DNA, exosomes and its related cell types to explore the role of epigenetics in gene regulation at the population level and therefore bridge the gap between genetic and phenotypic variations at different healthy and pathological conditions. Our ultimate goal is pan-disease early diagnosis"
+    link = "/research"
+    link_text = "Read more"
+    weight = 2
+
+  [[params.slogan_columns]]
+    title = "Recent news"
+    text = "Dr. Xionghui Zhang joins EpiFluid Lab as a research fellow. Welcome! "
+    link = "/news"
+    link_text = "Read more"
+    weight = 3
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "#top"
+      weight = 1
+
+  [[menu.main]]
+      name = "Research"
+      url = "/research"
+      weight = 2
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/publication"
+      weight = 3
+
+  [[menu.main]]
+      name = "People"
+      url = "/member"
+      weight = 4
+
+  [[menu.main]]
+      name = "Software"
+      url = "/software"
+      weight = 5
+
+  [[menu.main]]
+      name = "News"
+      url = "/news"
+      weight = 6
+
+  [[menu.main]]
+      name = "Openings"
+      url = "/vacancy"
+      weight = 7
+
+
+  [[menu.main]]
+      name = "Contact"
+      url = "#contact"
+      weight = 8
