@@ -6,10 +6,19 @@
     <description>Recent content in Publications on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells</title>
+      <link>https://epifluidlab.github.io/publication/li2019/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/li2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing GTEx by bridging the gaps between genotype, gene expression, and disease</title>
