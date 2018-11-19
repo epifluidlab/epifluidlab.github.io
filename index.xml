@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
-    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 15:52:22 +0300</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postdoc</title>
+      <link>https://epifluidlab.github.io/member/member4/</link>
+      <pubDate>Fri, 16 Nov 2018 15:52:22 +0300</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member4/</guid>
+      <description>Faculty at Jinzhou Medical University (2018). Ph.D. from Dalian Medical University (2018)</description>
+    </item>
     
     <item>
       <title>Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells</title>
@@ -145,7 +154,9 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description> News 
- Dr. Xionghui Zhang joins EpiFluid Lab as a research fellow. Welcome!  </description>
+ Dr. Hailu Fu joins EpiFluid Lab as a research fellow. Welcome!
+ Dr. Xionghui Zhang joins EpiFluid Lab as a research fellow. Welcome!
+  </description>
     </item>
     
     <item>
