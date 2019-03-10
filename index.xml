@@ -5,7 +5,7 @@
     <link>https://epifluidlab.github.io/</link>
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; EpiFluid Lab, 2018 </copyright>
+    <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -184,9 +184,8 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/research/</guid>
       <description> Research Directions 
- Understanding the heterogeneity of circulating cell-free DNA (cfDNA), exosome and their related cell types.
+ Understanding the heterogeneity of circulating cell-free DNA (cfDNA), exosomal DNA together with the cell types that contributing to them in different pathological and healthy conditions.
  Extracting multi-omics information from a single assay in cfDNA and its related cell types.
- Exploring the effects of non-coding genetic variants on the variation of epigenetics, and therefore bridge the gap between genotype and phenotypes in different physiological conditions.
   </description>
     </item>
     
