@@ -9,7 +9,7 @@
   
   <url>
     <loc>https://epifluidlab.github.io/member/member6/</loc>
-    <lastmod>2019-06-01T16:52:22+06:00</lastmod>
+    <lastmod>2019-06-01T15:52:22+06:00</lastmod>
   </url>
   
   <url>
@@ -25,21 +25,6 @@
   <url>
     <loc>https://epifluidlab.github.io/publication/li2019/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://epifluidlab.github.io/member/member2/</loc>
-    <lastmod>2018-11-10T15:52:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://epifluidlab.github.io/member/member3/</loc>
-    <lastmod>2018-11-10T15:52:22+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://epifluidlab.github.io/member/member4/</loc>
-    <lastmod>2018-11-10T15:52:22+04:00</lastmod>
   </url>
   
   <url>
@@ -132,6 +117,18 @@
     <loc>https://epifluidlab.github.io/member/</loc>
     <lastmod>2019-06-01T15:52:22+05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://epifluidlab.github.io/member/member3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://epifluidlab.github.io/member/member4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://epifluidlab.github.io/member/member2/</loc>
   </url>
   
   <url>

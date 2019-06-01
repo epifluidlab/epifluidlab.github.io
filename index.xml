@@ -23,7 +23,7 @@
     <item>
       <title>SURF student (2019)</title>
       <link>https://epifluidlab.github.io/member/member6/</link>
-      <pubDate>Sat, 01 Jun 2019 16:52:22 +0600</pubDate>
+      <pubDate>Sat, 01 Jun 2019 15:52:22 +0600</pubDate>
       
       <guid>https://epifluidlab.github.io/member/member6/</guid>
       <description>Undergradute student in the biochemistry major from the Ohio State University</description>
@@ -54,33 +54,6 @@
       
       <guid>https://epifluidlab.github.io/publication/li2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Principal Investigator</title>
-      <link>https://epifluidlab.github.io/member/member2/</link>
-      <pubDate>Sat, 10 Nov 2018 15:52:22 +0200</pubDate>
-      
-      <guid>https://epifluidlab.github.io/member/member2/</guid>
-      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) in Division of Human Genetics, Department of Pediatric at CCHMC and College of Medicine at University of Cincinnati (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
-    </item>
-    
-    <item>
-      <title>Postdoc</title>
-      <link>https://epifluidlab.github.io/member/member3/</link>
-      <pubDate>Sat, 10 Nov 2018 15:52:22 +0300</pubDate>
-      
-      <guid>https://epifluidlab.github.io/member/member3/</guid>
-      <description>Faculty at Huazhong Agricultural University (2014-2018). Ph.D. from Wuhan University (2014)</description>
-    </item>
-    
-    <item>
-      <title>Postdoc</title>
-      <link>https://epifluidlab.github.io/member/member4/</link>
-      <pubDate>Sat, 10 Nov 2018 15:52:22 +0400</pubDate>
-      
-      <guid>https://epifluidlab.github.io/member/member4/</guid>
-      <description>Faculty at Jinzhou Medical University (2018). Ph.D. from Dalian Medical University (2018)</description>
     </item>
     
     <item>
@@ -237,6 +210,33 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/vacancy/vacancy1/</guid>
       <description>Research Fellow (Computational)  Ph.D. (recent/expected) in computational biology, bioinformatics, genomics or quantitative research fields. Proficiency with at least one high-level scripting language (R/Python/Perl) and linux operating system. It will be better to also have some experience with Java/Scala. Excellent quantitative background in statistics and machine learning, and/or computational genomics background. Familiarity with large scale next generation sequencing (NGS) data analysis (WGS, WGBS, RNA-seq, ChIP-seq and/or related) At least one decent first or co-first author SCI paper published or accepted.</description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>https://epifluidlab.github.io/member/member3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member3/</guid>
+      <description>Faculty at Huazhong Agricultural University (2014-2018). Ph.D. from Wuhan University (2014)</description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>https://epifluidlab.github.io/member/member4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member4/</guid>
+      <description>Faculty at Jinzhou Medical University (2018). Ph.D. from Dalian Medical University (2018)</description>
+    </item>
+    
+    <item>
+      <title>Principal Investigator</title>
+      <link>https://epifluidlab.github.io/member/member2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member2/</guid>
+      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) in Division of Human Genetics, Department of Pediatric at CCHMC and College of Medicine at University of Cincinnati (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
     </item>
     
   </channel>
