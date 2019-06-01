@@ -6,10 +6,28 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 15:52:22 +0500</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SURF student (2019)</title>
+      <link>https://epifluidlab.github.io/member/member5/</link>
+      <pubDate>Sat, 01 Jun 2019 15:52:22 +0500</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member5/</guid>
+      <description>Undergradute student in the computer science major from the University of Texas at Austin</description>
+    </item>
+    
+    <item>
+      <title>SURF student (2019)</title>
+      <link>https://epifluidlab.github.io/member/member6/</link>
+      <pubDate>Sat, 01 Jun 2019 16:52:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member6/</guid>
+      <description>Undergradute student in the biochemistry major from the Ohio State University</description>
+    </item>
     
     <item>
       <title>Spatial co-fragmentation pattern of cell-free DNA recapitulates in vivo chromatin organization and identifies tissues-of-origin</title>
