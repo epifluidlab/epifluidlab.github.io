@@ -6,10 +6,19 @@
     <description>Recent content in Publications on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint profiling of DNA methylation and chromatin architecture in single cells</title>
+      <link>https://epifluidlab.github.io/publication/li2019/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/li2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial co-fragmentation pattern of cell-free DNA recapitulates in vivo chromatin organization and identifies tissues-of-origin</title>
@@ -26,15 +35,6 @@
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/publication/wan2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells</title>
-      <link>https://epifluidlab.github.io/publication/li2019/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://epifluidlab.github.io/publication/li2019/</guid>
       <description></description>
     </item>
     

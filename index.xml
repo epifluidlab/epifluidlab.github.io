@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 15:52:22 +0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joint profiling of DNA methylation and chromatin architecture in single cells</title>
+      <link>https://epifluidlab.github.io/publication/li2019/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/li2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SURF student (2019)</title>
@@ -44,15 +53,6 @@
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/publication/wan2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells</title>
-      <link>https://epifluidlab.github.io/publication/li2019/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://epifluidlab.github.io/publication/li2019/</guid>
       <description></description>
     </item>
     
@@ -172,9 +172,8 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
- Our paper on using cfDNA WGS to infer 3D genome and tissues-of-origin is online at BioRxiv now! This is a team work done in Freenome Inc.
- Our paper on cancer early detection by liquid biopsy is online at BioRxiv now! This is a team work done in Freenome Inc.
- Our paper on Methyl-HiC in bulk and single cell level is online at BioRxiv now! This is a collaboration work with Drs.</description>
+ Our paper on single-cell Methyl-HiC is accepted by Nature Methods (online soon)! Dr. Yaping Liu is the co-first author of the paper for the computational analysis. This technology allows us to jointly profile DNA methylation and 3D genome in a same single cell.
+ Our paper on using cfDNA WGS to infer 3D genome and tissues-of-origin is online at BioRxiv now! This is a team work done in Freenome Inc.</description>
     </item>
     
     <item>
@@ -236,7 +235,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/member/member2/</guid>
-      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) in Division of Human Genetics, Department of Pediatric at CCHMC and College of Medicine at University of Cincinnati (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
+      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) at Division of Human Genetics in CCHMC and Department of Pediatric in University of Cincinnati College of Medicine (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
     </item>
     
   </channel>
