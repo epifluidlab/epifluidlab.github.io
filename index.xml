@@ -172,8 +172,9 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
- Our paper on single-cell Methyl-HiC is accepted by Nature Methods (online soon)! Dr. Yaping Liu is the co-first author of the paper for the computational analysis. This technology allows us to jointly profile DNA methylation and 3D genome in a same single cell.
- Our paper on using cfDNA WGS to infer 3D genome and tissues-of-origin is online at BioRxiv now! This is a team work done in Freenome Inc.</description>
+ Dr. Yaping Liu received Trustee Award from Cincinnati Children&amp;rsquo;s Research Foundation for cell-free DNA work.
+ Dr. Yaping Liu received Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children&amp;rsquo;s Hospital Medical Center for single-cell multi-omics.
+ Our paper on single-cell Methyl-HiC is accepted by Nature Methods! Dr. Yaping Liu is the co-first author of the paper for the computational analysis. This technology allows us to jointly profile DNA methylation and 3D genome in a same single cell.</description>
     </item>
     
     <item>
@@ -184,7 +185,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <guid>https://epifluidlab.github.io/research/</guid>
       <description> Research Directions 
  Understanding the heterogeneity of circulating cell-free DNA (cfDNA), exosomal DNA together with the cell types that contributing to them in different pathological and healthy conditions.
- Extracting multi-omics information from a single assay in cfDNA and its related cell types.
+ Extracting multi-omics information from a single assay in cfDNA or single-cells.
   </description>
     </item>
     
