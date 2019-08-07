@@ -197,7 +197,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <guid>https://epifluidlab.github.io/software/</guid>
       <description> Softwares 
  CcInference In preparation   Infer DNA methylation level from cfDNA
-  Bhmem In preparation   Computational pipeline for Methyl-HiC
+  Bhmem   Computational pipeline for Methyl-HiC
   Bis-tools   Toolkit to process Bisulfite-seq data
   Bis-SNP   Combined DNA methylation and genotype in Bisulfite-seq data
  </description>
