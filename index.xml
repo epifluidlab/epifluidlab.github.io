@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 15:52:22 +0600</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MDB student</title>
+      <link>https://epifluidlab.github.io/member/member7/</link>
+      <pubDate>Wed, 28 Aug 2019 15:52:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member7/</guid>
+      <description>Ph.D. in MDB graduate program</description>
+    </item>
     
     <item>
       <title>Joint profiling of DNA methylation and chromatin architecture in single cells</title>
@@ -172,9 +181,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
+ David Paulding join EpiFluid Lab as a rotation graduate student from MDB program for 2019 fall. Welcome!
  Dr. Yaping Liu received Trustee Award from Cincinnati Children&amp;rsquo;s Research Foundation for cell-free DNA work.
  Dr. Yaping Liu received Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children&amp;rsquo;s Hospital Medical Center for single-cell multi-omics.
- Our paper on single-cell Methyl-HiC is accepted by Nature Methods! Dr. Yaping Liu is the co-first author of the paper for the computational analysis. This technology allows us to jointly profile DNA methylation and 3D genome in a same single cell.</description>
+ Our paper on single-cell Methyl-HiC is accepted by Nature Methods! Dr. Yaping Liu is the co-first author of the paper for the computational analysis.</description>
     </item>
     
     <item>
