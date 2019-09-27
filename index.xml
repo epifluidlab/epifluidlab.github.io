@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 15:52:22 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 15:52:22 +0600</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Undergraduate research assistant</title>
+      <link>https://epifluidlab.github.io/member/member8/</link>
+      <pubDate>Thu, 12 Sep 2019 15:52:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member8/</guid>
+      <description>undergraduate research assistant from UC</description>
+    </item>
     
     <item>
       <title>MDB student</title>
@@ -181,10 +190,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
- David Paulding join EpiFluid Lab as a rotation graduate student from MDB program for 2019 fall. Welcome!
+ Dzhamal Sarvalov joins EpiFluid Lab as an undergraduate research volunteer from University of Cincinnati. Welcome!
+ David Paulding joins EpiFluid Lab as a rotation graduate student from MDB program for 2019 fall. Welcome!
  Dr. Yaping Liu received Trustee Award from Cincinnati Children&amp;rsquo;s Research Foundation for cell-free DNA work.
- Dr. Yaping Liu received Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children&amp;rsquo;s Hospital Medical Center for single-cell multi-omics.
- Our paper on single-cell Methyl-HiC is accepted by Nature Methods! Dr. Yaping Liu is the co-first author of the paper for the computational analysis.</description>
+ Dr. Yaping Liu received Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children&amp;rsquo;s Hospital Medical Center for single-cell multi-omics.</description>
     </item>
     
     <item>
