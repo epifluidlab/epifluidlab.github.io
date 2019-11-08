@@ -30,12 +30,21 @@
     </item>
     
     <item>
-      <title>MDB student</title>
+      <title>MDB rotation student</title>
       <link>https://epifluidlab.github.io/member/member7/</link>
       <pubDate>Wed, 28 Aug 2019 15:52:22 +0600</pubDate>
       
       <guid>https://epifluidlab.github.io/member/member7/</guid>
-      <description>Ph.D. in MDB graduate program</description>
+      <description>Graduate student in MDB graduate program</description>
+    </item>
+    
+    <item>
+      <title>Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA</title>
+      <link>https://epifluidlab.github.io/publication/wan2019/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/wan2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -71,15 +80,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/publication/liu2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA</title>
-      <link>https://epifluidlab.github.io/publication/wan2019/</link>
-      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://epifluidlab.github.io/publication/wan2019/</guid>
       <description></description>
     </item>
     
@@ -211,10 +211,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/research/</guid>
-      <description> Research Directions 
- Understanding the heterogeneity of circulating cell-free DNA (cfDNA), exosomal DNA together with the cell types that contributing to them in different pathological and healthy conditions.
- Extracting multi-omics information from a single assay in cfDNA or single-cells.
-  </description>
+      <description>Research Directions 
+ Extracting multi-omics information in a single assay from cell-free DNA and its related cell types at bulk and single-cell resolution.
+ Deconvolving the heterogeneity of cell-free DNA together with the cell types that contributing to them in different pathological and healthy conditions.
+ By utilizing the computational and experimental methods developed, we will prioritize the disease related cell types and characterize the regulatory circuits behind non-coding genetic variants within the cells</description>
     </item>
     
     <item>
@@ -264,7 +264,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/member/member2/</guid>
-      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) at Division of Human Genetics in CCHMC and Department of Pediatric in University of Cincinnati College of Medicine (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at Freenome Inc in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
+      <description>Yaping Liu (刘亚平) is an Assistant Professor (tenure-track) at Division of Human Genetics in CCHMC and Department of Pediatric in University of Cincinnati College of Medicine (2019-). Prior to joining CCHMC and UC faculty, he was the principal computational biologist at a liquid biopsy company in 2018. In 2014-2017, he was a postdoc associate with Dr. Manolis Kellis in the Computer Science and Artificial Intelligence Laboratory MIT and Broad institute. In 2014, He received his Ph.</description>
     </item>
     
   </channel>
