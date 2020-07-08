@@ -6,10 +6,19 @@
     <description>Recent content in Members on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Fri, 14 Feb 2020 15:54:22 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 15:54:22 +0600</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Graduate student</title>
+      <link>https://epifluidlab.github.io/member/member11/</link>
+      <pubDate>Wed, 08 Jul 2020 15:54:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member11/</guid>
+      <description>Graduate student in immunology program</description>
+    </item>
     
     <item>
       <title>Research Associate</title>
