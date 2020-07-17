@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Wed, 08 Jul 2020 15:54:22 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>De novo characterization of cell-free DNA fragmentation hotspots boosts the power for early detection and localization of multi-cancer</title>
+      <link>https://epifluidlab.github.io/publication/zhou2020/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/zhou2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graduate student</title>
@@ -217,11 +226,11 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
-- Xiangfei Xie from Immunology graduate program joins EpiFluid Lab as a graduate student. Welcome!
+- Dr. Xionghui Zhou&amp;rsquo;s preprint manuscript on cell-free DNA fragmentation hotspots in early-stage cancer is online at BioRxiv now.
+ Xiangfei Xie from Immunology graduate program joins EpiFluid Lab as a graduate student. Welcome!
  Dr. Haizi Zheng joins EpiFluid Lab as a research associate. Welcome!
  Dr. Yaping Liu is invited to give a labroots webinar by Zymo Research Corp.
- Dr. Yaping Liu is invited to give a talk at UCLA Bioinformatics seminar.
- Our single-cell Methyl-HiC work is highlighted by Nature Method as &amp;ldquo;Method of the Year 2019&amp;rdquo;.</description>
+ Dr. Yaping Liu is invited to give a talk at UCLA Bioinformatics seminar.</description>
     </item>
     
     <item>

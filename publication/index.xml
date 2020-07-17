@@ -6,10 +6,19 @@
     <description>Recent content in Publications on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>De novo characterization of cell-free DNA fragmentation hotspots boosts the power for early detection and localization of multi-cancer</title>
+      <link>https://epifluidlab.github.io/publication/zhou2020/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/zhou2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA</title>
