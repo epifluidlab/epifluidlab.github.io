@@ -235,7 +235,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
-- Dr. Xionghui Zhou&amp;rsquo;s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer&amp;rsquo;s choice (top 10%) by ASHG 2020.
+ Dr. Xionghui Zhou&amp;rsquo;s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer&amp;rsquo;s choice (top 10%) by ASHG 2020.
  Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s work on cell-free DNA fragmentation database is accepted as a poster in ASHG 2020.
  Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s preprint manuscript on cell-free DNA fragmentation database is online at BioRxiv now.</description>
     </item>
@@ -259,8 +259,7 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/software/</guid>
       <description>Softwares 
-- FinaleDB Preprint in BioRxiv now
- A browser and database of cell-free DNA fragmentation patterns.
+ FinaleDB Preprint in BioRxiv now   A browser and database of cell-free DNA fragmentation patterns.
   CRAG Preprint in BioRxiv now   Cell fRee dnA fraGmentation (CRAG): De novo characterization of cell-free DNA fragmentation hotspots.
   CcInference In preparation   Infer DNA methylation level from cfDNA
   Bhmem   Computational pipeline for Methyl-HiC
