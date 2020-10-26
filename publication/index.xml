@@ -6,10 +6,19 @@
     <description>Recent content in Publications on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FinaleDB: a browser and database of cell-free DNA fragmentation patterns</title>
+      <link>https://epifluidlab.github.io/publication/zheng2020/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://epifluidlab.github.io/publication/zheng2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>De novo characterization of cell-free DNA fragmentation hotspots boosts the power for early detection and localization of multi-cancer</title>
