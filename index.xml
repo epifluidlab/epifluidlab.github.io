@@ -6,7 +6,7 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>FinaleDB: a browser and database of cell-free DNA fragmentation patterns</title>
       <link>https://epifluidlab.github.io/publication/zheng2020/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://epifluidlab.github.io/publication/zheng2020/</guid>
       <description></description>
@@ -235,9 +235,9 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
+ Dr. Haizi Zheng and Michelle S. Zhu&amp;rsquo;s work on FinaleDB has been accepted by Bioinformatics! Congratulations!
  Dr. Xionghui Zhou&amp;rsquo;s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer&amp;rsquo;s choice (top 10%) by ASHG 2020.
- Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s work on cell-free DNA fragmentation database is accepted as a poster in ASHG 2020.
- Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s preprint manuscript on cell-free DNA fragmentation database is online at BioRxiv now.</description>
+ Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s work on cell-free DNA fragmentation database is accepted as a poster in ASHG 2020.</description>
     </item>
     
     <item>
