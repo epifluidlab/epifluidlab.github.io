@@ -6,10 +6,19 @@
     <description>Recent content in Members on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Wed, 08 Jul 2020 15:54:22 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 15:53:22 +0600</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High school student research volunteer</title>
+      <link>https://epifluidlab.github.io/member/member12/</link>
+      <pubDate>Mon, 05 Apr 2021 15:53:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member12/</guid>
+      <description>research assistant</description>
+    </item>
     
     <item>
       <title>Graduate student</title>

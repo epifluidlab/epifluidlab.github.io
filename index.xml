@@ -6,10 +6,19 @@
     <description>Recent content on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 15:53:22 +0600</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High school student research volunteer</title>
+      <link>https://epifluidlab.github.io/member/member12/</link>
+      <pubDate>Mon, 05 Apr 2021 15:53:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member12/</guid>
+      <description>research assistant</description>
+    </item>
     
     <item>
       <title>FinaleDB: a browser and database of cell-free DNA fragmentation patterns</title>
@@ -334,10 +343,10 @@ if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsi
       
       <guid>https://epifluidlab.github.io/news/</guid>
       <description>News 
+- Ravi Bandaru joins EpiFluid Lab as a high school research volunteer from Mason High School. Welcome!
  Dr.Yaping Liu received the CCTST Pilot Collaborative Studies Grant award from University of Cincinnati.
  Dr. Haizi Zheng and Michelle S. Zhu&amp;rsquo;s work on FinaleDB has been accepted by Bioinformatics! Congratulations!
- Dr. Xionghui Zhou&amp;rsquo;s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer&amp;rsquo;s choice (top 10%) by ASHG 2020.
- Dr. Haizi Zheng and Michelle Zhu&amp;rsquo;s work on cell-free DNA fragmentation database is accepted as a poster in ASHG 2020.</description>
+ Dr. Xionghui Zhou&amp;rsquo;s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer&amp;rsquo;s choice (top 10%) by ASHG 2020.</description>
     </item>
     
     <item>
