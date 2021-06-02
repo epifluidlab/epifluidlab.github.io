@@ -6,10 +6,28 @@
     <description>Recent content in Members on EpiFluid Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; EpiFluid Lab, 2019 </copyright>
-    <lastBuildDate>Mon, 05 Apr 2021 15:53:22 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 May 2021 15:52:22 +0500</lastBuildDate>
     
 	<atom:link href="https://epifluidlab.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SURF student (2021)</title>
+      <link>https://epifluidlab.github.io/member/member14/</link>
+      <pubDate>Mon, 24 May 2021 15:52:22 +0500</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member14/</guid>
+      <description>Undergradute student in the computer science major from the University of California at Berkeley</description>
+    </item>
+    
+    <item>
+      <title>Rotation student</title>
+      <link>https://epifluidlab.github.io/member/member13/</link>
+      <pubDate>Sat, 08 May 2021 15:54:22 +0600</pubDate>
+      
+      <guid>https://epifluidlab.github.io/member/member13/</guid>
+      <description>Graduate student in Biomedical Informatics program</description>
+    </item>
     
     <item>
       <title>High school student research volunteer</title>
