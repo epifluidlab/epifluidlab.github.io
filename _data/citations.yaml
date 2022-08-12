@@ -1,0 +1,1891 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1038/s41416-021-01635-z
+  title: 'At the dawn: cell-free DNA fragmentomics and gene regulation'
+  authors:
+  - Yaping Liu
+  publisher: British Journal of Cancer
+  date: '2021-11-23'
+  link: https://doi.org/gqndqn
+  image: https://media.springernature.com/full/nature-cms/uploads/product/bjc/header-76ac17391903a21e28f15ff5df31f5fa.svg
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41416-021-01635-z
+  tags:
+  - Review
+  - EpiFluidLab
+  _cache: 6473c88132e6233a979465410ec1fd25f368d8af8abb9f2f47f9b2e761f92a76
+- id: doi:10.1101/2022.03.29.486102
+  title: 'GTAGMe-seq: joint profiling of genetic variants, DNA methylation, GpC methyltransferase
+    footprints, and 3D genome in the same DNA molecules'
+  authors:
+  - Hailu Fu
+  - Haizi Zheng
+  - Louis J. Muglia
+  - Li Wang
+  - Yaping Liu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-30'
+  link: https://doi.org/gqndq6
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/30/2022.03.29.486102/F1.medium.gif
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2022.03.29.486102v1.full
+  - type: source
+    link: https://bitbucket.org/dnaase/bisulfitehic/src/master/
+  tags:
+  - Experimental Methods
+  - Preprint
+  - EpiFluidLab
+  _cache: 6bfd1e454cafe9b884c833db5faa9a5821696da77616b7c5b900e471a1449495
+- id: doi:10.1093/bioinformatics/btaa999
+  title: 'FinaleDB: a browser and database of cell-free DNA fragmentation patterns'
+  authors:
+  - Haizi Zheng
+  - Michelle S Zhu
+  - Yaping Liu
+  publisher: Bioinformatics
+  date: '2020-12-01'
+  link: https://doi.org/gqndq7
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/16/10.1093_bioinformatics_btaa999/1/m_btaa999f1.jpeg?Expires=1663339935&Signature=kIUmaeo8XDm7fzNqNoSCPGIngkghlPrfmIQDf5~yskZGwBpn1wfWJdlzdpq2cL6iJqpoTMbUE5tghFQo5RlQQTGYx84OEA6tPrDT51Yo-edXBI-RjYvKoVM-cDuAtyUkp38oR1es9cVUxl3m-2NXgGegwVl-0S9iP~ESf4d0XE48W11GWIdR6WT1fTZhMEDgMPfvbwkJOsuoZpS7lOOznzX5NmJe-FhZgG9R-EgC-QcURUMYmqSI-4WoAOu5N0OqNsyvDfbBuaHbyda5zqHITLBF9JAF-MtQGJ5ZjelgeY4yupyFLyLN2TCKul0z7a2NEFLWDjuIpdE0P-YWdMIooA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/bioinformatics/article/37/16/2502/6015114
+  - type: website
+    link: http://finaledb.research.cchmc.org/
+    text: Database website
+  - type: source
+    link: https://github.com/epifluidlab/finaledb_portal
+    text: FinaleDB source code
+  - type: source
+    link: https://github.com/epifluidlab/finaledb_workflow
+    text: FinaleDB source code for the computational pipeline
+  tags:
+  - Computational Methods
+  - EpiFluidLab
+  _cache: 6906e5142054a6cd4e23b1ebcb63cc74c2cb57413d80b5e381dfd9a444616439
+- id: doi:10.1038/s41586-020-2449-8
+  title: Perspectives on ENCODE
+  authors:
+  - ' '
+  - Federico Abascal
+  - Reyes Acosta
+  - Nicholas J. Addleman
+  - Jessika Adrian
+  - Veena Afzal
+  - Bronwen Aken
+  - Rizi Ai
+  - Jennifer A. Akiyama
+  - Omar Al Jammal
+  - Henry Amrhein
+  - Stacie M. Anderson
+  - Gregory R. Andrews
+  - Igor Antoshechkin
+  - Kristin G. Ardlie
+  - Joel Armstrong
+  - Matthew Astley
+  - Budhaditya Banerjee
+  - Amira A. Barkal
+  - If H. A. Barnes
+  - Iros Barozzi
+  - Daniel Barrell
+  - Gemma Barson
+  - Daniel Bates
+  - Ulugbek K. Baymuradov
+  - Cassandra Bazile
+  - Michael A. Beer
+  - Samantha Beik
+  - M. A. Bender
+  - Ruth Bennett
+  - Louis Philip Benoit Bouvrette
+  - Bradley E. Bernstein
+  - Andrew Berry
+  - Anand Bhaskar
+  - Alexandra Bignell
+  - Steven M. Blue
+  - David M. Bodine
+  - Carles Boix
+  - Nathan Boley
+  - Tyler Borrman
+  - Beatrice Borsari
+  - Alan P. Boyle
+  - Laurel A. Brandsmeier
+  - Alessandra Breschi
+  - Emery H. Bresnick
+  - Jason A. Brooks
+  - Michael Buckley
+  - Christopher B. Burge
+  - Rachel Byron
+  - Eileen Cahill
+  - Lingling Cai
+  - Lulu Cao
+  - Mark Carty
+  - Rosa G. Castanon
+  - Andres Castillo
+  - Hassan Chaib
+  - Esther T. Chan
+  - Daniel R. Chee
+  - Sora Chee
+  - Hao Chen
+  - Huaming Chen
+  - Jia-Yu Chen
+  - Songjie Chen
+  - J. Michael Cherry
+  - Surya B. Chhetri
+  - Jyoti S. Choudhary
+  - Jacqueline Chrast
+  - Dongjun Chung
+  - Declan Clarke
+  - Neal A. L. Cody
+  - Candice J. Coppola
+  - Julie Coursen
+  - "Anthony M. D\u2019Ippolito"
+  - Stephen Dalton
+  - Cassidy Danyko
+  - Claire Davidson
+  - Jose Davila-Velderrain
+  - Carrie A. Davis
+  - Job Dekker
+  - Alden Deran
+  - Gilberto DeSalvo
+  - Gloria Despacio-Reyes
+  - Colin N. Dewey
+  - Diane E. Dickel
+  - Morgan Diegel
+  - Mark Diekhans
+  - Vishnu Dileep
+  - Bo Ding
+  - Sarah Djebali
+  - Alexander Dobin
+  - Daniel Dominguez
+  - Sarah Donaldson
+  - Jorg Drenkow
+  - Timothy R. Dreszer
+  - Yotam Drier
+  - Michael O. Duff
+  - Douglass Dunn
+  - Catharine Eastman
+  - Joseph R. Ecker
+  - Matthew D. Edwards
+  - Nicole El-Ali
+  - Shaimae I. Elhajjajy
+  - Keri Elkins
+  - Andrew Emili
+  - Charles B. Epstein
+  - Rachel C. Evans
+  - Iakes Ezkurdia
+  - Kaili Fan
+  - Peggy J. Farnham
+  - Nina Farrell
+  - Elise A. Feingold
+  - Anne-Maud Ferreira
+  - Katherine Fisher-Aylor
+  - Stephen Fitzgerald
+  - Paul Flicek
+  - Chuan Sheng Foo
+  - Kevin Fortier
+  - Adam Frankish
+  - Peter Freese
+  - Shaliu Fu
+  - Xiang-Dong Fu
+  - Yu Fu
+  - Yoko Fukuda-Yuzawa
+  - Mariateresa Fulciniti
+  - Alister P. W. Funnell
+  - Idan Gabdank
+  - Timur Galeev
+  - Mingshi Gao
+  - Carlos Garcia Giron
+  - Tyler H. Garvin
+  - Chelsea Anne Gelboin-Burkhart
+  - Grigorios Georgolopoulos
+  - Mark B. Gerstein
+  - Belinda M. Giardine
+  - David K. Gifford
+  - David M. Gilbert
+  - Daniel A. Gilchrist
+  - Shawn Gillespie
+  - Thomas R. Gingeras
+  - Peng Gong
+  - Alvaro Gonzalez
+  - Jose M. Gonzalez
+  - Peter Good
+  - Alon Goren
+  - David U. Gorkin
+  - Brenton R. Graveley
+  - Michael Gray
+  - Jack F. Greenblatt
+  - Ed Griffiths
+  - Mark T. Groudine
+  - Fabian Grubert
+  - Mengting Gu
+  - "Roderic Guig\xF3"
+  - Hongbo Guo
+  - Yu Guo
+  - Yuchun Guo
+  - Gamze Gursoy
+  - Maria Gutierrez-Arcelus
+  - Jessica Halow
+  - Ross C. Hardison
+  - Matthew Hardy
+  - Manoj Hariharan
+  - Arif Harmanci
+  - Anne Harrington
+  - Jennifer L. Harrow
+  - Tatsunori B. Hashimoto
+  - Richard D. Hasz
+  - Meital Hatan
+  - Eric Haugen
+  - James E. Hayes
+  - Peng He
+  - Yupeng He
+  - Nastaran Heidari
+  - David Hendrickson
+  - Elisabeth F. Heuston
+  - Jason A. Hilton
+  - Benjamin C. Hitz
+  - Abigail Hochman
+  - Cory Holgren
+  - Lei Hou
+  - Shuyu Hou
+  - Yun-Hua E. Hsiao
+  - Shanna Hsu
+  - Hui Huang
+  - Tim J. Hubbard
+  - Jack Huey
+  - Timothy R. Hughes
+  - Toby Hunt
+  - Sean Ibarrientos
+  - Robbyn Issner
+  - Mineo Iwata
+  - Osagie Izuogu
+  - Tommi Jaakkola
+  - Nader Jameel
+  - Camden Jansen
+  - Lixia Jiang
+  - Peng Jiang
+  - Audra Johnson
+  - Rory Johnson
+  - Irwin Jungreis
+  - Madhura Kadaba
+  - Maya Kasowski
+  - Mary Kasparian
+  - Momoe Kato
+  - Rajinder Kaul
+  - Trupti Kawli
+  - Michael Kay
+  - Judith C. Keen
+  - Sunduz Keles
+  - Cheryl A. Keller
+  - David Kelley
+  - Manolis Kellis
+  - Pouya Kheradpour
+  - Daniel Sunwook Kim
+  - Anthony Kirilusha
+  - Robert J. Klein
+  - Birgit Knoechel
+  - Samantha Kuan
+  - Michael J. Kulik
+  - Sushant Kumar
+  - Anshul Kundaje
+  - Tanya Kutyavin
+  - Julien Lagarde
+  - Bryan R. Lajoie
+  - Nicole J. Lambert
+  - John Lazar
+  - Ah Young Lee
+  - Donghoon Lee
+  - Elizabeth Lee
+  - Jin Wook Lee
+  - Kristen Lee
+  - Christina S. Leslie
+  - Shawn Levy
+  - Bin Li
+  - Hairi Li
+  - Nan Li
+  - Shantao Li
+  - Xiangrui Li
+  - Yang I. Li
+  - Ying Li
+  - Yining Li
+  - Yue Li
+  - Jin Lian
+  - Maxwell W. Libbrecht
+  - Shin Lin
+  - Yiing Lin
+  - Dianbo Liu
+  - Jason Liu
+  - Peng Liu
+  - Tingting Liu
+  - X. Shirley Liu
+  - Yan Liu
+  - Yaping Liu
+  - Maria Long
+  - Shaoke Lou
+  - Jane Loveland
+  - Aiping Lu
+  - Yuheng Lu
+  - "Eric L\xE9cuyer"
+  - Lijia Ma
+  - Mark Mackiewicz
+  - Brandon J. Mannion
+  - Michael Mannstadt
+  - Deepa Manthravadi
+  - Georgi K. Marinov
+  - Fergal J. Martin
+  - Eugenio Mattei
+  - Kenneth McCue
+  - Megan McEown
+  - Graham McVicker
+  - Sarah K. Meadows
+  - Alex Meissner
+  - Eric M. Mendenhall
+  - Christopher L. Messer
+  - Wouter Meuleman
+  - Clifford Meyer
+  - Steve Miller
+  - Matthew G. Milton
+  - Tejaswini Mishra
+  - Dianna E. Moore
+  - Helen M. Moore
+  - Jill E. Moore
+  - Samuel H. Moore
+  - Jennifer Moran
+  - Ali Mortazavi
+  - Jonathan M. Mudge
+  - Nikhil Munshi
+  - Rabi Murad
+  - Richard M. Myers
+  - Vivek Nandakumar
+  - Preetha Nandi
+  - Anil M. Narasimha
+  - Aditi K. Narayanan
+  - Hannah Naughton
+  - Fabio C. P. Navarro
+  - Patrick Navas
+  - Jurijs Nazarovs
+  - Jemma Nelson
+  - Shane Neph
+  - Fidencio Jun Neri
+  - Joseph R. Nery
+  - Amy R. Nesmith
+  - J. Scott Newberry
+  - Kimberly M. Newberry
+  - Vu Ngo
+  - Rosy Nguyen
+  - Thai B. Nguyen
+  - Tung Nguyen
+  - Andrew Nishida
+  - William S. Noble
+  - Catherine S. Novak
+  - Eva Maria Novoa
+  - "Briana Nu\xF1ez"
+  - "Charles W. O\u2019Donnell"
+  - Sara Olson
+  - Kathrina C. Onate
+  - Ericka Otterman
+  - Hakan Ozadam
+  - Michael Pagan
+  - Tsultrim Palden
+  - Xinghua Pan
+  - Yongjin Park
+  - E. Christopher Partridge
+  - Benedict Paten
+  - Florencia Pauli-Behn
+  - Michael J. Pazin
+  - Baikang Pei
+  - Len A. Pennacchio
+  - Alexander R. Perez
+  - Emily H. Perry
+  - Dmitri D. Pervouchine
+  - Nishigandha N. Phalke
+  - Quan Pham
+  - Doug H. Phanstiel
+  - Ingrid Plajzer-Frick
+  - Gabriel A. Pratt
+  - Henry E. Pratt
+  - Sebastian Preissl
+  - Jonathan K. Pritchard
+  - Yuri Pritykin
+  - Michael J. Purcaro
+  - Qian Qin
+  - Giovanni Quinones-Valdez
+  - Ines Rabano
+  - Ernest Radovani
+  - Anil Raj
+  - Nisha Rajagopal
+  - Oren Ram
+  - Lucia Ramirez
+  - Ricardo N. Ramirez
+  - Dylan Rausch
+  - Soumya Raychaudhuri
+  - Joseph Raymond
+  - Rozita Razavi
+  - Timothy E. Reddy
+  - Thomas M. Reimonn
+  - Bing Ren
+  - Alexandre Reymond
+  - Alex Reynolds
+  - Suhn K. Rhie
+  - John Rinn
+  - Miguel Rivera
+  - Juan Carlos Rivera-Mulia
+  - Brian Roberts
+  - Jose Manuel Rodriguez
+  - Joel Rozowsky
+  - Russell Ryan
+  - Eric Rynes
+  - Denis N. Salins
+  - Richard Sandstrom
+  - Takayo Sasaki
+  - Shashank Sathe
+  - Daniel Savic
+  - Alexandra Scavelli
+  - Jonathan Scheiman
+  - Christoph Schlaffner
+  - Jeffery A. Schloss
+  - Frank W. Schmitges
+  - Lei Hoon See
+  - Anurag Sethi
+  - Manu Setty
+  - Anthony Shafer
+  - Shuo Shan
+  - Eilon Sharon
+  - Quan Shen
+  - Yin Shen
+  - Richard I. Sherwood
+  - Minyi Shi
+  - Sunyoung Shin
+  - Noam Shoresh
+  - Kyle Siebenthall
+  - Cristina Sisu
+  - Teri Slifer
+  - Cricket A. Sloan
+  - Anna Smith
+  - Valentina Snetkova
+  - Michael P. Snyder
+  - Damek V. Spacek
+  - Sharanya Srinivasan
+  - Rohith Srivas
+  - George Stamatoyannopoulos
+  - John A. Stamatoyannopoulos
+  - Rebecca Stanton
+  - Dave Steffan
+  - Sandra Stehling-Sun
+  - J. Seth Strattan
+  - Amanda Su
+  - Balaji Sundararaman
+  - Marie-Marthe Suner
+  - Tahin Syed
+  - Matt Szynkarek
+  - Forrest Y. Tanaka
+  - Danielle Tenen
+  - Mingxiang Teng
+  - Jeffrey A. Thomas
+  - Dave Toffey
+  - Michael L. Tress
+  - Diane E. Trout
+  - Gosia Trynka
+  - Junko Tsuji
+  - Sean A. Upchurch
+  - Oana Ursu
+  - Barbara Uszczynska-Ratajczak
+  - Mia C. Uziel
+  - Alfonso Valencia
+  - Benjamin Van Biber
+  - Arjan G. van der Velde
+  - Eric L. Van Nostrand
+  - Yekaterina Vaydylevich
+  - Jesus Vazquez
+  - Alec Victorsen
+  - Jost Vielmetter
+  - Jeff Vierstra
+  - Axel Visel
+  - Anna Vlasova
+  - Christopher M. Vockley
+  - Simona Volpi
+  - Shinny Vong
+  - Hao Wang
+  - Mengchi Wang
+  - Qin Wang
+  - Ruth Wang
+  - Tao Wang
+  - Wei Wang
+  - Xiaofeng Wang
+  - Yanli Wang
+  - Nathaniel K. Watson
+  - Xintao Wei
+  - Zhijie Wei
+  - Hendrik Weisser
+  - Sherman M. Weissman
+  - Rene Welch
+  - Robert E. Welikson
+  - Zhiping Weng
+  - Harm-Jan Westra
+  - John W. Whitaker
+  - Collin White
+  - Kevin P. White
+  - Andre Wildberg
+  - Brian A. Williams
+  - David Wine
+  - Heather N. Witt
+  - Barbara Wold
+  - Maxim Wolf
+  - James Wright
+  - Rui Xiao
+  - Xinshu Xiao
+  - Jie Xu
+  - Jinrui Xu
+  - Koon-Kiu Yan
+  - Yongqi Yan
+  - Hongbo Yang
+  - Xinqiong Yang
+  - Yi-Wen Yang
+  - "Galip G\xFCrkan Yard\u0131mc\u0131"
+  - Brian A. Yee
+  - Gene W. Yeo
+  - Taylor Young
+  - Tianxiong Yu
+  - Feng Yue
+  - Chris Zaleski
+  - Chongzhi Zang
+  - Haoyang Zeng
+  - Weihua Zeng
+  - Daniel R. Zerbino
+  - Jie Zhai
+  - Lijun Zhan
+  - Ye Zhan
+  - Bo Zhang
+  - Jialing Zhang
+  - Jing Zhang
+  - Kai Zhang
+  - Lijun Zhang
+  - Peng Zhang
+  - Qi Zhang
+  - Xiao-Ou Zhang
+  - Yanxiao Zhang
+  - Zhizhuo Zhang
+  - Yuan Zhao
+  - Ye Zheng
+  - Guoqing Zhong
+  - Xiao-Qiao Zhou
+  - Yun Zhu
+  - Jared Zimmerman
+  - Michael P. Snyder
+  - Thomas R. Gingeras
+  - Jill E. Moore
+  - Zhiping Weng
+  - Mark B. Gerstein
+  - Bing Ren
+  - Ross C. Hardison
+  - John A. Stamatoyannopoulos
+  - Brenton R. Graveley
+  - Elise A. Feingold
+  - Michael J. Pazin
+  - Michael Pagan
+  - Daniel A. Gilchrist
+  - Benjamin C. Hitz
+  - J. Michael Cherry
+  - Bradley E. Bernstein
+  - Eric M. Mendenhall
+  - Daniel R. Zerbino
+  - Adam Frankish
+  - Paul Flicek
+  - Richard M. Myers
+  publisher: Nature
+  date: '2020-07-29'
+  link: https://doi.org/gg6dhm
+  image: https://media.springernature.com/w580h326/nature-cms/uploads/collections/NSUP_Cov1-8a789cb352586f4994750d169523aa03.jpg
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41586-020-2449-8
+  tags:
+  - Consortium Paper
+  _cache: 619bf306c73507909f230106e986e06b38cc710077786fbd04ff9c9ba65e1563
+- id: doi:10.1038/s41586-020-2493-4
+  title: Expanded encyclopaedias of DNA elements in the human and mouse genomes
+  authors:
+  - ' '
+  - Federico Abascal
+  - Reyes Acosta
+  - Nicholas J. Addleman
+  - Jessika Adrian
+  - Veena Afzal
+  - Rizi Ai
+  - Bronwen Aken
+  - Jennifer A. Akiyama
+  - Omar Al Jammal
+  - Henry Amrhein
+  - Stacie M. Anderson
+  - Gregory R. Andrews
+  - Igor Antoshechkin
+  - Kristin G. Ardlie
+  - Joel Armstrong
+  - Matthew Astley
+  - Budhaditya Banerjee
+  - Amira A. Barkal
+  - If H. A. Barnes
+  - Iros Barozzi
+  - Daniel Barrell
+  - Gemma Barson
+  - Daniel Bates
+  - Ulugbek K. Baymuradov
+  - Cassandra Bazile
+  - Michael A. Beer
+  - Samantha Beik
+  - M. A. Bender
+  - Ruth Bennett
+  - Louis Philip Benoit Bouvrette
+  - Bradley E. Bernstein
+  - Andrew Berry
+  - Anand Bhaskar
+  - Alexandra Bignell
+  - Steven M. Blue
+  - David M. Bodine
+  - Carles Boix
+  - Nathan Boley
+  - Tyler Borrman
+  - Beatrice Borsari
+  - Alan P. Boyle
+  - Laurel A. Brandsmeier
+  - Alessandra Breschi
+  - Emery H. Bresnick
+  - Jason A. Brooks
+  - Michael Buckley
+  - Christopher B. Burge
+  - Rachel Byron
+  - Eileen Cahill
+  - Lingling Cai
+  - Lulu Cao
+  - Mark Carty
+  - Rosa G. Castanon
+  - Andres Castillo
+  - Hassan Chaib
+  - Esther T. Chan
+  - Daniel R. Chee
+  - Sora Chee
+  - Hao Chen
+  - Huaming Chen
+  - Jia-Yu Chen
+  - Songjie Chen
+  - J. Michael Cherry
+  - Surya B. Chhetri
+  - Jyoti S. Choudhary
+  - Jacqueline Chrast
+  - Dongjun Chung
+  - Declan Clarke
+  - Neal A. L. Cody
+  - Candice J. Coppola
+  - Julie Coursen
+  - "Anthony M. D\u2019Ippolito"
+  - Stephen Dalton
+  - Cassidy Danyko
+  - Claire Davidson
+  - Jose Davila-Velderrain
+  - Carrie A. Davis
+  - Job Dekker
+  - Alden Deran
+  - Gilberto DeSalvo
+  - Gloria Despacio-Reyes
+  - Colin N. Dewey
+  - Diane E. Dickel
+  - Morgan Diegel
+  - Mark Diekhans
+  - Vishnu Dileep
+  - Bo Ding
+  - Sarah Djebali
+  - Alexander Dobin
+  - Daniel Dominguez
+  - Sarah Donaldson
+  - Jorg Drenkow
+  - Timothy R. Dreszer
+  - Yotam Drier
+  - Michael O. Duff
+  - Douglass Dunn
+  - Catharine Eastman
+  - Joseph R. Ecker
+  - Matthew D. Edwards
+  - Nicole El-Ali
+  - Shaimae I. Elhajjajy
+  - Keri Elkins
+  - Andrew Emili
+  - Charles B. Epstein
+  - Rachel C. Evans
+  - Iakes Ezkurdia
+  - Kaili Fan
+  - Peggy J. Farnham
+  - Nina P. Farrell
+  - Elise A. Feingold
+  - Anne-Maud Ferreira
+  - Katherine Fisher-Aylor
+  - Stephen Fitzgerald
+  - Paul Flicek
+  - Chuan Sheng Foo
+  - Kevin Fortier
+  - Adam Frankish
+  - Peter Freese
+  - Shaliu Fu
+  - Xiang-Dong Fu
+  - Yu Fu
+  - Yoko Fukuda-Yuzawa
+  - Mariateresa Fulciniti
+  - Alister P. W. Funnell
+  - Idan Gabdank
+  - Timur Galeev
+  - Mingshi Gao
+  - Carlos Garcia Giron
+  - Tyler H. Garvin
+  - Chelsea Anne Gelboin-Burkhart
+  - Grigorios Georgolopoulos
+  - Mark B. Gerstein
+  - Belinda M. Giardine
+  - David K. Gifford
+  - David M. Gilbert
+  - Daniel A. Gilchrist
+  - Shawn Gillespie
+  - Thomas R. Gingeras
+  - Peng Gong
+  - Alvaro Gonzalez
+  - Jose M. Gonzalez
+  - Peter Good
+  - Alon Goren
+  - David U. Gorkin
+  - Brenton R. Graveley
+  - Michael Gray
+  - Jack F. Greenblatt
+  - Ed Griffiths
+  - Mark T. Groudine
+  - Fabian Grubert
+  - Mengting Gu
+  - "Roderic Guig\xF3"
+  - Hongbo Guo
+  - Yu Guo
+  - Yuchun Guo
+  - Gamze Gursoy
+  - Maria Gutierrez-Arcelus
+  - Jessica Halow
+  - Ross C. Hardison
+  - Matthew Hardy
+  - Manoj Hariharan
+  - Arif Harmanci
+  - Anne Harrington
+  - Jennifer L. Harrow
+  - Tatsunori B. Hashimoto
+  - Richard D. Hasz
+  - Meital Hatan
+  - Eric Haugen
+  - James E. Hayes
+  - Peng He
+  - Yupeng He
+  - Nastaran Heidari
+  - David Hendrickson
+  - Elisabeth F. Heuston
+  - Jason A. Hilton
+  - Benjamin C. Hitz
+  - Abigail Hochman
+  - Cory Holgren
+  - Lei Hou
+  - Shuyu Hou
+  - Yun-Hua E. Hsiao
+  - Shanna Hsu
+  - Hui Huang
+  - Tim J. Hubbard
+  - Jack Huey
+  - Timothy R. Hughes
+  - Toby Hunt
+  - Sean Ibarrientos
+  - Robbyn Issner
+  - Mineo Iwata
+  - Osagie Izuogu
+  - Tommi Jaakkola
+  - Nader Jameel
+  - Camden Jansen
+  - Lixia Jiang
+  - Peng Jiang
+  - Audra Johnson
+  - Rory Johnson
+  - Irwin Jungreis
+  - Madhura Kadaba
+  - Maya Kasowski
+  - Mary Kasparian
+  - Momoe Kato
+  - Rajinder Kaul
+  - Trupti Kawli
+  - Michael Kay
+  - Judith C. Keen
+  - Sunduz Keles
+  - Cheryl A. Keller
+  - David Kelley
+  - Manolis Kellis
+  - Pouya Kheradpour
+  - Daniel Sunwook Kim
+  - Anthony Kirilusha
+  - Robert J. Klein
+  - Birgit Knoechel
+  - Samantha Kuan
+  - Michael J. Kulik
+  - Sushant Kumar
+  - Anshul Kundaje
+  - Tanya Kutyavin
+  - Julien Lagarde
+  - Bryan R. Lajoie
+  - Nicole J. Lambert
+  - John Lazar
+  - Ah Young Lee
+  - Donghoon Lee
+  - Elizabeth Lee
+  - Jin Wook Lee
+  - Kristen Lee
+  - Christina S. Leslie
+  - Shawn Levy
+  - Bin Li
+  - Hairi Li
+  - Nan Li
+  - Shantao Li
+  - Xiangrui Li
+  - Yang I. Li
+  - Ying Li
+  - Yining Li
+  - Yue Li
+  - Jin Lian
+  - Maxwell W. Libbrecht
+  - Shin Lin
+  - Yiing Lin
+  - Dianbo Liu
+  - Jason Liu
+  - Peng Liu
+  - Tingting Liu
+  - X. Shirley Liu
+  - Yan Liu
+  - Yaping Liu
+  - Maria Long
+  - Shaoke Lou
+  - Jane Loveland
+  - Aiping Lu
+  - Yuheng Lu
+  - "Eric L\xE9cuyer"
+  - Lijia Ma
+  - Mark Mackiewicz
+  - Brandon J. Mannion
+  - Michael Mannstadt
+  - Deepa Manthravadi
+  - Georgi K. Marinov
+  - Fergal J. Martin
+  - Eugenio Mattei
+  - Kenneth McCue
+  - Megan McEown
+  - Graham McVicker
+  - Sarah K. Meadows
+  - Alex Meissner
+  - Eric M. Mendenhall
+  - Christopher L. Messer
+  - Wouter Meuleman
+  - Clifford Meyer
+  - Steve Miller
+  - Matthew G. Milton
+  - Tejaswini Mishra
+  - Dianna E. Moore
+  - Helen M. Moore
+  - Jill E. Moore
+  - Samuel H. Moore
+  - Jennifer Moran
+  - Ali Mortazavi
+  - Jonathan M. Mudge
+  - Nikhil Munshi
+  - Rabi Murad
+  - Richard M. Myers
+  - Vivek Nandakumar
+  - Preetha Nandi
+  - Anil M. Narasimha
+  - Aditi K. Narayanan
+  - Hannah Naughton
+  - Fabio C. P. Navarro
+  - Patrick Navas
+  - Jurijs Nazarovs
+  - Jemma Nelson
+  - Shane Neph
+  - Fidencio Jun Neri
+  - Joseph R. Nery
+  - Amy R. Nesmith
+  - J. Scott Newberry
+  - Kimberly M. Newberry
+  - Vu Ngo
+  - Rosy Nguyen
+  - Thai B. Nguyen
+  - Tung Nguyen
+  - Andrew Nishida
+  - William S. Noble
+  - Catherine S. Novak
+  - Eva Maria Novoa
+  - "Briana Nu\xF1ez"
+  - "Charles W. O\u2019Donnell"
+  - Sara Olson
+  - Kathrina C. Onate
+  - Ericka Otterman
+  - Hakan Ozadam
+  - Michael Pagan
+  - Tsultrim Palden
+  - Xinghua Pan
+  - Yongjin Park
+  - E. Christopher Partridge
+  - Benedict Paten
+  - Florencia Pauli-Behn
+  - Michael J. Pazin
+  - Baikang Pei
+  - Len A. Pennacchio
+  - Alexander R. Perez
+  - Emily H. Perry
+  - Dmitri D. Pervouchine
+  - Nishigandha N. Phalke
+  - Quan Pham
+  - Doug H. Phanstiel
+  - Ingrid Plajzer-Frick
+  - Gabriel A. Pratt
+  - Henry E. Pratt
+  - Sebastian Preissl
+  - Jonathan K. Pritchard
+  - Yuri Pritykin
+  - Michael J. Purcaro
+  - Qian Qin
+  - Giovanni Quinones-Valdez
+  - Ines Rabano
+  - Ernest Radovani
+  - Anil Raj
+  - Nisha Rajagopal
+  - Oren Ram
+  - Lucia Ramirez
+  - Ricardo N. Ramirez
+  - Dylan Rausch
+  - Soumya Raychaudhuri
+  - Joseph Raymond
+  - Rozita Razavi
+  - Timothy E. Reddy
+  - Thomas M. Reimonn
+  - Bing Ren
+  - Alexandre Reymond
+  - Alex Reynolds
+  - Suhn K. Rhie
+  - John Rinn
+  - Miguel Rivera
+  - Juan Carlos Rivera-Mulia
+  - Brian S. Roberts
+  - Jose Manuel Rodriguez
+  - Joel Rozowsky
+  - Russell Ryan
+  - Eric Rynes
+  - Denis N. Salins
+  - Richard Sandstrom
+  - Takayo Sasaki
+  - Shashank Sathe
+  - Daniel Savic
+  - Alexandra Scavelli
+  - Jonathan Scheiman
+  - Christoph Schlaffner
+  - Jeffery A. Schloss
+  - Frank W. Schmitges
+  - Lei Hoon See
+  - Anurag Sethi
+  - Manu Setty
+  - Anthony Shafer
+  - Shuo Shan
+  - Eilon Sharon
+  - Quan Shen
+  - Yin Shen
+  - Richard I. Sherwood
+  - Minyi Shi
+  - Sunyoung Shin
+  - Noam Shoresh
+  - Kyle Siebenthall
+  - Cristina Sisu
+  - Teri Slifer
+  - Cricket A. Sloan
+  - Anna Smith
+  - Valentina Snetkova
+  - Michael P. Snyder
+  - Damek V. Spacek
+  - Sharanya Srinivasan
+  - Rohith Srivas
+  - George Stamatoyannopoulos
+  - John A. Stamatoyannopoulos
+  - Rebecca Stanton
+  - Dave Steffan
+  - Sandra Stehling-Sun
+  - J. Seth Strattan
+  - Amanda Su
+  - Balaji Sundararaman
+  - Marie-Marthe Suner
+  - Tahin Syed
+  - Matt Szynkarek
+  - Forrest Y. Tanaka
+  - Danielle Tenen
+  - Mingxiang Teng
+  - Jeffrey A. Thomas
+  - Dave Toffey
+  - Michael L. Tress
+  - Diane E. Trout
+  - Gosia Trynka
+  - Junko Tsuji
+  - Sean A. Upchurch
+  - Oana Ursu
+  - Barbara Uszczynska-Ratajczak
+  - Mia C. Uziel
+  - Alfonso Valencia
+  - Benjamin Van Biber
+  - Arjan G. van der Velde
+  - Eric L. Van Nostrand
+  - Yekaterina Vaydylevich
+  - Jesus Vazquez
+  - Alec Victorsen
+  - Jost Vielmetter
+  - Jeff Vierstra
+  - Axel Visel
+  - Anna Vlasova
+  - Christopher M. Vockley
+  - Simona Volpi
+  - Shinny Vong
+  - Hao Wang
+  - Mengchi Wang
+  - Qin Wang
+  - Ruth Wang
+  - Tao Wang
+  - Wei Wang
+  - Xiaofeng Wang
+  - Yanli Wang
+  - Nathaniel K. Watson
+  - Xintao Wei
+  - Zhijie Wei
+  - Hendrik Weisser
+  - Sherman M. Weissman
+  - Rene Welch
+  - Robert E. Welikson
+  - Zhiping Weng
+  - Harm-Jan Westra
+  - John W. Whitaker
+  - Collin White
+  - Kevin P. White
+  - Andre Wildberg
+  - Brian A. Williams
+  - David Wine
+  - Heather N. Witt
+  - Barbara Wold
+  - Maxim Wolf
+  - James Wright
+  - Rui Xiao
+  - Xinshu Xiao
+  - Jie Xu
+  - Jinrui Xu
+  - Koon-Kiu Yan
+  - Yongqi Yan
+  - Hongbo Yang
+  - Xinqiong Yang
+  - Yi-Wen Yang
+  - "Galip G\xFCrkan Yard\u0131mc\u0131"
+  - Brian A. Yee
+  - Gene W. Yeo
+  - Taylor Young
+  - Tianxiong Yu
+  - Feng Yue
+  - Chris Zaleski
+  - Chongzhi Zang
+  - Haoyang Zeng
+  - Weihua Zeng
+  - Daniel R. Zerbino
+  - Jie Zhai
+  - Lijun Zhan
+  - Ye Zhan
+  - Bo Zhang
+  - Jialing Zhang
+  - Jing Zhang
+  - Kai Zhang
+  - Lijun Zhang
+  - Peng Zhang
+  - Qi Zhang
+  - Xiao-Ou Zhang
+  - Yanxiao Zhang
+  - Zhizhuo Zhang
+  - Yuan Zhao
+  - Ye Zheng
+  - Guoqing Zhong
+  - Xiao-Qiao Zhou
+  - Yun Zhu
+  - Jared Zimmerman
+  - Jill E. Moore
+  - Michael J. Purcaro
+  - Henry E. Pratt
+  - Charles B. Epstein
+  - Noam Shoresh
+  - Jessika Adrian
+  - Trupti Kawli
+  - Carrie A. Davis
+  - Alexander Dobin
+  - Rajinder Kaul
+  - Jessica Halow
+  - Eric L. Van Nostrand
+  - Peter Freese
+  - David U. Gorkin
+  - Yin Shen
+  - Yupeng He
+  - Mark Mackiewicz
+  - Florencia Pauli-Behn
+  - Brian A. Williams
+  - Ali Mortazavi
+  - Cheryl A. Keller
+  - Xiao-Ou Zhang
+  - Shaimae I. Elhajjajy
+  - Jack Huey
+  - Diane E. Dickel
+  - Valentina Snetkova
+  - Xintao Wei
+  - Xiaofeng Wang
+  - Juan Carlos Rivera-Mulia
+  - Joel Rozowsky
+  - Jing Zhang
+  - Surya B. Chhetri
+  - Jialing Zhang
+  - Alec Victorsen
+  - Kevin P. White
+  - Axel Visel
+  - Gene W. Yeo
+  - Christopher B. Burge
+  - "Eric L\xE9cuyer"
+  - David M. Gilbert
+  - Job Dekker
+  - John Rinn
+  - Eric M. Mendenhall
+  - Joseph R. Ecker
+  - Manolis Kellis
+  - Robert J. Klein
+  - William S. Noble
+  - Anshul Kundaje
+  - "Roderic Guig\xF3"
+  - Peggy J. Farnham
+  - J. Michael Cherry
+  - Richard M. Myers
+  - Bing Ren
+  - Brenton R. Graveley
+  - Mark B. Gerstein
+  - Len A. Pennacchio
+  - Michael P. Snyder
+  - Bradley E. Bernstein
+  - Barbara Wold
+  - Ross C. Hardison
+  - Thomas R. Gingeras
+  - John A. Stamatoyannopoulos
+  - Zhiping Weng
+  publisher: Nature
+  date: '2020-07-29'
+  link: https://doi.org/gg6dhk
+  image: https://media.springernature.com/w580h326/nature-cms/uploads/collections/NSUP_Cov1-8a789cb352586f4994750d169523aa03.jpg
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41586-020-2493-4
+  tags:
+  - Consortium Paper
+  _cache: 012e4aee8ec559a2f4d2aa2a8313111322497c810223cb518632366d122bad16
+- id: doi:10.1101/2020.07.16.201350
+  title: 'CRAG: <i>De novo</i> characterization of cell-free DNA fragmentation hotspots
+    in plasma whole-genome sequencing'
+  authors:
+  - Xionghui Zhou
+  - Haizi Zheng
+  - Hailu Fu
+  - Kelsey L. Dillehay McKillip
+  - Susan M. Pinney
+  - Yaping Liu
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-16'
+  link: https://doi.org/gj34gz
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/07/29/2020.07.16.201350/F1.medium.gif
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2020.07.16.201350v2.full
+  - type: source
+    link: https://github.com/epifluidlab/cragr
+    text: CRAG source code
+  tags:
+  - Computational Methods
+  - Preprint
+  - EpiFluidLab
+  _cache: 503cdc4dd7a6e02ca41700d5a390af2f4a3683d3dd750951b9ab14ccd62ca57a
+- id: doi:10.1186/s12885-019-6003-8
+  title: Machine learning enables detection of early-stage colorectal cancer by whole-genome
+    sequencing of plasma cell-free DNA
+  authors:
+  - Nathan Wan
+  - David Weinberg
+  - Tzu-Yu Liu
+  - Katherine Niehaus
+  - Eric A. Ariazi
+  - Daniel Delubac
+  - Ajay Kannan
+  - Brandon White
+  - Mitch Bailey
+  - Marvin Bertin
+  - Nathan Boley
+  - Derek Bowen
+  - James Cregg
+  - Adam M. Drake
+  - Riley Ennis
+  - Signe Fransen
+  - Erik Gafni
+  - Loren Hansen
+  - Yaping Liu
+  - Gabriel L. Otte
+  - Jennifer Pecson
+  - Brandon Rice
+  - Gabriel E. Sanderson
+  - Aarushi Sharma
+  - John St. John
+  - Catherina Tang
+  - Abraham Tzou
+  - Leilani Young
+  - Girish Putcha
+  - Imran S. Haque
+  publisher: BMC Cancer
+  date: '2019-08-23'
+  link: https://doi.org/gg5rvb
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12885-019-6003-8/MediaObjects/12885_2019_6003_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1186/s12885-019-6003-8
+  tags:
+  - Computational Methods
+  - Data Analysis
+  _cache: 931248c4f7bce276c53467f7a8642d62c4dd077b6f7cf55b5cd53ccf5d0500eb
+- id: doi:10.1038/s41592-019-0502-z
+  title: Joint profiling of DNA methylation and chromatin architecture in single cells
+  authors:
+  - Guoqiang Li
+  - Yaping Liu
+  - Yanxiao Zhang
+  - Naoki Kubo
+  - Miao Yu
+  - Rongxin Fang
+  - Manolis Kellis
+  - Bing Ren
+  publisher: Nature Methods
+  date: '2019-08-05'
+  link: https://doi.org/gf6rgp
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0502-z/MediaObjects/41592_2019_502_Fig3_HTML.png?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765429/
+  - type: source
+    link: https://bitbucket.org/dnaase/bisulfitehic/src/master
+    text: Bhmem source code
+  tags:
+  - Experimental Methods
+  - EpiFluidLab
+  _cache: b354813283e1c1bef5d72d706e8293c494913444a6fd9b9f6f2cf21d704a51a6
+- id: doi:10.1101/564773
+  title: Spatial co-fragmentation pattern of cell-free DNA recapitulates<i>in vivo</i>chromatin
+    organization and identifies tissues-of-origin
+  authors:
+  - Yaping Liu
+  - Tzu-Yu Liu
+  - David E. Weinberg
+  - Brandon W. White
+  - Chris J. De La Torre
+  - Catherine L. Tan
+  - Anthony D. Schmitt
+  - Siddarth Selvaraj
+  - Vy Tran
+  - Louise C. Laurent
+  - Luc Cabel
+  - "Fran\xE7ois-Cl\xE9ment Bidard"
+  - Girish Putcha
+  - Imran S. Haque
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-10-23'
+  link: https://doi.org/gkw5nt
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/23/564773/F2.medium.gif
+  extra-links:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/564773v3.full
+  tags:
+  - Computational Methods
+  - Preprint
+  - EpiFluidLab
+  _cache: 7c05806a38df6c45c42df3b2842c03a45a65f041c5835d46b3d4d27107cc22dd
+- id: doi:10.1038/s41588-018-0154-4
+  title: Using an atlas of gene regulation across 44 human tissues to inform complex
+    disease- and trait-associated variation
+  authors:
+  - Eric R. Gamazon
+  - ' '
+  - "Ayellet V. Segr\xE8"
+  - Martijn van de Bunt
+  - Xiaoquan Wen
+  - Hualin S. Xi
+  - Farhad Hormozdiari
+  - Halit Ongen
+  - Anuar Konkashbaev
+  - Eske M. Derks
+  - "Fran\xE7ois Aguet"
+  - Jie Quan
+  - Dan L. Nicolae
+  - Eleazar Eskin
+  - Manolis Kellis
+  - Gad Getz
+  - Mark I. McCarthy
+  - Emmanouil T. Dermitzakis
+  - Nancy J. Cox
+  - Kristin G. Ardlie
+  publisher: Nature Genetics
+  date: '2018-06-28'
+  link: https://doi.org/gdvz8m
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-018-0154-4/MediaObjects/41588_2018_154_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41588-018-0154-4
+  tags:
+  - Consortium Paper
+  _cache: dd212ab1782887119ac6e2e4ffbad610683a75dc37057741cb44e8b9308419aa
+- id: doi:10.1038/s41467-018-03621-1
+  title: Exploring the phenotypic consequences of tissue specific gene expression
+    variation inferred from GWAS summary statistics
+  authors:
+  - Alvaro N. Barbeira
+  - ' '
+  - Scott P. Dickinson
+  - Rodrigo Bonazzola
+  - Jiamao Zheng
+  - Heather E. Wheeler
+  - Jason M. Torres
+  - Eric S. Torstenson
+  - Kaanan P. Shah
+  - Tzintzuni Garcia
+  - Todd L. Edwards
+  - Eli A. Stahl
+  - Laura M. Huckins
+  - Dan L. Nicolae
+  - Nancy J. Cox
+  - Hae Kyung Im
+  publisher: Nature Communications
+  date: '2018-05-08'
+  link: https://doi.org/gdjvp5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-03621-1/MediaObjects/41467_2018_3621_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41467-018-03621-1
+  tags:
+  - Consortium Paper
+  _cache: 397fe64e4ee7e78588cd0d687946548cd7bad8e0d6ef6b1c10ff6d3dbe3eb384
+- id: doi:10.1038/ng.3981
+  title: Estimating the causal tissues for complex traits and diseases
+  authors:
+  - Halit Ongen
+  - ' '
+  - Andrew A Brown
+  - Olivier Delaneau
+  - Nikolaos I Panousis
+  - Alexandra C Nica
+  - Emmanouil T Dermitzakis
+  publisher: Nature Genetics
+  date: '2017-10-23'
+  link: https://doi.org/ggrr72
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.3981/MediaObjects/41588_2017_Article_BFng3981_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/ng.3981
+  tags:
+  - Consortium Paper
+  _cache: 479b563c73fbc7d2b9b09f2596d6266c2ea04cfdf2791874f32c8b6bbb77aa63
+- id: doi:10.1186/s13059-017-1308-x
+  title: Evidence of reduced recombination rate in human regulatory domains
+  authors:
+  - Yaping Liu
+  - Abhishek Sarkar
+  - Pouya Kheradpour
+  - Jason Ernst
+  - Manolis Kellis
+  publisher: Genome Biology
+  date: '2017-10-20'
+  link: https://doi.org/ggr842
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-017-1308-x/MediaObjects/13059_2017_1308_Fig1_HTML.gif?as=webp
+  extra-links:
+  - type: journal
+    link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1308-x
+  - type: source
+    link: https://github.com/dnaase/Bis-tools/tree/master/recombination_valley_paper
+    text: Recombination valley source code
+  tags:
+  - Data Analysis
+  - EpiFluidLab
+  _cache: a61ed6f70b153e7d6fe857b7a3bb3cc67c01ddda7adc446c176149270a44d17b
+- id: doi:10.1101/gr.216754.116
+  title: Identifying <i>cis</i>-mediators for <i>trans</i>-eQTLs across many human
+    tissues using genomic mediation analysis
+  authors:
+  - Fan Yang
+  - Jiebiao Wang
+  - Brandon L. Pierce
+  - Lin S. Chen
+  - ' '
+  publisher: Genome Research
+  date: '2017-10-11'
+  link: https://doi.org/gd6gh4
+  image: https://genome.cshlp.org/content/genome/27/11/1859/F1.small.gif
+  extra-links:
+  - type: journal
+    link: https://genome.cshlp.org/content/genome/27/11/1859.full.html
+  tags:
+  - Consortium Paper
+  _cache: 14480ba79d92f78c652e54faf5545b878b1172307d688aca011adc8d5b9fa486
+- id: doi:10.1101/gr.216721.116
+  title: Co-expression networks reveal the tissue-specific regulation of transcription
+    and splicing
+  authors:
+  - Ashis Saha
+  - Yungil Kim
+  - Ariel D.H. Gewirtz
+  - Brian Jo
+  - Chuan Gao
+  - Ian C. McDowell
+  - Barbara E. Engelhardt
+  - Alexis Battle
+  - ' '
+  publisher: Genome Research
+  date: '2017-10-11'
+  link: https://doi.org/gb2qx6
+  image: https://genome.cshlp.org/content/27/11/1843/F1.small.gif
+  extra-links:
+  - type: journal
+    link: https://genome.cshlp.org/content/27/11/1843.full
+  tags:
+  - Consortium Paper
+  _cache: a2023c79d8c568bc79bcfdf92670ce09fdbecc5d6adb035fdcbc12165a6f7072
+- id: doi:10.1093/hmg/ddx312
+  title: Cell identity bookmarking through heterogeneous chromatin landscape maintenance
+    during the cell cycle
+  authors:
+  - Huaibing Luo
+  - Yanping Xi
+  - Wei Li
+  - Jin Li
+  - Yan Li
+  - Shihua Dong
+  - Lina Peng
+  - Yaping Liu
+  - Wenqiang Yu
+  publisher: Human Molecular Genetics
+  date: '2017-08-07'
+  link: https://doi.org/gchdnp
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/26/21/10.1093_hmg_ddx312/1/m_ddx312f1.jpeg?Expires=1663343697&Signature=bSZvvC-a6v8oZdZukWeXX-oBGsl7ebIPl5gj44azMiX7SSfl652rHmkCg7vdqJzT-Z9E84XzQcoxtDxRUGk7nX8VUnVtfKkl0IIsIjI2sUosRaU3c9IBPKInJQ-X92nE0VYhtRWeFbwA0iKR0VTSvcXLquDFKouiOnpj8eSQXxzCRqA6uVJPvoXujLvbWKb5hEBTL-gOEQuyUgW-dvs3GgyLqxoBysitxSN1mrgevktjxOkcdzKRlWdFjHa5f3JapIWxAkV~5oH3XO134B1Hs6rkvJ-r1u9l~7Oi03PeMLOeNNL3yxw4TL8hqlVQfKmuYuMWQxs669w~2CVH2rLpwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/hmg/article/26/21/4231/4072616
+  _cache: 756fa1132f4e060be72b2c0f20123738a25d5e6bb0eb5fc7f884e70e66fbd57d
+- id: doi:10.1038/nature24277
+  title: Genetic effects on gene expression across human tissues
+  authors:
+  - ' '
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2nqv
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/nature24277
+  tags:
+  - Consortium Paper
+  _cache: 7f8c92c700f6a146c92c0fc1d797251f102bb8eac8c722b2784ce646e19682fe
+- id: doi:10.1038/ng.3969
+  title: Enhancing GTEx by bridging the gaps between genotype, gene expression, and
+    disease
+  authors:
+  - ' '
+  publisher: Nature Genetics
+  date: '2017-10-11'
+  link: https://doi.org/gfws5x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.3969/MediaObjects/41588_2017_Article_BFng3969_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/ng.3969
+  tags:
+  - Consortium Paper
+  _cache: 66e7aa1037185de6a3b5922a290df4b15f1cb19ba2363b6f7b2ad9acaf620782
+- id: doi:10.1038/nature24267
+  title: The impact of rare variation on gene expression across tissues
+  authors:
+  - Xin Li
+  - ' '
+  - Yungil Kim
+  - Emily K. Tsang
+  - Joe R. Davis
+  - Farhan N. Damani
+  - Colby Chiang
+  - Gaelen T. Hess
+  - Zachary Zappala
+  - Benjamin J. Strober
+  - Alexandra J. Scott
+  - Amy Li
+  - Andrea Ganna
+  - Michael C. Bassik
+  - Jason D. Merker
+  - Ira M. Hall
+  - Alexis Battle
+  - Stephen B. Montgomery
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2tc8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24267/MediaObjects/41586_2017_Article_BFnature24267_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/nature24267?sf121330069=1
+  tags:
+  - Consortium Paper
+  _cache: 997b08be93754e9435296045c3c49abb67ac1690bd9cf731e4698df1c3cb1e37
+- id: doi:10.1038/nature24265
+  title: Landscape of X chromosome inactivation across human tissues
+  authors:
+  - Taru Tukiainen
+  - ' '
+  - "Alexandra-Chlo\xE9 Villani"
+  - Angela Yen
+  - Manuel A. Rivas
+  - Jamie L. Marshall
+  - Rahul Satija
+  - Matt Aguirre
+  - Laura Gauthier
+  - Mark Fleharty
+  - Andrew Kirby
+  - Beryl B. Cummings
+  - Stephane E. Castel
+  - Konrad J. Karczewski
+  - "Fran\xE7ois Aguet"
+  - Andrea Byrnes
+  - Tuuli Lappalainen
+  - Aviv Regev
+  - Kristin G. Ardlie
+  - Nir Hacohen
+  - Daniel G. MacArthur
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2sjq
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24265/MediaObjects/41586_2017_Article_BFnature24265_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/nature24265?sf122377809=1
+  tags:
+  - Consortium Paper
+  _cache: 7160df7fd5eb75157ecd5b8f2deaa3f712122c75e9bb4c195e3c7f1c53b00a82
+- id: doi:10.1038/nature24041
+  title: Dynamic landscape and regulation of RNA editing in mammals
+  authors:
+  - Meng How Tan
+  - ' '
+  - Qin Li
+  - Raghuvaran Shanmugam
+  - Robert Piskol
+  - Jennefer Kohler
+  - Amy N. Young
+  - Kaiwen Ivy Liu
+  - Rui Zhang
+  - Gokul Ramaswami
+  - Kentaro Ariyoshi
+  - Ankita Gupte
+  - Liam P. Keegan
+  - Cyril X. George
+  - Avinash Ramu
+  - Ni Huang
+  - Elizabeth A. Pollina
+  - Dena S. Leeman
+  - Alessandra Rustighi
+  - Y. P. Sharon Goh
+  - Ajay Chawla
+  - Giannino Del Sal
+  - Gary Peltz
+  - Anne Brunet
+  - Donald F. Conrad
+  - Charles E. Samuel
+  - "Mary A. O\u2019Connell"
+  - Carl R. Walkley
+  - Kazuko Nishikura
+  - Jin Billy Li
+  publisher: Nature
+  date: '2017-10-12'
+  link: https://doi.org/gb2qv5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/nature24041
+  tags:
+  - Consortium Paper
+  _cache: 2ce8f836eaa3668e28e6e6eec0d8f914664c3d9d09a72546ec5198b09d792eb8
+- id: doi:10.1007/s12263-015-0461-7
+  title: 'Oral administration of Lactobacillus plantarum 299v modulates gene expression
+    in the ileum of pigs: prediction of crosstalk between intestinal immune cells
+    and sub-mucosal adipocytes'
+  authors:
+  - Marcel Hulst
+  - Gabriele Gross
+  - Yaping Liu
+  - Arjan Hoekman
+  - Theo Niewold
+  - Jan van der Meulen
+  - Mari Smits
+  publisher: Genes &amp; Nutrition
+  date: '2015-04-11'
+  link: https://doi.org/gqnd8j
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12263-015-0461-7/MediaObjects/12263_2015_461_Fig1_HTML.gif?as=webp
+  extra-links:
+  - type: journal
+    link: https://genesandnutrition.biomedcentral.com/articles/10.1007/s12263-015-0461-7
+  _cache: f3e7cb3137761a88bdad3fa5077cc154d08543db491d5cf88253672e2ded1ba1
+- id: doi:10.1101/gr.183368.114
+  title: The role of DNA methylation in directing the functional organization of the
+    cancer epigenome
+  authors:
+  - Fides D. Lay
+  - Yaping Liu
+  - Theresa K. Kelly
+  - Heather Witt
+  - Peggy J. Farnham
+  - Peter A. Jones
+  - Benjamin P. Berman
+  publisher: Genome Research
+  date: '2015-03-06'
+  link: https://doi.org/f67k4n
+  image: https://genome.cshlp.org/content/25/4/467/F1.small.gif
+  extra-links:
+  - type: journal
+    link: https://genome.cshlp.org/content/25/4/467.full
+  - type: source
+    link: https://github.com/dnaase/Bis-tools
+    text: Source code
+  tags:
+  - Data Analysis
+  - EpiFluidLab
+  _cache: e148442e6c03044e82665eb71a3b4c158602aad1513f4b1704e95d7ba2c434d9
+- id: doi:10.1038/nature14248
+  title: Integrative analysis of 111 reference human epigenomes
+  authors:
+  - Anshul Kundaje
+  - ' '
+  - Wouter Meuleman
+  - Jason Ernst
+  - Misha Bilenky
+  - Angela Yen
+  - Alireza Heravi-Moussavi
+  - Pouya Kheradpour
+  - Zhizhuo Zhang
+  - Jianrong Wang
+  - Michael J. Ziller
+  - Viren Amin
+  - John W. Whitaker
+  - Matthew D. Schultz
+  - Lucas D. Ward
+  - Abhishek Sarkar
+  - Gerald Quon
+  - Richard S. Sandstrom
+  - Matthew L. Eaton
+  - Yi-Chieh Wu
+  - Andreas R. Pfenning
+  - Xinchen Wang
+  - Melina Claussnitzer
+  - Yaping Liu
+  - Cristian Coarfa
+  - R. Alan Harris
+  - Noam Shoresh
+  - Charles B. Epstein
+  - Elizabeta Gjoneska
+  - Danny Leung
+  - Wei Xie
+  - R. David Hawkins
+  - Ryan Lister
+  - Chibo Hong
+  - Philippe Gascard
+  - Andrew J. Mungall
+  - Richard Moore
+  - Eric Chuah
+  - Angela Tam
+  - Theresa K. Canfield
+  - R. Scott Hansen
+  - Rajinder Kaul
+  - Peter J. Sabo
+  - Mukul S. Bansal
+  - Annaick Carles
+  - Jesse R. Dixon
+  - Kai-How Farh
+  - Soheil Feizi
+  - Rosa Karlic
+  - Ah-Ram Kim
+  - Ashwinikumar Kulkarni
+  - Daofeng Li
+  - Rebecca Lowdon
+  - GiNell Elliott
+  - Tim R. Mercer
+  - Shane J. Neph
+  - Vitor Onuchic
+  - Paz Polak
+  - Nisha Rajagopal
+  - Pradipta Ray
+  - Richard C. Sallari
+  - Kyle T. Siebenthall
+  - Nicholas A. Sinnott-Armstrong
+  - Michael Stevens
+  - Robert E. Thurman
+  - Jie Wu
+  - Bo Zhang
+  - Xin Zhou
+  - Arthur E. Beaudet
+  - Laurie A. Boyer
+  - Philip L. De Jager
+  - Peggy J. Farnham
+  - Susan J. Fisher
+  - David Haussler
+  - Steven J. M. Jones
+  - Wei Li
+  - Marco A. Marra
+  - Michael T. McManus
+  - Shamil Sunyaev
+  - James A. Thomson
+  - Thea D. Tlsty
+  - Li-Huei Tsai
+  - Wei Wang
+  - Robert A. Waterland
+  - Michael Q. Zhang
+  - Lisa H. Chadwick
+  - Bradley E. Bernstein
+  - Joseph F. Costello
+  - Joseph R. Ecker
+  - Martin Hirst
+  - Alexander Meissner
+  - Aleksandar Milosavljevic
+  - Bing Ren
+  - John A. Stamatoyannopoulos
+  - Ting Wang
+  - Manolis Kellis
+  publisher: Nature
+  date: '2015-02-18'
+  link: https://doi.org/f62jpn
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature14248/MediaObjects/41586_2015_Article_BFnature14248_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/nature14248
+  tags:
+  - Consortium Paper
+  _cache: 9333029f8f91af8e6cf92a01668958bcedb74f6310d96462eca218dfff41ca97
+- id: doi:10.1101/gr.143008.112
+  title: Genome-wide mapping of nucleosome positioning and DNA methylation within
+    individual DNA molecules
+  authors:
+  - Theresa K. Kelly
+  - Yaping Liu
+  - Fides D. Lay
+  - Gangning Liang
+  - Benjamin P. Berman
+  - Peter A. Jones
+  publisher: Genome Research
+  date: '2012-09-07'
+  link: https://doi.org/f4f6g9
+  image: https://genome.cshlp.org/content/22/12/2497/F1.small.gif
+  extra-links:
+  - type: journal
+    link: https://genome.cshlp.org/content/22/12/2497.full
+  - type: source
+    link: http://sourceforge.net/projects/uecgatk/
+    text: Source code
+  tags:
+  - Experimental Methods
+  - EpiFluidLab
+  _cache: 8fcb1e7da932c034e9d1a34f08e68b4455a667727b8d85ed25f6deae47564c0c
+- id: doi:10.1186/gb-2012-13-7-r61
+  title: 'Bis-SNP: Combined DNA methylation and SNP calling for Bisulfite-seq data'
+  authors:
+  - Yaping Liu
+  - Kimberly D Siegmund
+  - Peter W Laird
+  - Benjamin P Berman
+  publisher: Genome Biology
+  date: '2012-01-01'
+  link: https://doi.org/gn9sd5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2012-13-7-r61/MediaObjects/13059_2012_Article_2899_Fig2_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-7-r61
+  - type: source
+    link: https://people.csail.mit.edu/dnaase/bissnp2011/
+    text: Source code
+  tags:
+  - Computational Methods
+  - EpiFluidLab
+  _cache: 1c3a22a8f59ec101dfcb10541ac8b5756f0e933e0ca746b2d7721831d2c34d20
+- id: doi:10.1038/ng.969
+  title: "Regions of focal DNA hypermethylation and long-range hypomethylation in\
+    \ colorectal cancer coincide with nuclear lamina\u2013associated domains"
+  authors:
+  - Benjamin P Berman
+  - Daniel J Weisenberger
+  - Joseph F Aman
+  - Toshinori Hinoue
+  - Zachary Ramjan
+  - Yaping Liu
+  - Houtan Noushmehr
+  - Christopher P E Lange
+  - Cornelis M van Dijk
+  - Rob A E M Tollenaar
+  - David Van Den Berg
+  - Peter W Laird
+  publisher: Nature Genetics
+  date: '2011-11-27'
+  link: https://doi.org/fxdg5t
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.969/MediaObjects/41588_2012_Article_BFng969_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/ng.969
+  _cache: aadf590141201c677435f87b8deab4d6fbb6fa21c97bf938a12fa49789623f2a
+- id: doi:10.1186/gb-2009-10-7-r78
+  title: Identification and characterization of novel amphioxus microRNAs by Solexa
+    sequencing
+  authors:
+  - Xi Chen
+  - Qibin Li
+  - Jin Wang
+  - Xing Guo
+  - Xiangrui Jiang
+  - Zhiji Ren
+  - Chunyue Weng
+  - Guoxun Sun
+  - Xiuqiang Wang
+  - Yaping Liu
+  - Lijia Ma
+  - Jun-Yuan Chen
+  - Jun Wang
+  - Ke Zen
+  - Junfeng Zhang
+  - Chen-Yu Zhang
+  publisher: Genome Biology
+  date: '2009-01-01'
+  link: https://doi.org/fp4wgv
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2009-10-7-r78/MediaObjects/13059_2009_Article_2228_Fig1_HTML.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1186/gb-2009-10-7-r78
+  _cache: 11feb558d44a808a3538bcb5946b21f9fc92dfbfd71206e7cd1cf917cd014c15
+- id: doi:10.1016/j.jhep.2008.10.034
+  title: 'HDMCP uncouples yeast mitochondrial respiration and alleviates steatosis
+    in L02 and hepG2 cells by decreasing ATP and H2O2 levels: A novel mechanism for
+    NAFLD'
+  authors:
+  - Xi Jin
+  - Yi-da Yang
+  - Kun Chen
+  - Zhi-yuan Lv
+  - Lin Zheng
+  - Ya-ping Liu
+  - Shao-hua Chen
+  - Chao-hui Yu
+  - Xue-yuan Jiang
+  - Cheng-yu Zhang
+  - You-ming Li
+  publisher: Journal of Hepatology
+  date: '2009-05-01'
+  link: https://doi.org/dztbnr
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827809X00048-cov200h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0168827808008052
+  _cache: e40389ddeecc471257a868ae290f9bccf300ebe6a696069e5b5ac0971e8ceb65

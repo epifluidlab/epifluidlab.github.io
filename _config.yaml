@@ -1,0 +1,79 @@
+### basic settings
+
+# site properties and page defaults
+title: EpiFluid Lab
+subtitle: The dark matter of the genome -- Understand the non-coding genetic variants by multi-omics inside and outside the cells.
+description: We are epigenomics and computational biology lab within the Division of Human Genetics and Biomedical Informatics in the Cincinnati Children’s Hospital Medical Center (CCHMC) and also part of the Department of Pediatrics in University of Cincinnati College of Medicine.
+logo: images/logo.epifluid.png
+logo-text: true
+header: none
+header-dark: true
+footer: none
+footer-dark: true
+baseurl: ""
+
+# site social media and other links
+links:
+  email: Yaping.Liu@cchmc.org
+  google-scholar: Yaping Liu
+  github: epifluidlab
+  twitter: yapingliu
+  orcid: 0000-0003-4165-7693
+  linkedin: yaping-liu-b746541a
+  #instagram: none
+  #youtube: none
+
+### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null

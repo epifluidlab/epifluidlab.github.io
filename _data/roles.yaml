@@ -1,0 +1,27 @@
+pi:
+  icon: fas fa-microscope
+  text: Principal Investigator
+
+vis:
+  icon: fas fa-microscope
+  text: Visiting Assistant Professor
+
+postdoc:
+  icon: fas fa-glasses
+  text: Postdoctoral Researcher
+
+phd:
+  icon: fas fa-graduation-cap
+  text: PhD Student
+
+undergrad:
+  icon: fas fa-user-graduate
+  text: Undergraduate Student
+
+programmer:
+  icon: fas fa-code
+  text: Programmer
+
+mascot:
+  icon: fas fa-dog
+  text: Mascot

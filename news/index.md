@@ -1,0 +1,78 @@
+---
+title: News
+nav:
+  order: 5
+  tooltip: Published works
+---
+
+- 08/01/2022: Dr. Yaping Liu received the Maximizing Investigators' Research Award (MIRA) (R35) for the next five years from NIGMS.
+
+- 06/07/2022: Dr. Yaping Liu received the Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children’s Hospital Medical Center for single-cell multi-omics.
+
+- 06/01/2022: Congrats to Michelle Zhu, who did the SURF program here in 2019 summer. She is admitted to the MD program at UT Southwestern in Dallas!
+
+- 06/01/2022: Congrats to Rosalyn Liou, who did the SURF program here in 2019 summer. She is admitted to the MD program at the University of Toledo!
+
+- 05/23/2022: Congrats to Ravi Bandaru, he is admitted to Penn State University graduating in 2025 and Sidney Kimmel Medical College graduating in 2029!!
+
+- 07/26/2021: Dr. Yaping Liu received the MOMI pilot grant from Bill & Melinda Gates Foundation for the cfDNA study in preterm birth.
+
+- 07/20/2021: Kyle Van Blaricom from University of Cincinnati joins us as an undergraduate intern. Welcome!
+
+- 07/07/2021: Dr. Yaping Liu received the innovation grant from CCHMC for the screening of early-stage cancers by cell-free DNA fragmentation patterns.
+
+- 07/07/2021: Alison Jarmas from Dr. Rafi Kopan's lab joins us as a co-advised graduate student. Welcome!
+
+- 05/23/2021: Ken Chen from UC Berkley joins us as a SURF student (2021). Welcome!
+
+- 04/16/2021: Juechen Yang joins us as a rotation student. Welcome!
+
+- 03/12/2021: Ravi Bandaru joins EpiFluid Lab as a high school research volunteer from Mason High School. Welcome!
+
+- 01/04/2021 Dr.Yaping Liu received the CCTST Pilot Collaborative Studies Grant award from University of Cincinnati for the study of cfDNA in early-stage cancers.
+
+- 11/16/2020: Dr. Haizi Zheng and Michelle S. Zhu’s work on FinaleDB is accepted by Bioinformatics! Congratulations!
+
+- 08/31/2020: Dr. Xionghui Zhou’s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer’s choice (top 10%) by ASHG 2020.
+
+- 08/31/2020: Dr. Haizi Zheng and Michelle Zhu’s work on cell-free DNA fragmentation database is accepted as a poster in ASHG 2020.
+
+- 08/24/2020: Dr. Haizi Zheng and Michelle Zhu’s preprint manuscript on cell-free DNA fragmentation database is online at BioRxiv now.
+
+- 08/04/2020: Dr. Yaping Liu is invited to give a virtual talk at Broad Institute.
+
+- 07/16/2020: Dr. Xionghui Zhou’s preprint manuscript on cell-free DNA fragmentation hotspots in early-stage cancer is online at BioRxiv now.
+
+- 07/08/2020: Xiangfei Xie from Immunology graduate program joins EpiFluid Lab as a rotation graduate student. Welcome!
+
+- 04/15/2020: Dr. Yaping Liu is invited to give a labroots webinar by Zymo Research Corp.
+
+- 02/14/2020: Dr. Haizi Zheng joins EpiFluid Lab as a research associate. Welcome!
+
+- 02/10/2020: Dr. Yaping Liu is invited to give a talk at [UCLA Bioinformatics seminar](https://bioinformatics.ucla.edu/seminars/).
+
+- 01/07/2020: Our single-cell Methyl-HiC work is highlighted by Nature Method as “Method of the Year 2019”.
+
+- 10/14/2019: Long Hu joins EpiFluid Lab as a research assistant. Welcome!
+
+- 08/21/2019: David Paulding joins EpiFluid Lab as a rotation graduate student from MDB program for 2019 fall. Welcome!
+
+- 08/21/2019: Dzhamal Sarvalov joins EpiFluid Lab as an undergraduate research volunteer from University of Cincinnati. Welcome!
+
+- 06/24/2019: Dr. Yaping Liu received Trustee Award from Cincinnati Children’s Research Foundation for cell-free DNA work.
+
+- 06/20/2019: Our paper on single-cell Methyl-HiC is accepted by Nature Methods! Dr. Yaping Liu is the co-first author of the paper for the computational analysis. This technology allows us to jointly profile DNA methylation and 3D genome in a same single cell.
+
+- 06/10/2019: Ava Norton joins EpiFluid Lab as an intern high school student for 2019 summer. Welcome!
+
+- 05/31/2019: Rosalyn Liou and Michelle Zhu join EpiFluid Lab as SURF students for 2019 summer. Welcome!
+
+- 04/24/2019: Dr. Yaping Liu received Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children’s Hospital Medical Center for single-cell multi-omics.
+
+- 04/01/2019: Dr. Hailu Fu joins EpiFluid Lab as a research fellow. Welcome!
+
+- 04/01/2019: Dr. Xionghui Zhou joins EpiFluid Lab as a research fellow. Welcome!
+
+- 03/01/2019: Our paper on using cfDNA WGS to infer 3D genome and tissues-of-origin is online at BioRxiv now! This is a team work done with Freenome Inc.
+
+- 01/14/2019: EpiFluid Lab officially starts at CCHMC
