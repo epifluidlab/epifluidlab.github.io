@@ -47,4 +47,4 @@ Routine screening in the average-risk population provides the opportunity to det
 
 # Funding
 
-Our work is currently (and was previously) supported by **NIH** (R35GM147283, R01HG011411), **NSF** (XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), **The Center for Clinical and Translational Science and Training** (Mentored Pilot Translational Award), and **Cincinnati Children’s Research Foundation** (Innovation Fund, Trustee Award, Center for Pediatric Genomics Award, and Yaping Liu's start-up).
+Our work is currently (and was previously) supported by **NIH** (R35GM147283, R56HG012360, R01HG011411), **NSF** (XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), **The Center for Clinical and Translational Science and Training** (Mentored Pilot Translational Award), and **Cincinnati Children’s Research Foundation** (Innovation Fund, Trustee Award, Center for Pediatric Genomics Award, and Yaping Liu's start-up).

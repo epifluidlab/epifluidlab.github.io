@@ -5,9 +5,11 @@ nav:
   tooltip: Published works
 ---
 
+- 09/20/2022: Dr. Yaping Liu received the High Priority, Short-Term Project Award (R56) from NHGRI for our cell-free DNA work!
+
 - 08/25/2022: Drs. Hailu Fu and Li Wang’s work on single-molecule GTAGMe-seq is selected as the reviewer’s choice (top 10% of total abstracts) by ASHG 2022!
 
-- 08/01/2022: Dr. Yaping Liu received the Maximizing Investigators' Research Award (MIRA) (R35) for the next five years from NIGMS.
+- 08/01/2022: Dr. Yaping Liu received the Maximizing Investigators' Research Award (MIRA) (R35) from NIGMS for the next five years of single-cell multi-omics work!
 
 - 06/07/2022: Dr. Yaping Liu received the Center for Pediatric Genomics (CPG) Pilot Award from Cincinnati Children’s Hospital Medical Center for single-cell multi-omics.
 
