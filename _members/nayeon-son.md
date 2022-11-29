@@ -4,8 +4,8 @@ image: images/nayeonson.jpg
 description: Rotation PhD student from MDB
 role: phd
 aliases:
-  - H. Fu
-  - H Fu
+  - N. Son
+  - N Son
 links:
   email: Nayeon.Son@cchmc.org
 ---
