@@ -4,6 +4,9 @@ nav:
   order: 5
   tooltip: Published works
 ---
+- 11/28/2022: Nayeon Son from MDB program joins us as a rotation student. Welcome!
+
+- 11/14/2022: Our paper on cell-free DNA fragmentation hotspot is accepted by Genome Medicine (CRAG: De novo characterization of cell-free DNA fragmentation hotspots in plasma whole-genome sequencing)! Drs. Xionghui Zhou, Haizi Zheng, and Hailu FU are the joint first authors of the paper. This is a collaboration project with Dr. Kelsey L. Dillehay McKillip from UC Biorepository and Dr. Susan M. Pinney from UC FCC cohort. Congratulations to all! This computational approach will allow us to de novo characterize the cfDNA fragmentation hotspots, which are highly enriched in open chromatin regions within the cells. Hotspots detection will not only boost the performance for the disease diagnosis and prognosis but also enable us to explore the fine-scale gene-regulatory aberrations from cfDNA. 
 
 - 09/20/2022: Dr. Yaping Liu received the High Priority, Short-Term Project Award (R56) from NHGRI for our cell-free DNA work!
 
@@ -18,6 +21,8 @@ nav:
 - 06/01/2022: Congrats to Rosalyn Liou, who did the SURF program here in 2019 summer. She is admitted to the MD program at the University of Toledo!
 
 - 05/23/2022: Congrats to Ravi Bandaru, he is admitted to Penn State University graduating in 2025 and Sidney Kimmel Medical College graduating in 2029!!
+
+- 11/03/2021: Our review paper on cell-free DNA fragmentation pattern is accepted by British Journal of Cancer (At the dawn: cell-free DNA fragmentomics and gene regulation)!
 
 - 07/26/2021: Dr. Yaping Liu received the MOMI pilot grant from Bill & Melinda Gates Foundation for the cfDNA study in preterm birth.
 
@@ -35,7 +40,7 @@ nav:
 
 - 01/04/2021 Dr.Yaping Liu received the CCTST Pilot Collaborative Studies Grant award from University of Cincinnati for the study of cfDNA in early-stage cancers.
 
-- 11/16/2020: Dr. Haizi Zheng and Michelle S. Zhu’s work on FinaleDB is accepted by Bioinformatics! Congratulations!
+- 11/16/2020: Dr. Haizi Zheng and Michelle S. Zhu’s work on FinaleDB is accepted by Bioinformatics! Congratulations! FinaleDB is a database and browser for the cell-free DNA fragmentation.
 
 - 08/31/2020: Dr. Xionghui Zhou’s work on cell-free DNA fragmentation hotspots in cancer early detection is selected as poster talk (presentation time: 5:50pm EST, 10/27/2020) and reviewer’s choice (top 10%) by ASHG 2020.
 

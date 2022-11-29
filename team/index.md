@@ -29,6 +29,12 @@ nav:
   filters="role: postdoc"
 %}
 {%
+include list.html
+data="members"
+component="portrait"
+filters="role: phd"
+%}
+{%
   include list.html
   data="members"
   component="portrait"
