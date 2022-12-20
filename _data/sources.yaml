@@ -1,3 +1,15 @@
+- id: doi:10.1186/s13073-022-01141-8
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-022-01141-8/MediaObjects/13073_2022_1141_Fig1_HTML.png?as=webp
+  extra-links:
+    - type: journal
+      link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8
+    - type: source
+      link: https://github.com/epifluidlab/cragr
+      text: CRAG source code
+  tags:
+    - Computational Methods
+    - EpiFluidLab
+
 - id: doi:10.1038/s41416-021-01635-z
   image: https://media.springernature.com/full/nature-cms/uploads/product/bjc/header-76ac17391903a21e28f15ff5df31f5fa.svg
   extra-links:
@@ -20,7 +32,7 @@
     - EpiFluidLab
 
 - id: doi:10.1093/bioinformatics/btaa999
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/16/10.1093_bioinformatics_btaa999/1/m_btaa999f1.jpeg?Expires=1663339935&Signature=kIUmaeo8XDm7fzNqNoSCPGIngkghlPrfmIQDf5~yskZGwBpn1wfWJdlzdpq2cL6iJqpoTMbUE5tghFQo5RlQQTGYx84OEA6tPrDT51Yo-edXBI-RjYvKoVM-cDuAtyUkp38oR1es9cVUxl3m-2NXgGegwVl-0S9iP~ESf4d0XE48W11GWIdR6WT1fTZhMEDgMPfvbwkJOsuoZpS7lOOznzX5NmJe-FhZgG9R-EgC-QcURUMYmqSI-4WoAOu5N0OqNsyvDfbBuaHbyda5zqHITLBF9JAF-MtQGJ5ZjelgeY4yupyFLyLN2TCKul0z7a2NEFLWDjuIpdE0P-YWdMIooA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/291832836/btaa999f1.tif
   extra-links:
     - type: journal
       link: https://academic.oup.com/bioinformatics/article/37/16/2502/6015114
@@ -52,20 +64,6 @@
       link: https://www.nature.com/articles/s41586-020-2493-4
   tags:
     - Consortium Paper
-
-
-- id: doi:10.1101/2020.07.16.201350
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/07/29/2020.07.16.201350/F1.medium.gif
-  extra-links:
-    - type: preprint
-      link: https://www.biorxiv.org/content/10.1101/2020.07.16.201350v2.full
-    - type: source
-      link: https://github.com/epifluidlab/cragr
-      text: CRAG source code
-  tags:
-    - Computational Methods
-    - Preprint
-    - EpiFluidLab
 
 - id: doi:10.1186/s12885-019-6003-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12885-019-6003-8/MediaObjects/12885_2019_6003_Fig1_HTML.png?as=webp

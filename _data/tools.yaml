@@ -1,7 +1,7 @@
 - title: FinaleDB
   subtitle: A browser and database of cell-free DNA fragmentation patterns
   group: featured
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/16/10.1093_bioinformatics_btaa999/1/m_btaa999f1.jpeg?Expires=1663269791&Signature=o2eVG5Bl4sc2mXLGIs2v-L5QX0bF7TyD9nXuj34ZHii3WnlNQtaXYy-g8NZ-pibv8kQZ31nOB0FR0RG0jROM7vHuCGo-pVvN39RfPzMEI9XfggrOLh4WzWinQHtXDF4xxejykeK~5nDZwKQEi4PvXgEpWV8puZipij-H0YHO0qZTAkmmD0AddQV8jCSyCwLWBpp32W879oeo1dQ9S0fQmJQ9dOIoVdYDGQm1Bjrc2p9667OajdHN7NvymYI3FW9aSCKC9izH7veCtvp~RtNisi2lqmH-jAYtsLvAnq6sxgdJKsoSL93vOIL-TFV0zDSN0wK52iUsZjfXx~odN1UqFQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/291832836/btaa999f1.tif
   link: http://finaledb.research.cchmc.org/
   description: We collected thousands of uniformly processed and curated de-identified cfDNA WGS datasets across different pathological conditions. FinaleDB comes with a fragmentation genome browser, from which users can seamlessly integrate thousands of other omics data in different cell types to experience a comprehensive view of both gene-regulatory landscape and cfDNA fragmentation patterns.
   repo: epifluidlab/finaledb_workflow
@@ -12,8 +12,8 @@
 - title: CRAG
   subtitle: De novo characterization of cell-free DNA fragmentation hotspots
   group: featured
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/07/29/2020.07.16.201350/F1.large.jpg?width=800&height=600&carousel=1
-  link: https://doi.org/10.1101/2020.07.16.201350
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-022-01141-8/MediaObjects/13073_2022_1141_Fig1_HTML.png?as=webp
+  link: https://doi.org/10.1186/s13073-022-01141-8
   description: We developed an approach to de novo characterize the cfDNA fragmentation hotspots from whole-genome sequencing. In healthy, cfDNA fragmentation hotspots are highly enriched in gene-regulatory elements, especially open chromatin regions from hematopoietic cells. The results highlight the significance of de novo characterizing the cell-free DNA fragmentation hotspots for detecting early-stage cancers and dissection of gene-regulatory aberrations in cancers.
   repo: epifluidlab/cragr
   tags:

@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s13073-022-01141-8
+  title: 'CRAG: de novo characterization of cell-free DNA fragmentation hotspots in
+    plasma whole-genome sequencing'
+  authors:
+  - Xionghui Zhou
+  - Haizi Zheng
+  - Hailu Fu
+  - Kelsey L. Dillehay McKillip
+  - Susan M. Pinney
+  - Yaping Liu
+  publisher: Genome Medicine
+  date: '2022-12-08'
+  link: https://doi.org/grhs2j
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-022-01141-8/MediaObjects/13073_2022_1141_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: journal
+    link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8
+  - type: source
+    link: https://github.com/epifluidlab/cragr
+    text: CRAG source code
+  tags:
+  - Computational Methods
+  - EpiFluidLab
+  _cache: 42559c45d0fc40e26e59330f1baed999cb0849d05a7a6fd412614e9627946284
 - id: doi:10.1038/s41416-021-01635-z
   title: 'At the dawn: cell-free DNA fragmentomics and gene regulation'
   authors:
@@ -48,7 +72,7 @@
   publisher: Bioinformatics
   date: '2020-12-01'
   link: https://doi.org/gqndq7
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/37/16/10.1093_bioinformatics_btaa999/1/m_btaa999f1.jpeg?Expires=1663339935&Signature=kIUmaeo8XDm7fzNqNoSCPGIngkghlPrfmIQDf5~yskZGwBpn1wfWJdlzdpq2cL6iJqpoTMbUE5tghFQo5RlQQTGYx84OEA6tPrDT51Yo-edXBI-RjYvKoVM-cDuAtyUkp38oR1es9cVUxl3m-2NXgGegwVl-0S9iP~ESf4d0XE48W11GWIdR6WT1fTZhMEDgMPfvbwkJOsuoZpS7lOOznzX5NmJe-FhZgG9R-EgC-QcURUMYmqSI-4WoAOu5N0OqNsyvDfbBuaHbyda5zqHITLBF9JAF-MtQGJ5ZjelgeY4yupyFLyLN2TCKul0z7a2NEFLWDjuIpdE0P-YWdMIooA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://academic.oup.com/view-large/figure/291832836/btaa999f1.tif
   extra-links:
   - type: journal
     link: https://academic.oup.com/bioinformatics/article/37/16/2502/6015114
@@ -64,7 +88,7 @@
   tags:
   - Computational Methods
   - EpiFluidLab
-  _cache: 6906e5142054a6cd4e23b1ebcb63cc74c2cb57413d80b5e381dfd9a444616439
+  _cache: 3111532ea6c6828d6326c6eec7fbdeaf4008106382d235130396b7a38534d005
 - id: doi:10.1038/s41586-020-2449-8
   title: Perspectives on ENCODE
   authors:
@@ -1183,31 +1207,6 @@
   tags:
   - Consortium Paper
   _cache: 012e4aee8ec559a2f4d2aa2a8313111322497c810223cb518632366d122bad16
-- id: doi:10.1101/2020.07.16.201350
-  title: 'CRAG: <i>De novo</i> characterization of cell-free DNA fragmentation hotspots
-    in plasma whole-genome sequencing'
-  authors:
-  - Xionghui Zhou
-  - Haizi Zheng
-  - Hailu Fu
-  - Kelsey L. Dillehay McKillip
-  - Susan M. Pinney
-  - Yaping Liu
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-07-16'
-  link: https://doi.org/gj34gz
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/07/29/2020.07.16.201350/F1.medium.gif
-  extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2020.07.16.201350v2.full
-  - type: source
-    link: https://github.com/epifluidlab/cragr
-    text: CRAG source code
-  tags:
-  - Computational Methods
-  - Preprint
-  - EpiFluidLab
-  _cache: 503cdc4dd7a6e02ca41700d5a390af2f4a3683d3dd750951b9ab14ccd62ca57a
 - id: doi:10.1186/s12885-019-6003-8
   title: Machine learning enables detection of early-stage colorectal cancer by whole-genome
     sequencing of plasma cell-free DNA
