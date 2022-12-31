@@ -1,6 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41586-022-05487-2
+  title: Human fetal cerebellar cell atlas informs medulloblastoma origin and oncogenesis
+  authors:
+  - Zaili Luo
+  - Mingyang Xia
+  - Wei Shi
+  - Chuntao Zhao
+  - Jiajia Wang
+  - Dazhuan Xin
+  - Xinran Dong
+  - Yu Xiong
+  - Feng Zhang
+  - Kalen Berry
+  - Sean Ogurek
+  - Xuezhao Liu
+  - Rohit Rao
+  - Rui Xing
+  - Lai Man Natalie Wu
+  - Siying Cui
+  - Lingli Xu
+  - Yifeng Lin
+  - Wenkun Ma
+  - Shuaiwei Tian
+  - Qi Xie
+  - Li Zhang
+  - Mei Xin
+  - Xiaotao Wang
+  - Feng Yue
+  - Haizi Zheng
+  - Yaping Liu
+  - Charles B. Stevenson
+  - Peter de Blank
+  - John P. Perentesis
+  - Richard J. Gilbertson
+  - Hao Li
+  - Jie Ma
+  - Wenhao Zhou
+  - Michael D. Taylor
+  - Q. Richard Lu
+  publisher: Nature
+  date: '2022-11-30'
+  link: https://doi.org/grkk8r
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05487-2/MediaObjects/41586_2022_5487_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: journal
+    link: https://www.nature.com/articles/s41586-022-05487-2
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: 688025e155f844e0d1b34640eec2a7d3be69a9fb4264483ca991975fb5193617
 - id: doi:10.1186/s13073-022-01141-8
   title: 'CRAG: de novo characterization of cell-free DNA fragmentation hotspots in
     plasma whole-genome sequencing'
@@ -1475,7 +1525,9 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/hmg/article/26/21/4231/4072616
-  _cache: 756fa1132f4e060be72b2c0f20123738a25d5e6bb0eb5fc7f884e70e66fbd57d
+  tags:
+  - Collaboration Paper
+  _cache: 5f1bbb54f142c963f3e52effd8579b853d2c844f663e8a87e0fe09ffd8dca2f0
 - id: doi:10.1038/nature24277
   title: Genetic effects on gene expression across human tissues
   authors:
@@ -1632,7 +1684,10 @@
   extra-links:
   - type: journal
     link: https://genesandnutrition.biomedcentral.com/articles/10.1007/s12263-015-0461-7
-  _cache: f3e7cb3137761a88bdad3fa5077cc154d08543db491d5cf88253672e2ded1ba1
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: ded53427eb5cc52baa3fe3d9ce78a8f0346586d103c79d1280ad0bd89f2ed270
 - id: doi:10.1101/gr.183368.114
   title: The role of DNA methylation in directing the functional organization of the
     cancer epigenome
@@ -1835,7 +1890,10 @@
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/ng.969
-  _cache: aadf590141201c677435f87b8deab4d6fbb6fa21c97bf938a12fa49789623f2a
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: dbbf3d73847c4d2635732ca7217ba9e936e58db227ba0e0f39511614e374fabe
 - id: doi:10.1186/gb-2009-10-7-r78
   title: Identification and characterization of novel amphioxus microRNAs by Solexa
     sequencing
@@ -1863,7 +1921,10 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1186/gb-2009-10-7-r78
-  _cache: 11feb558d44a808a3538bcb5946b21f9fc92dfbfd71206e7cd1cf917cd014c15
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: bf01f56c189f44222a1d65c03e6646dc80f855badebf848ace9e540fecefd288
 - id: doi:10.1016/j.jhep.2008.10.034
   title: 'HDMCP uncouples yeast mitochondrial respiration and alleviates steatosis
     in L02 and hepG2 cells by decreasing ATP and H2O2 levels: A novel mechanism for
@@ -1887,4 +1948,7 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S0168827808008052
-  _cache: e40389ddeecc471257a868ae290f9bccf300ebe6a696069e5b5ac0971e8ceb65
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: 3036a89ab996fbba71659cf145407002b21bc5052be509393f2f5790d4436339

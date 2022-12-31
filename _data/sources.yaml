@@ -1,3 +1,12 @@
+- id: doi:10.1038/s41586-022-05487-2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05487-2/MediaObjects/41586_2022_5487_Fig1_HTML.png?as=webp
+  extra-links:
+    - type: journal
+      link: https://www.nature.com/articles/s41586-022-05487-2
+  tags:
+    - Collaboration Paper
+    - Data Analysis
+
 - id: doi:10.1186/s13073-022-01141-8
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-022-01141-8/MediaObjects/13073_2022_1141_Fig1_HTML.png?as=webp
   extra-links:
@@ -154,6 +163,8 @@
   extra-links:
     - type: journal
       link: https://academic.oup.com/hmg/article/26/21/4231/4072616
+  tags:
+    - Collaboration Paper
 
 - id: doi:10.1038/nature24277
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg?as=webp
@@ -200,6 +211,9 @@
   extra-links:
     - type: journal
       link: https://genesandnutrition.biomedcentral.com/articles/10.1007/s12263-015-0461-7
+  tags:
+    - Collaboration Paper
+    - Data Analysis
 
 - id: doi:10.1101/gr.183368.114
   image: https://genome.cshlp.org/content/25/4/467/F1.small.gif
@@ -250,18 +264,27 @@
   extra-links:
     - type: journal
       link: https://www.nature.com/articles/ng.969
+  tags:
+    - Collaboration Paper
+    - Data Analysis
 
 - id: doi:10.1186/gb-2009-10-7-r78
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2009-10-7-r78/MediaObjects/13059_2009_Article_2228_Fig1_HTML.jpg?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1186/gb-2009-10-7-r78
+  tags:
+    - Collaboration Paper
+    - Data Analysis
 
 - id: doi:10.1016/j.jhep.2008.10.034
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827809X00048-cov200h.gif
   extra-links:
     - type: journal
       link: https://www.sciencedirect.com/science/article/abs/pii/S0168827808008052
+  tags:
+    - Collaboration Paper
+    - Data Analysis
 
 
 
