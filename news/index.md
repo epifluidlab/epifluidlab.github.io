@@ -4,6 +4,8 @@ nav:
   order: 5
   tooltip: Published works
 ---
+- 01/09/2023: Dr. David Katz from Purdue University joins us as a research fellow. Welcome!
+
 - 11/28/2022: Nayeon Son from MDB program joins us as a rotation student. Welcome!
 
 - 11/14/2022: Our paper on cell-free DNA fragmentation hotspot is accepted by Genome Medicine (CRAG: De novo characterization of cell-free DNA fragmentation hotspots in plasma whole-genome sequencing)! Drs. Xionghui Zhou, Haizi Zheng, and Hailu FU are the joint first authors of the paper. This is a collaboration project with Dr. Kelsey L. Dillehay McKillip from UC Biorepository and Dr. Susan M. Pinney from UC FCC cohort. Congratulations to all! 
