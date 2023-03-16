@@ -90,29 +90,30 @@
   - Review
   - EpiFluidLab
   _cache: 6473c88132e6233a979465410ec1fd25f368d8af8abb9f2f47f9b2e761f92a76
-- id: doi:10.1101/2022.03.29.486102
-  title: 'GTAGMe-seq: joint profiling of genetic variants, DNA methylation, GpC methyltransferase
-    footprints, and 3D genome in the same DNA molecules'
+- id: doi:10.1186/s13059-023-02889-x
+  title: 'NOMe-HiC: joint profiling of genetic variant, DNA methylation, chromatin
+    accessibility, and 3D genome in the same DNA molecule'
   authors:
   - Hailu Fu
   - Haizi Zheng
+  - Xiaoting Chen
+  - Matthew T. Weirauch
   - Louis J. Muglia
   - Li Wang
   - Yaping Liu
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-03-30'
-  link: https://doi.org/gqndq6
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/30/2022.03.29.486102/F1.medium.gif
+  publisher: Genome Biology
+  date: '2023-03-16'
+  link: https://doi.org/grxn5j
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-023-02889-x/MediaObjects/13059_2023_2889_Fig1_HTML.png?as=webp
   extra-links:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2022.03.29.486102v1.full
+  - type: journal
+    link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02889-x
   - type: source
     link: https://bitbucket.org/dnaase/bisulfitehic/src/master/
   tags:
   - Experimental Methods
-  - Preprint
   - EpiFluidLab
-  _cache: 6bfd1e454cafe9b884c833db5faa9a5821696da77616b7c5b900e471a1449495
+  _cache: 21c6ea2f66f737e4c69443a5421f913d5b95c4837fcd82b3503e2fff0ed86732
 - id: doi:10.1093/bioinformatics/btaa999
   title: 'FinaleDB: a browser and database of cell-free DNA fragmentation patterns'
   authors:

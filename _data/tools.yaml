@@ -21,7 +21,7 @@
     - publication
 
 - title: Bhmem
-  subtitle: Computational tools for Methyl-HiC (Li, Liu et al. 2019 Nature Methods) and GTAGMe-seq (Fu et al. 2022 BioRxiv)
+  subtitle: Computational tools for Methyl-HiC (Li, Liu et al. 2019 Nature Methods) and NOMe-HiC (Fu et al. 2023 Genome Biology)
   group: featured
   image: https://media.springernature.com/lw685/springer-static/esm/art%3A10.1038%2Fs41592-019-0502-z/MediaObjects/41592_2019_502_Fig4_ESM.jpg?as=webp
   link: https://bitbucket.org/dnaase/bisulfitehic/src/master/

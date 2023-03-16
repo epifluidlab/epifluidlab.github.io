@@ -28,16 +28,15 @@
     - Review
     - EpiFluidLab
 
-- id: doi:10.1101/2022.03.29.486102
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/03/30/2022.03.29.486102/F1.medium.gif
+- id: doi:10.1186/s13059-023-02889-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-023-02889-x/MediaObjects/13059_2023_2889_Fig1_HTML.png?as=webp
   extra-links:
-    - type: preprint
-      link: https://www.biorxiv.org/content/10.1101/2022.03.29.486102v1.full
+    - type: journal
+      link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02889-x
     - type: source
       link: https://bitbucket.org/dnaase/bisulfitehic/src/master/
   tags:
     - Experimental Methods
-    - Preprint
     - EpiFluidLab
 
 - id: doi:10.1093/bioinformatics/btaa999

@@ -4,6 +4,10 @@ nav:
   order: 5
   tooltip: Published works
 ---
+- 03/16/2023: Dr. Hailu Fu's paper on [NOMe-HiC](https://doi.org/10.1186/s13059-023-02889-x) is online at Genome Biology today. This is a collaboration work with Drs. Li Wang,  Louis Muglia, and  Matthew Weirauch's group. Congratulations! 
+
+- 03/07/2023: Dr. Yaping Liu received Focused Research Award from the Sony Research Award Program for our cell-free DNA work!
+
 - 01/09/2023: Dr. David Katz from Purdue University joins us as a research fellow. Welcome!
 
 - 11/28/2022: Nayeon Son from MDB program joins us as a rotation student. Welcome!

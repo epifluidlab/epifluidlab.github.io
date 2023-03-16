@@ -1,7 +1,7 @@
 ---
 name: Hailu Fu
 image: images/hailu.jpg
-description: Research Fellow
+description: Research Associate
 role: postdoc
 aliases:
   - H. Fu
