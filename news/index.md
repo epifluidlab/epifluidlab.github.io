@@ -4,6 +4,9 @@ nav:
   order: 5
   tooltip: Published works
 ---
+
+- 05/25/2023：Ravi Bandaru from Pen state university and James Li from Wake Forest University joins the lab for the SURF program this summer. Welcome!
+
 - 03/16/2023: Dr. Hailu Fu's paper on [NOMe-HiC](https://doi.org/10.1186/s13059-023-02889-x) is online at Genome Biology today. This is a collaboration work with Drs. Li Wang,  Louis Muglia, and  Matthew Weirauch's group. Congratulations! 
 
 - 03/07/2023: Dr. Yaping Liu received Focused Research Award from the Sony Research Award Program for our cell-free DNA work!
