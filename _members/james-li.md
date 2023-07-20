@@ -1,5 +1,6 @@
 ---
 name: James Li
+image: images/jamesli.jpg
 description: Summer Undergraduate Research Student
 role: undergrad
 aliases:

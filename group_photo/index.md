@@ -49,6 +49,14 @@ nav:
   link9="images/group_photos/2022_1.jpg"
   tooltip9="USC reunion at Van Andel Institue after pandemic"            
 
+  image10="images/group_photos/2023_1.jpg"
+  link10="images/group_photos/2023_1.jpg"
+  tooltip10="Manolis visit UC"
+
+  image11="images/group_photos/2023_2.jpg"
+  link11="images/group_photos/2023_2.jpg"
+  tooltip11="Hailu present at CCHMC annual symposium"
+
 
 %}
 
