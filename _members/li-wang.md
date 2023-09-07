@@ -1,13 +1,13 @@
 ---
 name: Li Wang
 image: images/liwang_2022.jpg
-description: Visiting Assistant Professor
-role: vis
+description: Research Associate Professor
+role: faculty
 aliases:
   - L. Wang
   - L Wang
 links:
-  email: wangl5@xavier.edu
+  email: wanglilove2@gmail.com
   google-scholar: https://scholar.google.com/citations?hl=en&user=8JsRP9UAAAAJ
   twitter: phytoclover
   linkedin: li-wang-enthusiasticscientist

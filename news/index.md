@@ -5,6 +5,8 @@ nav:
   tooltip: Published works
 ---
 
+- 09/01/2023：Our lab is moved to Northwestern University Feinberg School of Medicine.
+
 - 05/25/2023：Ravi Bandaru from Pen state university and James Li from Wake Forest University joins the lab for the SURF program this summer. Welcome!
 
 - 03/16/2023: Dr. Hailu Fu's paper on [NOMe-HiC](https://doi.org/10.1186/s13059-023-02889-x) is online at Genome Biology today. This is a collaboration work with Drs. Li Wang,  Louis Muglia, and  Matthew Weirauch's group. Congratulations! 

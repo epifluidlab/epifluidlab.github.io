@@ -9,7 +9,7 @@ nav:
 
 #### Post Doctoral Researcher (Computational)
 
-The new research fellow/associate is going to work on our own single-molecule and single-cell multi-omics technologies, integrate multi-omics signals from the same single cell, and finally understand the regulatory roles of non-coding genetics variants in the heterogenous cellular system. Details in [Nature Career](https://www.nature.com/naturecareers/job/762196)
+The new research fellow/associate is going to work on our own single-molecule and single-cell multi-omics technologies, integrate multi-omics signals from the same single cell, and finally understand the regulatory roles of non-coding genetics variants in the heterogenous cellular system. 
 
 - Highly motivated in scientific research.
 - Ph.D. (recent/expected) in computational biology, bioinformatics, genomics or quantitative research fields.
@@ -27,7 +27,7 @@ The new research fellow/associate is going to work on our own single-molecule an
 - Fluent in English (spoken and written).
 
 #### Graduate Students
-Graduate students will be recruited through [BMI](https://www.cincinnatichildrens.org/research/divisions/b/bmi/education), [MDB](https://www.cincinnatichildrens.org/education/research/molecular-developmental-biology), and [Immunology](https://www.cincinnatichildrens.org/education/research/immunobiology-grad) graduate programs in CCHMC or other graduate programs in University of Cincinnati. Students who are interested in our research are welcome to contact Dr. Liu before their application.
+Graduate students will be recruited through [Driskill Graduate Program in Life Sciences](https://www.feinberg.northwestern.edu/sites/dgp/index.html), [Health Sciences Integrated Program](https://www.feinberg.northwestern.edu/sites/hsip/index.html), [NUIN](https://www.nuin.northwestern.edu/index.html), and [Biomedical Engineering](https://www.mccormick.northwestern.edu/biomedical/academics/graduate/) graduate programs in Northwestern University. Students who are interested in our research are welcome to contact Dr. Liu before their application.
 
 #### Undergraduate and Highschool Students
 Undergraduate and highschool students who are interested in our research are welcome to contact Dr. Liu directly for the intern.

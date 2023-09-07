@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Division of Human Genetics](https://www.cincinnatichildrens.org/research/divisions/h/genetics/labs/liu), at the [Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/research/divisions/h/genetics).
-We are located at the 1st floor of the R building (R1.1467, inside the room R1.1469) in CCHMC.
+Our lab is part of the [Simpson Querrey Institute for Epigenetics](https://www.feinberg.northwestern.edu/sites/epigenetics/index.html), [Department of Biochemistry and Molecular Genetics](https://www.feinberg.northwestern.edu/sites/biochem/index.html), and [Robert H. Lurie Comprehensive Cancer Center](https://www.cancer.northwestern.edu/) at the Northwestern University Feinberg School of Medicine.
+We are located at the 7th floor of the Simpson Querrey building (7-300 and 7-304).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="Yaping.Liu AT cchmc.org"
+  text="yaping AT northwestern Dot edu"
   tooltip=""
-  link="Yaping.Liu@cchmc.org"
+  link="yaping@northwestern.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="+1 (513) 803-3207"
+  text="+1 (312) 503-1699"
   tooltip=""
-  link="+1-513-803-3207"
+  link="+1-312-503-1699"
   style="button"
 %}
 {%
@@ -34,7 +34,7 @@ We are located at the 1st floor of the R building (R1.1467, inside the room R1.1
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Cincinnati+Children's+Hospital+Medical+Center+Location+R,+Cincinnati,+OH+45220/@39.1406004,-84.5057751,17z/data=!3m1!4b1!4m5!3m4!1s0x8841b3984a63a151:0x61b07af5037fe78!8m2!3d39.1406004!4d-84.5035864"
+  link="https://www.google.com/maps/place/303+E+Superior+St,+Chicago,+IL+60611/@41.8956667,-87.6225212,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2db98c07b7dd:0x74c9a36ac5a91676!8m2!3d41.8956627!4d-87.6199463!16s%2Fg%2F11t7kpq6ds?entry=ttu"
   style="button"
 %}
 {:.center}
@@ -43,14 +43,14 @@ We are located at the 1st floor of the R building (R1.1467, inside the room R1.1
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-3333 Burnet Ave 
-Cincinnati, OH 45229
+303 East Superior Street 
+Chicago, IL 60611,
 United States
 {:.center}
 
 {%
   include figure.html
-  image="images/cchmc.png"
-  width="300px"
+  image="images/sqbrc.jpeg"
+  width="800px"
 %}
 

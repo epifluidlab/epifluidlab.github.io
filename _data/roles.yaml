@@ -6,6 +6,14 @@ vis:
   icon: fas fa-microscope
   text: Visiting Assistant Professor
 
+faculty:
+  icon: fas fa-microscope
+  text: Faculty
+
+staff:
+  icon: fas fa-microscope
+  text: Staff
+
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher

@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-The research focus of our lab is on developing and applying computational and experimental multi-omic methods to understand the gene regulation of non-coding genetic variants. Specifically, we would like to utilize multi-dimensional epigenomics signals within the same single cells and that from circulating cell-free DNA (outside cells) to dissect the functional roles of non-coding regulatory elements and therefore bridge the gaps between genetic variations and phenotypic variations at different physiological and pathological conditions.
+Our long-term research interest is to decode the human genome. The recent research focus of my lab is on developing and applying computational and high-throughput experimental methods in epigenomics to understand the gene regulatory roles of non-coding genetic variants in different pathological conditions, including cancers and neurodegenerative diseases. Specifically, we focused on the computational method development for circulating cell-free DNA fragmentation and new biotechnology development for the joint profiling of multi-omics within the same single cells, which will eventually enable biomarker discovery for the early diagnosis and prognosis of many complex diseases.
 
 # <i class="fas fa-microscope"></i>Current Projects
 
@@ -17,9 +17,9 @@ Circulating cell-free DNA (cfDNA) is released into the peripheral blood after ce
 
 {%
   include figure.html
-  image="images/crag.png"
-  caption="Correlation between cfDNA fragmentation hotspots and open chromatin regions"
-  width="400px"
+  image="images/cfdna_epi.png"
+  caption="Utilize cfDNA fragmentation pattern and AI to monitor the gene regulation within the cells during the disease initiation and progression."
+  width="1000px"
 %}
 
 ## Develop methods to jointly profile multi-omics in the same single cells
@@ -28,9 +28,9 @@ Epigenetic modifications, including DNA methylation, histone modifications, and 
 
 {%
   include figure.html
-  image="images/multiomics.png"
-  caption="Multi-omics within the same cells are critical to understand gene regulation"
-  width="500px"
+  image="images/singlecell_multi.png"
+  caption="Develop single-cell multi-omics technologies to understand gene regulation"
+  width="800px"
 %}
 
 ## Epigenomics in liquid biopsy for the early diagnosis and prognosis of diseases
@@ -47,4 +47,4 @@ Routine screening in the average-risk population provides the opportunity to det
 
 # Funding
 
-Our work is currently (and was previously) supported by **NIH** (R35GM147283, R56HG012360, R01HG011411), **NSF** (XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), **The Center for Clinical and Translational Science and Training** (Mentored Pilot Translational Award), and **Cincinnati Children’s Research Foundation** (Innovation Fund, Trustee Award, Center for Pediatric Genomics Award, and Yaping Liu's start-up).
+Our work is currently (and was previously) supported by **NIH** (R35GM147283, R56HG012360), **NSF** (ACCESS and XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), and **Northwestern University** (Yaping Liu's start-up).

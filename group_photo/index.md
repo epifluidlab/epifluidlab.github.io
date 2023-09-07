@@ -57,6 +57,30 @@ nav:
   link11="images/group_photos/2023_2.jpg"
   tooltip11="Hailu present at CCHMC annual symposium"
 
+image12="images/group_photos/2023_3.jpg"
+link12="images/group_photos/2023_3.jpg"
+tooltip12="Ravi present at CCHMC SURF symposium"
+
+image13="images/group_photos/2023_4.jpg"
+link13="images/group_photos/2023_4.jpg"
+tooltip13="James present at CCHMC SURF symposium"
+
+image14="images/group_photos/2023_5.jpg"
+link14="images/group_photos/2023_5.jpg"
+tooltip14="Group photo after summer in CCHMC"
+
+image15="images/group_photos/2023_6.jpg"
+link15="images/group_photos/2023_6.jpg"
+tooltip15="Yaping's farewell party at CCHMC"
+
+image16="images/group_photos/2023_7.jpg"
+link16="images/group_photos/2023_7.jpg"
+tooltip16="Yaping's farewell party at CCHMC"
+
+image17="images/group_photos/2023_8.jpg"
+link17="images/group_photos/2023_8.jpg"
+tooltip17="Yaping's farewell party at CCHMC"
+
 
 %}
 
