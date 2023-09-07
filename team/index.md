@@ -20,7 +20,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: vis"
+  filters="role: faculty"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: staff"
 %}
 {%
   include list.html
@@ -33,6 +39,12 @@ include list.html
 data="members"
 component="portrait"
 filters="role: phd"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: programmer"
 %}
 {%
   include list.html
