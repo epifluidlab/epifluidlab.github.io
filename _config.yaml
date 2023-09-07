@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: EpiFluid Lab
 subtitle: The dark matter of the genome -- Understand the non-coding genetic variants by multi-omics inside and outside the cells.
-description: We are epigenomics and computational biology lab within the Division of Human Genetics and Biomedical Informatics in the Cincinnati Children’s Hospital Medical Center (CCHMC) and also part of the Department of Pediatrics in University of Cincinnati College of Medicine.
+description: We are epigenomics and computational biology lab within the Simpson Querrey Institute for Epigenetics, Department of Biochemistry and Molecular Genetics, and Robert H. Lurie Comprehensive Cancer Center at the Northwestern University Feinberg School of Medicine.
 logo: images/logo.epifluid.png
 logo-text: true
 header: none
@@ -14,7 +14,7 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: Yaping.Liu@cchmc.org
+  email: yaping@northwestern.edu
   google-scholar: Yaping Liu
   github: epifluidlab
   twitter: yapingliu
