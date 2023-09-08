@@ -27,11 +27,11 @@ nav:
 
   image4="images/group_photos/2019_3.jpg"
   link4="images/group_photos/2019_3.jpg"
-  tooltip4="Michelle Zhu at SURF symposium"
+  tooltip4="Michelle Zhu at 2019 SURF symposium"
 
   image5="images/group_photos/2019_4.jpg"
   link5="images/group_photos/2019_4.jpg"
-  tooltip5="Rosalyn Liou at SURF symposium"
+  tooltip5="Rosalyn Liou at 2019 SURF symposium"
 
   image6="images/group_photos/2020_1.jpg"
   link6="images/group_photos/2020_1.jpg"
@@ -47,39 +47,31 @@ nav:
 
   image9="images/group_photos/2022_1.jpg"
   link9="images/group_photos/2022_1.jpg"
-  tooltip9="USC reunion at Van Andel Institue after pandemic"            
+  tooltip9="2022 USC reunion at Van Andel Institue after pandemic"            
 
   image10="images/group_photos/2023_1.jpg"
   link10="images/group_photos/2023_1.jpg"
-  tooltip10="Manolis visit UC"
+  tooltip10="Manolis visit UC at 2023"
 
   image11="images/group_photos/2023_2.jpg"
   link11="images/group_photos/2023_2.jpg"
-  tooltip11="Hailu present at CCHMC annual symposium"
+  tooltip11="Hailu present at 2023 CCHMC annual symposium"
 
 image12="images/group_photos/2023_3.jpg"
 link12="images/group_photos/2023_3.jpg"
-tooltip12="Ravi present at CCHMC SURF symposium"
+tooltip12="Ravi present at 2023 CCHMC SURF symposium"
 
 image13="images/group_photos/2023_4.jpg"
 link13="images/group_photos/2023_4.jpg"
-tooltip13="James present at CCHMC SURF symposium"
+tooltip13="James present at 2023 CCHMC SURF symposium"
 
 image14="images/group_photos/2023_5.jpg"
 link14="images/group_photos/2023_5.jpg"
-tooltip14="Group photo after summer in CCHMC"
+tooltip14="Group photo after 2023 summer in CCHMC"
 
-image15="images/group_photos/2023_6.jpg"
-link15="images/group_photos/2023_6.jpg"
+image15="images/group_photos/2023_8.jpg"
+link15="images/group_photos/2023_8.jpg"
 tooltip15="Yaping's farewell party at CCHMC"
-
-image16="images/group_photos/2023_7.jpg"
-link16="images/group_photos/2023_7.jpg"
-tooltip16="Yaping's farewell party at CCHMC"
-
-image17="images/group_photos/2023_8.jpg"
-link17="images/group_photos/2023_8.jpg"
-tooltip17="Yaping's farewell party at CCHMC"
 
 
 %}

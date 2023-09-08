@@ -43,14 +43,14 @@
   publisher: Nature
   date: '2022-11-30'
   link: https://doi.org/grkk8r
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05487-2/MediaObjects/41586_2022_5487_Fig1_HTML.png?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/s41586-022-05487-2
   tags:
   - Collaboration Paper
   - Data Analysis
-  _cache: 688025e155f844e0d1b34640eec2a7d3be69a9fb4264483ca991975fb5193617
+  _cache: 01185b69bad996b2e21eeea098475791623bb947c11d370cba12cfc96aa17ba5
 - id: doi:10.1186/s13073-022-01141-8
   title: 'CRAG: de novo characterization of cell-free DNA fragmentation hotspots in
     plasma whole-genome sequencing'
@@ -64,7 +64,7 @@
   publisher: Genome Medicine
   date: '2022-12-08'
   link: https://doi.org/grhs2j
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13073-022-01141-8/MediaObjects/13073_2022_1141_Fig1_HTML.png?as=webp
+  image: https://pbs.twimg.com/profile_images/917703818393026560/fMAmjsCL_400x400.jpg
   extra-links:
   - type: journal
     link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8
@@ -74,7 +74,7 @@
   tags:
   - Computational Methods
   - EpiFluidLab
-  _cache: 42559c45d0fc40e26e59330f1baed999cb0849d05a7a6fd412614e9627946284
+  _cache: dd91dc54301497cd32d16f2e34346859eb11fad1efc56a264c0fd4d2d84270b9
 - id: doi:10.1038/s41416-021-01635-z
   title: 'At the dawn: cell-free DNA fragmentomics and gene regulation'
   authors:
@@ -82,14 +82,14 @@
   publisher: British Journal of Cancer
   date: '2021-11-23'
   link: https://doi.org/gqndqn
-  image: https://media.springernature.com/full/nature-cms/uploads/product/bjc/header-76ac17391903a21e28f15ff5df31f5fa.svg
+  image: https://pbs.twimg.com/profile_images/976501655700205568/rUQ4i5G2_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/s41416-021-01635-z
   tags:
   - Review
   - EpiFluidLab
-  _cache: 6473c88132e6233a979465410ec1fd25f368d8af8abb9f2f47f9b2e761f92a76
+  _cache: ee64716417236c993ee46bed83adcf4d8e1ec3c545df9fb8b741ea5397108884
 - id: doi:10.1186/s13059-023-02889-x
   title: 'NOMe-HiC: joint profiling of genetic variant, DNA methylation, chromatin
     accessibility, and 3D genome in the same DNA molecule'
@@ -104,7 +104,7 @@
   publisher: Genome Biology
   date: '2023-03-16'
   link: https://doi.org/grxn5j
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-023-02889-x/MediaObjects/13059_2023_2889_Fig1_HTML.png?as=webp
+  image: https://pbs.twimg.com/profile_images/917700997350346752/Hv2vqWsQ_400x400.jpg
   extra-links:
   - type: journal
     link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02889-x
@@ -113,7 +113,7 @@
   tags:
   - Experimental Methods
   - EpiFluidLab
-  _cache: 21c6ea2f66f737e4c69443a5421f913d5b95c4837fcd82b3503e2fff0ed86732
+  _cache: e95c4942bb061d6b3d4c4fbf6139cf611e52183288e1a96fce8fa9f87a0fb44a
 - id: doi:10.1093/bioinformatics/btaa999
   title: 'FinaleDB: a browser and database of cell-free DNA fragmentation patterns'
   authors:
@@ -123,7 +123,7 @@
   publisher: Bioinformatics
   date: '2020-12-01'
   link: https://doi.org/gqndq7
-  image: https://academic.oup.com/view-large/figure/291832836/btaa999f1.tif
+  image: https://pbs.twimg.com/profile_images/1054455117603368961/f_s-MzVI_400x400.jpg
   extra-links:
   - type: journal
     link: https://academic.oup.com/bioinformatics/article/37/16/2502/6015114
@@ -139,7 +139,7 @@
   tags:
   - Computational Methods
   - EpiFluidLab
-  _cache: 3111532ea6c6828d6326c6eec7fbdeaf4008106382d235130396b7a38534d005
+  _cache: 1d29f53633d612b21f3fd20eb85a6a325f06738d6a969b57482c80e859d3325e
 - id: doi:10.1038/s41586-020-2449-8
   title: Perspectives on ENCODE
   authors:
@@ -1295,14 +1295,14 @@
   publisher: BMC Cancer
   date: '2019-08-23'
   link: https://doi.org/gg5rvb
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12885-019-6003-8/MediaObjects/12885_2019_6003_Fig1_HTML.png?as=webp
+  image: https://www.cancerherbal.com/wp-content/uploads/2010/04/BMC-Cancer-Journal.png
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1186/s12885-019-6003-8
   tags:
   - Computational Methods
   - Data Analysis
-  _cache: 931248c4f7bce276c53467f7a8642d62c4dd077b6f7cf55b5cd53ccf5d0500eb
+  _cache: 519e069b7a413e57911c3dc221f508fac7bcc6aeeff9d92ae0ed4ca41dde9233
 - id: doi:10.1038/s41592-019-0502-z
   title: Joint profiling of DNA methylation and chromatin architecture in single cells
   authors:
@@ -1317,7 +1317,7 @@
   publisher: Nature Methods
   date: '2019-08-05'
   link: https://doi.org/gf6rgp
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-019-0502-z/MediaObjects/41592_2019_502_Fig3_HTML.png?as=webp
+  image: https://pbs.twimg.com/profile_images/1199341895035449350/v6O3SxS2_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765429/
@@ -1327,7 +1327,7 @@
   tags:
   - Experimental Methods
   - EpiFluidLab
-  _cache: b354813283e1c1bef5d72d706e8293c494913444a6fd9b9f6f2cf21d704a51a6
+  _cache: d39c24a5ddc4941d3c40cb641f4e5ee841d414ab83595cfb062c97e3b065fe6b
 - id: doi:10.1101/564773
   title: Spatial co-fragmentation pattern of cell-free DNA recapitulates<i>in vivo</i>chromatin
     organization and identifies tissues-of-origin
@@ -1349,7 +1349,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-23'
   link: https://doi.org/gkw5nt
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/23/564773/F2.medium.gif
+  image: https://pbs.twimg.com/card_img/1697420284435849216/thxC6Z8z?format=png&name=360x360
   extra-links:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/564773v3.full
@@ -1357,7 +1357,7 @@
   - Computational Methods
   - Preprint
   - EpiFluidLab
-  _cache: 7c05806a38df6c45c42df3b2842c03a45a65f041c5835d46b3d4d27107cc22dd
+  _cache: 52498c594ff38ec67c1da8eb37659fe6f5069430672633f34220e2bcc48e9d95
 - id: doi:10.1038/s41588-018-0154-4
   title: Using an atlas of gene regulation across 44 human tissues to inform complex
     disease- and trait-associated variation
@@ -1385,19 +1385,18 @@
   publisher: Nature Genetics
   date: '2018-06-28'
   link: https://doi.org/gdvz8m
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-018-0154-4/MediaObjects/41588_2018_154_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1186995531345739777/WXolsdoI_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/s41588-018-0154-4
   tags:
   - Consortium Paper
-  _cache: dd212ab1782887119ac6e2e4ffbad610683a75dc37057741cb44e8b9308419aa
+  _cache: b769b5b2a378134c139efa76eeeb32daec981eb3b98df96b0b5cc34f956e15cd
 - id: doi:10.1038/s41467-018-03621-1
   title: Exploring the phenotypic consequences of tissue specific gene expression
     variation inferred from GWAS summary statistics
   authors:
   - Alvaro N. Barbeira
-  - ' '
   - Scott P. Dickinson
   - Rodrigo Bonazzola
   - Jiamao Zheng
@@ -1409,19 +1408,272 @@
   - Todd L. Edwards
   - Eli A. Stahl
   - Laura M. Huckins
+  - "Fran\xE7ois Aguet"
+  - Kristin G. Ardlie
+  - Beryl B. Cummings
+  - Ellen T. Gelfand
+  - Gad Getz
+  - Kane Hadley
+  - Robert E. Handsaker
+  - Katherine H. Huang
+  - Seva Kashin
+  - Konrad J. Karczewski
+  - Monkol Lek
+  - Xiao Li
+  - Daniel G. MacArthur
+  - Jared L. Nedzel
+  - Duyen T. Nguyen
+  - Michael S. Noble
+  - "Ayellet V. Segr\xE8"
+  - Casandra A. Trowbridge
+  - Taru Tukiainen
+  - Nathan S. Abell
+  - Brunilda Balliu
+  - Ruth Barshir
+  - Omer Basha
+  - Alexis Battle
+  - Gireesh K. Bogu
+  - Andrew Brown
+  - Christopher D. Brown
+  - Stephane E. Castel
+  - Lin S. Chen
+  - Colby Chiang
+  - Donald F. Conrad
+  - Farhan N. Damani
+  - Joe R. Davis
+  - Olivier Delaneau
+  - Emmanouil T. Dermitzakis
+  - Barbara E. Engelhardt
+  - Eleazar Eskin
+  - Pedro G. Ferreira
+  - "Laure Fr\xE9sard"
+  - Eric R. Gamazon
+  - "Diego Garrido-Mart\xEDn"
+  - Ariel D. H. Gewirtz
+  - Genna Gliner
+  - Michael J. Gloudemans
+  - Roderic Guigo
+  - Ira M. Hall
+  - Buhm Han
+  - Yuan He
+  - Farhad Hormozdiari
+  - Cedric Howald
+  - Brian Jo
+  - Eun Yong Kang
+  - Yungil Kim
+  - Sarah Kim-Hellmuth
+  - Tuuli Lappalainen
+  - Gen Li
+  - Xin Li
+  - Boxiang Liu
+  - Serghei Mangul
+  - Mark I. McCarthy
+  - Ian C. McDowell
+  - Pejman Mohammadi
+  - Jean Monlong
+  - Stephen B. Montgomery
+  - "Manuel Mu\xF1oz-Aguirre"
+  - Anne W. Ndungu
+  - Andrew B. Nobel
+  - Meritxell Oliva
+  - Halit Ongen
+  - John J. Palowitch
+  - Nikolaos Panousis
+  - Panagiotis Papasaikas
+  - YoSon Park
+  - Princy Parsana
+  - Anthony J. Payne
+  - Christine B. Peterson
+  - Jie Quan
+  - Ferran Reverter
+  - Chiara Sabatti
+  - Ashis Saha
+  - Michael Sammeth
+  - Alexandra J. Scott
+  - Andrey A. Shabalin
+  - Reza Sodaei
+  - Matthew Stephens
+  - Barbara E. Stranger
+  - Benjamin J. Strober
+  - Jae Hoon Sul
+  - Emily K. Tsang
+  - Sarah Urbut
+  - Martijn van de Bunt
+  - Gao Wang
+  - Xiaoquan Wen
+  - Fred A. Wright
+  - Hualin S. Xi
+  - Esti Yeger-Lotem
+  - Zachary Zappala
+  - Judith B. Zaugg
+  - Yi-Hui Zhou
+  - Joshua M. Akey
+  - Daniel Bates
+  - Joanne Chan
+  - Lin S. Chen
+  - Melina Claussnitzer
+  - Kathryn Demanelis
+  - Morgan Diegel
+  - Jennifer A. Doherty
+  - Andrew P. Feinberg
+  - Marian S. Fernando
+  - Jessica Halow
+  - Kasper D. Hansen
+  - Eric Haugen
+  - Peter F. Hickey
+  - Lei Hou
+  - Farzana Jasmine
+  - Ruiqi Jian
+  - Lihua Jiang
+  - Audra Johnson
+  - Rajinder Kaul
+  - Manolis Kellis
+  - Muhammad G. Kibriya
+  - Kristen Lee
+  - Jin Billy Li
+  - Qin Li
+  - Xiao Li
+  - Jessica Lin
+  - Shin Lin
+  - Sandra Linder
+  - Caroline Linke
+  - Yaping Liu
+  - Matthew T. Maurano
+  - Benoit Molinie
+  - Stephen B. Montgomery
+  - Jemma Nelson
+  - Fidencio J. Neri
+  - Meritxell Oliva
+  - Yongjin Park
+  - Brandon L. Pierce
+  - Nicola J. Rinaldi
+  - Lindsay F. Rizzardi
+  - Richard Sandstrom
+  - Andrew Skol
+  - Kevin S. Smith
+  - Michael P. Snyder
+  - John Stamatoyannopoulos
+  - Barbara E. Stranger
+  - Hua Tang
+  - Emily K. Tsang
+  - Li Wang
+  - Meng Wang
+  - Nicholas Van Wittenberghe
+  - Fan Wu
+  - Rui Zhang
+  - Concepcion R. Nierras
+  - Philip A. Branton
+  - Latarsha J. Carithers
+  - Ping Guan
+  - Helen M. Moore
+  - Abhi Rao
+  - Jimmie B. Vaught
+  - Sarah E. Gould
+  - Nicole C. Lockart
+  - Casey Martin
+  - Jeffery P. Struewing
+  - Simona Volpi
+  - Anjene M. Addington
+  - Susan E. Koester
+  - A. Roger Little
+  - Lori E. Brigham
+  - Richard Hasz
+  - Marcus Hunter
+  - Christopher Johns
+  - Mark Johnson
+  - Gene Kopen
+  - William F. Leinweber
+  - John T. Lonsdale
+  - Alisa McDonald
+  - Bernadette Mestichelli
+  - Kevin Myer
+  - Brian Roe
+  - Michael Salvatore
+  - Saboor Shad
+  - Jeffrey A. Thomas
+  - Gary Walters
+  - Michael Washington
+  - Joseph Wheeler
+  - Jason Bridge
+  - Barbara A. Foster
+  - Bryan M. Gillard
+  - Ellen Karasik
+  - Rachna Kumar
+  - Mark Miklos
+  - Michael T. Moser
+  - Scott D. Jewell
+  - Robert G. Montroy
+  - Daniel C. Rohrer
+  - Dana R. Valley
+  - David A. Davis
+  - Deborah C. Mash
+  - Anita H. Undale
+  - Anna M. Smith
+  - David E. Tabor
+  - Nancy V. Roche
+  - Jeffrey A. McLean
+  - Negin Vatanian
+  - Karna L. Robinson
+  - Leslie Sobin
+  - Mary E. Barcus
+  - Kimberly M. Valentino
+  - Liqun Qi
+  - Steven Hunter
+  - Pushpa Hariharan
+  - Shilpi Singh
+  - Ki Sung Um
+  - Takunda Matose
+  - Maria M. Tomaszewski
+  - Laura K. Barker
+  - Maghboeba Mosavel
+  - Laura A. Siminoff
+  - Heather M. Traino
+  - Paul Flicek
+  - Thomas Juettemann
+  - Magali Ruffier
+  - Dan Sheppard
+  - Kieron Taylor
+  - Stephen J. Trevanion
+  - Daniel R. Zerbino
+  - Brian Craft
+  - Mary Goldman
+  - Maximilian Haeussler
+  - W. James Kent
+  - Christopher M. Lee
+  - Benedict Paten
+  - Kate R. Rosenbloom
+  - John Vivian
+  - Jingchun Zhu
   - Dan L. Nicolae
   - Nancy J. Cox
   - Hae Kyung Im
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
   publisher: Nature Communications
   date: '2018-05-08'
   link: https://doi.org/gdjvp5
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-03621-1/MediaObjects/41467_2018_3621_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1646627433406234626/v4sbOpgS_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/s41467-018-03621-1
   tags:
   - Consortium Paper
-  _cache: 397fe64e4ee7e78588cd0d687946548cd7bad8e0d6ef6b1c10ff6d3dbe3eb384
+  _cache: f72730b8c0fefae3cd2e0c44112ee079a660ef9138b133213f289d45208d37af
 - id: doi:10.1038/ng.3981
   title: Estimating the causal tissues for complex traits and diseases
   authors:
@@ -1435,13 +1687,13 @@
   publisher: Nature Genetics
   date: '2017-10-23'
   link: https://doi.org/ggrr72
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.3981/MediaObjects/41588_2017_Article_BFng3981_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1186995531345739777/WXolsdoI_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/ng.3981
   tags:
   - Consortium Paper
-  _cache: 479b563c73fbc7d2b9b09f2596d6266c2ea04cfdf2791874f32c8b6bbb77aa63
+  _cache: 5de9eb92cdab73a9ccb0f43e6ffa2b21c467203c258331329b56385c764b2a5d
 - id: doi:10.1186/s13059-017-1308-x
   title: Evidence of reduced recombination rate in human regulatory domains
   authors:
@@ -1453,7 +1705,7 @@
   publisher: Genome Biology
   date: '2017-10-20'
   link: https://doi.org/ggr842
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-017-1308-x/MediaObjects/13059_2017_1308_Fig1_HTML.gif?as=webp
+  image: https://pbs.twimg.com/profile_images/917700997350346752/Hv2vqWsQ_400x400.jpg
   extra-links:
   - type: journal
     link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1308-x
@@ -1462,8 +1714,7 @@
     text: Recombination valley source code
   tags:
   - Data Analysis
-  - EpiFluidLab
-  _cache: a61ed6f70b153e7d6fe857b7a3bb3cc67c01ddda7adc446c176149270a44d17b
+  _cache: 27a118609790d7293eb7bc4217b62d37ac2ee52d55d67d4f18e8e7ec07278427
 - id: doi:10.1101/gr.216754.116
   title: Identifying <i>cis</i>-mediators for <i>trans</i>-eQTLs across many human
     tissues using genomic mediation analysis
@@ -1476,13 +1727,13 @@
   publisher: Genome Research
   date: '2017-10-11'
   link: https://doi.org/gd6gh4
-  image: https://genome.cshlp.org/content/genome/27/11/1859/F1.small.gif
+  image: https://pbs.twimg.com/profile_images/1122921507338895361/ZlthcxIL_400x400.jpg
   extra-links:
   - type: journal
     link: https://genome.cshlp.org/content/genome/27/11/1859.full.html
   tags:
   - Consortium Paper
-  _cache: 14480ba79d92f78c652e54faf5545b878b1172307d688aca011adc8d5b9fa486
+  _cache: 959a8e46b50007b0a8b71e1d67f371bb9f843f63a5204e99e6f8a0e188a1f3de
 - id: doi:10.1101/gr.216721.116
   title: Co-expression networks reveal the tissue-specific regulation of transcription
     and splicing
@@ -1499,13 +1750,13 @@
   publisher: Genome Research
   date: '2017-10-11'
   link: https://doi.org/gb2qx6
-  image: https://genome.cshlp.org/content/27/11/1843/F1.small.gif
+  image: https://pbs.twimg.com/profile_images/1122921507338895361/ZlthcxIL_400x400.jpg
   extra-links:
   - type: journal
     link: https://genome.cshlp.org/content/27/11/1843.full
   tags:
   - Consortium Paper
-  _cache: a2023c79d8c568bc79bcfdf92670ce09fdbecc5d6adb035fdcbc12165a6f7072
+  _cache: 63153fb1d645acabdf45e47873391cdeb1c22c026e8a475a33a9ef727ca4acf6
 - id: doi:10.1093/hmg/ddx312
   title: Cell identity bookmarking through heterogeneous chromatin landscape maintenance
     during the cell cycle
@@ -1522,13 +1773,13 @@
   publisher: Human Molecular Genetics
   date: '2017-08-07'
   link: https://doi.org/gchdnp
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/26/21/10.1093_hmg_ddx312/1/m_ddx312f1.jpeg?Expires=1663343697&Signature=bSZvvC-a6v8oZdZukWeXX-oBGsl7ebIPl5gj44azMiX7SSfl652rHmkCg7vdqJzT-Z9E84XzQcoxtDxRUGk7nX8VUnVtfKkl0IIsIjI2sUosRaU3c9IBPKInJQ-X92nE0VYhtRWeFbwA0iKR0VTSvcXLquDFKouiOnpj8eSQXxzCRqA6uVJPvoXujLvbWKb5hEBTL-gOEQuyUgW-dvs3GgyLqxoBysitxSN1mrgevktjxOkcdzKRlWdFjHa5f3JapIWxAkV~5oH3XO134B1Hs6rkvJ-r1u9l~7Oi03PeMLOeNNL3yxw4TL8hqlVQfKmuYuMWQxs669w~2CVH2rLpwA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://pbs.twimg.com/profile_images/1090628956167045121/Afe4Dg4j_400x400.jpg
   extra-links:
   - type: journal
     link: https://academic.oup.com/hmg/article/26/21/4231/4072616
   tags:
   - Collaboration Paper
-  _cache: 5f1bbb54f142c963f3e52effd8579b853d2c844f663e8a87e0fe09ffd8dca2f0
+  _cache: f01a2f1cedcfd1fd57c0c1dd0f5552edaa7a97729ecd6a2a2d4b83186bf1081e
 - id: doi:10.1038/nature24277
   title: Genetic effects on gene expression across human tissues
   authors:
@@ -1536,13 +1787,13 @@
   publisher: Nature
   date: '2017-10-12'
   link: https://doi.org/gb2nqv
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24277/MediaObjects/41586_2017_Article_BFnature24277_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/nature24277
   tags:
   - Consortium Paper
-  _cache: 7f8c92c700f6a146c92c0fc1d797251f102bb8eac8c722b2784ce646e19682fe
+  _cache: 9e13ac2e5621037f69f4f275fc72da7a4db9ab2b12c04509e68c0007f8c1993c
 - id: doi:10.1038/ng.3969
   title: Enhancing GTEx by bridging the gaps between genotype, gene expression, and
     disease
@@ -1551,13 +1802,13 @@
   publisher: Nature Genetics
   date: '2017-10-11'
   link: https://doi.org/gfws5x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.3969/MediaObjects/41588_2017_Article_BFng3969_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1186995531345739777/WXolsdoI_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/ng.3969
   tags:
   - Consortium Paper
-  _cache: 66e7aa1037185de6a3b5922a290df4b15f1cb19ba2363b6f7b2ad9acaf620782
+  _cache: 8cfef91cbb0dc918ba3fa90228c112071ba7e184345da4b75af2276beee3c457
 - id: doi:10.1038/nature24267
   title: The impact of rare variation on gene expression across tissues
   authors:
@@ -1582,13 +1833,13 @@
   publisher: Nature
   date: '2017-10-12'
   link: https://doi.org/gb2tc8
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24267/MediaObjects/41586_2017_Article_BFnature24267_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/nature24267?sf121330069=1
   tags:
   - Consortium Paper
-  _cache: 997b08be93754e9435296045c3c49abb67ac1690bd9cf731e4698df1c3cb1e37
+  _cache: 1d698653a3c674aaa7f043122f718664c7addefa6c003f35d797b07fc59d0a77
 - id: doi:10.1038/nature24265
   title: Landscape of X chromosome inactivation across human tissues
   authors:
@@ -1616,13 +1867,13 @@
   publisher: Nature
   date: '2017-10-12'
   link: https://doi.org/gb2sjq
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24265/MediaObjects/41586_2017_Article_BFnature24265_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/nature24265?sf122377809=1
   tags:
   - Consortium Paper
-  _cache: 7160df7fd5eb75157ecd5b8f2deaa3f712122c75e9bb4c195e3c7f1c53b00a82
+  _cache: 632c88e1da1e36634b58e8e6843a58ae4c4dbb10000ae240de4d898feacef2e9
 - id: doi:10.1038/nature24041
   title: Dynamic landscape and regulation of RNA editing in mammals
   authors:
@@ -1659,13 +1910,13 @@
   publisher: Nature
   date: '2017-10-12'
   link: https://doi.org/gb2qv5
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/nature24041
   tags:
   - Consortium Paper
-  _cache: 2ce8f836eaa3668e28e6e6eec0d8f914664c3d9d09a72546ec5198b09d792eb8
+  _cache: dd117aff7ae97e4ddea03982d3ea98702664a45beff04bf89f2ce775676436ee
 - id: doi:10.1007/s12263-015-0461-7
   title: 'Oral administration of Lactobacillus plantarum 299v modulates gene expression
     in the ileum of pigs: prediction of crosstalk between intestinal immune cells
@@ -1681,14 +1932,14 @@
   publisher: Genes &amp; Nutrition
   date: '2015-04-11'
   link: https://doi.org/gqnd8j
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12263-015-0461-7/MediaObjects/12263_2015_461_Fig1_HTML.gif?as=webp
+  image: https://media.springernature.com/w110/springer-static/cover/journal/12263.jpg
   extra-links:
   - type: journal
     link: https://genesandnutrition.biomedcentral.com/articles/10.1007/s12263-015-0461-7
   tags:
   - Collaboration Paper
   - Data Analysis
-  _cache: ded53427eb5cc52baa3fe3d9ce78a8f0346586d103c79d1280ad0bd89f2ed270
+  _cache: 81ed8d25d1961cb88e88e4f5ad5476847e607ef8cc2a0092b2316b98c316507f
 - id: doi:10.1101/gr.183368.114
   title: The role of DNA methylation in directing the functional organization of the
     cancer epigenome
@@ -1703,7 +1954,7 @@
   publisher: Genome Research
   date: '2015-03-06'
   link: https://doi.org/f67k4n
-  image: https://genome.cshlp.org/content/25/4/467/F1.small.gif
+  image: https://pbs.twimg.com/profile_images/1122921507338895361/ZlthcxIL_400x400.jpg
   extra-links:
   - type: journal
     link: https://genome.cshlp.org/content/25/4/467.full
@@ -1712,8 +1963,7 @@
     text: Source code
   tags:
   - Data Analysis
-  - EpiFluidLab
-  _cache: e148442e6c03044e82665eb71a3b4c158602aad1513f4b1704e95d7ba2c434d9
+  _cache: e4dcb977d74c6cd1adb52c2076ea2a22fc3cbc584f019ac93516bcdb91dfa686
 - id: doi:10.1038/nature14248
   title: Integrative analysis of 111 reference human epigenomes
   authors:
@@ -1816,13 +2066,13 @@
   publisher: Nature
   date: '2015-02-18'
   link: https://doi.org/f62jpn
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature14248/MediaObjects/41586_2015_Article_BFnature14248_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/nature14248
   tags:
   - Consortium Paper
-  _cache: 9333029f8f91af8e6cf92a01668958bcedb74f6310d96462eca218dfff41ca97
+  _cache: 7e0010dcde238dde0d8a29f34e0b49fcbd2b7e30a064cc19a72b2f80413dd8f0
 - id: doi:10.1101/gr.143008.112
   title: Genome-wide mapping of nucleosome positioning and DNA methylation within
     individual DNA molecules
@@ -1836,7 +2086,7 @@
   publisher: Genome Research
   date: '2012-09-07'
   link: https://doi.org/f4f6g9
-  image: https://genome.cshlp.org/content/22/12/2497/F1.small.gif
+  image: https://pbs.twimg.com/profile_images/1122921507338895361/ZlthcxIL_400x400.jpg
   extra-links:
   - type: journal
     link: https://genome.cshlp.org/content/22/12/2497.full
@@ -1845,8 +2095,7 @@
     text: Source code
   tags:
   - Experimental Methods
-  - EpiFluidLab
-  _cache: 8fcb1e7da932c034e9d1a34f08e68b4455a667727b8d85ed25f6deae47564c0c
+  _cache: c9a17bcf2ccba7d1b3591dedb7eb6eee0db485a878a86dba840ee6702af82fd9
 - id: doi:10.1186/gb-2012-13-7-r61
   title: 'Bis-SNP: Combined DNA methylation and SNP calling for Bisulfite-seq data'
   authors:
@@ -1857,7 +2106,7 @@
   publisher: Genome Biology
   date: '2012-01-01'
   link: https://doi.org/gn9sd5
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2012-13-7-r61/MediaObjects/13059_2012_Article_2899_Fig2_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/917700997350346752/Hv2vqWsQ_400x400.jpg
   extra-links:
   - type: journal
     link: https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-7-r61
@@ -1866,8 +2115,7 @@
     text: Source code
   tags:
   - Computational Methods
-  - EpiFluidLab
-  _cache: 1c3a22a8f59ec101dfcb10541ac8b5756f0e933e0ca746b2d7721831d2c34d20
+  _cache: 7f0644069cb1d0c9a3929d828e2df578b057f8bfb32f83aff445b1742cdd1497
 - id: doi:10.1038/ng.969
   title: "Regions of focal DNA hypermethylation and long-range hypomethylation in\
     \ colorectal cancer coincide with nuclear lamina\u2013associated domains"
@@ -1887,14 +2135,14 @@
   publisher: Nature Genetics
   date: '2011-11-27'
   link: https://doi.org/fxdg5t
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.969/MediaObjects/41588_2012_Article_BFng969_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/1186995531345739777/WXolsdoI_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.nature.com/articles/ng.969
   tags:
   - Collaboration Paper
   - Data Analysis
-  _cache: dbbf3d73847c4d2635732ca7217ba9e936e58db227ba0e0f39511614e374fabe
+  _cache: 1efad038bb2d08006d2b657f51d38994e72124ad3caa6f2fcd5b625ff5c7066c
 - id: doi:10.1186/gb-2009-10-7-r78
   title: Identification and characterization of novel amphioxus microRNAs by Solexa
     sequencing
@@ -1918,14 +2166,14 @@
   publisher: Genome Biology
   date: '2009-01-01'
   link: https://doi.org/fp4wgv
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2009-10-7-r78/MediaObjects/13059_2009_Article_2228_Fig1_HTML.jpg?as=webp
+  image: https://pbs.twimg.com/profile_images/917700997350346752/Hv2vqWsQ_400x400.jpg
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1186/gb-2009-10-7-r78
   tags:
   - Collaboration Paper
   - Data Analysis
-  _cache: bf01f56c189f44222a1d65c03e6646dc80f855badebf848ace9e540fecefd288
+  _cache: d40836f5557258ba6b82dc91bf3a13d5c7aaca27e463551cc58fa53caf10b04c
 - id: doi:10.1016/j.jhep.2008.10.034
   title: 'HDMCP uncouples yeast mitochondrial respiration and alleviates steatosis
     in L02 and hepG2 cells by decreasing ATP and H2O2 levels: A novel mechanism for
@@ -1945,11 +2193,11 @@
   publisher: Journal of Hepatology
   date: '2009-05-01'
   link: https://doi.org/dztbnr
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827809X00048-cov200h.gif
+  image: https://pbs.twimg.com/profile_images/930733684763873280/sUImFXl2_400x400.jpg
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S0168827808008052
   tags:
   - Collaboration Paper
   - Data Analysis
-  _cache: 3036a89ab996fbba71659cf145407002b21bc5052be509393f2f5790d4436339
+  _cache: 9799dacdfe3331af419a3b04d11e1fad79f7fe33d3e64dd15f03af481ba2bd44

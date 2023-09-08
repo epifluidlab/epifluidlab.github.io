@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-First author (including shared 1st authorship) or corresponding author (shared corresponding authorship) papers from the EpiFluid Lab are marked with "EpiFluidLab" tag.
+First author (including shared 1st authorship) or corresponding author (shared corresponding authorship) papers from the EpiFluid Lab since 2019 are marked with "EpiFluidLab" tag.
 
 The complete list of publications and their citations are available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=prIRHQQAAAAJ&view_op=list_works&sortby=pubdate)
 
