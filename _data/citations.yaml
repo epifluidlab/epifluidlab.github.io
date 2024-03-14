@@ -1,6 +1,86 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2024.01.02.573710
+  title: 'FinaleMe: Predicting DNA methylation by the fragmentation patterns of plasma
+    cell-free DNA'
+  authors:
+  - Yaping Liu
+  - Sarah C. Reed
+  - Christopher Lo
+  - Atish D. Choudhury
+  - Heather A. Parsons
+  - Daniel G. Stover
+  - Gavin Ha
+  - Gregory Gydush
+  - Justin Rhoades
+  - Denisse Rotem
+  - Samuel Freeman
+  - David Katz
+  - Ravi Bandaru
+  - Haizi Zheng
+  - Hailu Fu
+  - Viktor A. Adalsteinsson
+  - Manolis Kellis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-02'
+  link: https://doi.org/gtmv85
+  image: https://pbs.twimg.com/card_img/1697420284435849216/thxC6Z8z?format=png&name=360x360
+  extra-links:
+  - type: journal
+    link: https://www.biorxiv.org/content/10.1101/2024.01.02.573710v1.full
+  - type: source
+    link: https://github.com/epifluidlab/FinaleMe.git
+    text: FinaleMe source code
+  - type: dataset
+    link: https://doi.org/10.5281/zenodo.7647046/
+    text: Dataset
+  tags:
+  - Computational Methods
+  - EpiFluidLab
+  _cache: bfd580accdab70efd9b4dd04bfdfe58f77a4ff5013cfe719c12e1255769522b0
+- id: doi:10.1681/ASN.0000000000000324
+  title: "Reduced Nephron Endowment in Six2-TGC tg Mice Is Due to Six3 Misexpression\
+    \ by Aberrant Enhancer\u2013Promoter Interactions in the Transgene"
+  authors:
+  - Alison J. Perl
+  - Han Liu
+  - Matthew Hass
+  - Nirpesh Adhikari
+  - Praneet Chaturvedi
+  - Yueh-Chiang Hu
+  - Rulang Jiang
+  - Yaping Liu
+  - Raphael Kopan
+  publisher: Journal of the American Society of Nephrology
+  date: '2024-03-06'
+  link: https://doi.org/gtmv86
+  image: https://pbs.twimg.com/profile_images/1359929276468850691/Wm_i6aye_400x400.png
+  extra-links:
+  - type: journal
+    link: https://journals.lww.com/jasn/abstract/9900/reduced_nephron_endowment_in_six2_tgctg_mice_is.267.aspx
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: e08be7fc5a3d48604aaaee07d3fcc47076d936fee5c7eb2daa5c9142e94dbb15
+- id: doi:10.1093/nar/gkae054
+  title: Tet-mediated DNA methylation dynamics affect chromosome organization
+  authors:
+  - Hao Tian
+  - Pengfei Luan
+  - Yaping Liu
+  - Guoqiang Li
+  publisher: Nucleic Acids Research
+  date: '2024-02-01'
+  link: https://doi.org/gtmdvw
+  image: https://pbs.twimg.com/profile_images/1618289430397059072/hMky-2pg_400x400.jpg
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae054/7596006
+  tags:
+  - Collaboration Paper
+  - Data Analysis
+  _cache: 6e6be4fdd41400b8b2cf516e180f5cffb1fb4c5affb6271df5bb17b019661a85
 - id: doi:10.1038/s41586-022-05487-2
   title: Human fetal cerebellar cell atlas informs medulloblastoma origin and oncogenesis
   authors:

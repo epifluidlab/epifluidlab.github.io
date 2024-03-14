@@ -38,4 +38,4 @@ Epigenetic modifications, including DNA methylation, histone modifications, and 
 
 # Funding
 
-Our work is currently (and was previously) supported by **NIH** (R35GM147283, R56HG012360), **NSF** (ACCESS and XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), and **Northwestern University** (Yaping Liu's start-up).
+Our work is currently (and was previously) supported by **NIH** (R35GM147283, R56HG012360), **NSF** (ACCESS and XSEDE Resource Allocation Service), **Bill & Melinda Gates Foundation** (MOMI Ideas Award), **Sony Research Foundation** (Sony Focus Research Award), and **Northwestern University** (Yaping Liu's start-up).

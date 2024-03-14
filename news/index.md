@@ -5,6 +5,8 @@ nav:
   tooltip: Published works
 ---
 
+- 01/29/2024：Ravi Bandaru from Pen state university joins the lab as a Full-time Data Analyst. Welcome!
+
 - 09/01/2023：Our lab is moved to Northwestern University Feinberg School of Medicine.
 
 - 05/25/2023：Ravi Bandaru from Pen state university and James Li from Wake Forest University joins the lab for the SURF program this summer. Welcome!

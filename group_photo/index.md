@@ -73,6 +73,9 @@ image15="images/group_photos/2023_8.jpg"
 link15="images/group_photos/2023_8.jpg"
 tooltip15="Yaping's farewell party at CCHMC"
 
+image16="images/group_photos/2023_9.jpg"
+link16="images/group_photos/2023_9.jpg"
+tooltip16="Christmas lunch together at Hunan Cuisine in Chicago"
 
 %}
 

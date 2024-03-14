@@ -1,3 +1,37 @@
+- id: doi:10.1101/2024.01.02.573710
+  image: https://pbs.twimg.com/card_img/1697420284435849216/thxC6Z8z?format=png&name=360x360
+  extra-links:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/2024.01.02.573710v1.full
+    - type: source
+      link: https://github.com/epifluidlab/FinaleMe.git
+      text: FinaleMe source code
+    - type: source
+      link: https://doi.org/10.5281/zenodo.7647046/
+      text: Dataset
+  tags:
+    - Computational Methods
+    - Preprint
+    - EpiFluidLab
+
+- id: doi:10.1681/ASN.0000000000000324
+  image: https://pbs.twimg.com/profile_images/1359929276468850691/Wm_i6aye_400x400.png
+  extra-links:
+    - type: journal
+      link: https://journals.lww.com/jasn/abstract/9900/reduced_nephron_endowment_in_six2_tgctg_mice_is.267.aspx
+  tags:
+    - Collaboration Paper
+    - Data Analysis
+
+- id: doi:10.1093/nar/gkae054
+  image: https://pbs.twimg.com/profile_images/1618289430397059072/hMky-2pg_400x400.jpg
+  extra-links:
+    - type: journal
+      link: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae054/7596006
+  tags:
+    - Collaboration Paper
+    - Data Analysis
+
 - id: doi:10.1038/s41586-022-05487-2
   image: https://pbs.twimg.com/profile_images/1393206230152327170/QnzohDIu_400x400.jpg
   extra-links:

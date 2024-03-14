@@ -1,7 +1,7 @@
 ---
 name: Li Wang
 image: images/liwang_2022.jpg
-description: Research Associate Professor
+description: Research Assistant Professor
 role: faculty
 aliases:
   - L. Wang
@@ -14,4 +14,4 @@ links:
 
 ---
 
-Dr. Li Wang is an Assistant Professor (tenure-track) at the Department of Biology in the Xavier University and an visiting assistant professor at the EpiFluid Lab. In 2019-2022. she was Sr. Specialist GxP and research associate at CCHMC. Prior to joining CCHMC, she was a postdoc associate with Dr. Manolis Kellis in the Broad institute of MIT and Harvard. In 2015, she received her Ph.D. in Plant Biology (Epigenomics) from the Department of Plant Biology at University of Georgia. In 2008, she received her B.S. in Biotechnology and minor in English from Beijing Normal University.
+Dr. Li Wang was an Assistant Professor (tenure-track) at the Department of Biology in the Xavier University and an visiting assistant professor at the EpiFluid Lab. In 2019-2022. she was Sr. Specialist GxP and research associate at CCHMC. Prior to joining CCHMC, she was a postdoc associate with Dr. Manolis Kellis in the Broad institute of MIT and Harvard. In 2015, she received her Ph.D. in Plant Biology (Epigenomics) from the Department of Plant Biology at University of Georgia. In 2008, she received her B.S. in Biotechnology and minor in English from Beijing Normal University.
