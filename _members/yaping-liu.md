@@ -1,6 +1,6 @@
 ---
 name: Yaping Liu
-image: images/yaping.2017.jpg
+image: images/yaping_2024.jpg
 description: Principal Investigator
 role: pi
 aliases:

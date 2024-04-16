@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1101/2024.01.02.573710
+- id: doi:10.1038/s41467-024-47196-6
   title: 'FinaleMe: Predicting DNA methylation by the fragmentation patterns of plasma
     cell-free DNA'
   authors:
@@ -16,29 +16,29 @@
   - Justin Rhoades
   - Denisse Rotem
   - Samuel Freeman
-  - David Katz
+  - David W. Katz
   - Ravi Bandaru
   - Haizi Zheng
   - Hailu Fu
   - Viktor A. Adalsteinsson
   - Manolis Kellis
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-02'
-  link: https://doi.org/gtmv85
-  image: https://pbs.twimg.com/card_img/1697420284435849216/thxC6Z8z?format=png&name=360x360
+  publisher: Nature Communications
+  date: '2024-03-30'
+  link: https://doi.org/gtq6c8
+  image: https://pbs.twimg.com/profile_images/1646627433406234626/v4sbOpgS_400x400.jpg
   extra-links:
   - type: journal
-    link: https://www.biorxiv.org/content/10.1101/2024.01.02.573710v1.full
+    link: https://www.nature.com/articles/s41467-024-47196-6
   - type: source
     link: https://github.com/epifluidlab/FinaleMe.git
     text: FinaleMe source code
-  - type: dataset
+  - type: source
     link: https://doi.org/10.5281/zenodo.7647046/
     text: Dataset
   tags:
   - Computational Methods
   - EpiFluidLab
-  _cache: bfd580accdab70efd9b4dd04bfdfe58f77a4ff5013cfe719c12e1255769522b0
+  _cache: e155d2d9242fc727233c9fd3bb0a58523c40335df0325cdc6a6c199e367f747d
 - id: doi:10.1681/ASN.0000000000000324
   title: "Reduced Nephron Endowment in Six2-TGC tg Mice Is Due to Six3 Misexpression\
     \ by Aberrant Enhancer\u2013Promoter Interactions in the Transgene"

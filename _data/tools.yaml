@@ -2,7 +2,7 @@
   subtitle: Predict cfDNA methylation and its tissues-of-origin by cfDNA fragmentation patterns
   group: featured
   image: https://www.biorxiv.org/content/biorxiv/early/2024/01/02/2024.01.02.573710/F2.medium.gif
-  link: https://doi.org/10.1101/2024.01.02.573710
+  link: https://doi.org/10.1038/s41467-024-47196-6
   description: FinaleMe (FragmentatIoN AnaLysis of cEll-free DNA Methylation) is a Java program to predict DNA methylation in deep and low-coverage cell-free DNA WGS data without other training data.
   repo: epifluidlab/FinaleMe
   tags:

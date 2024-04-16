@@ -77,5 +77,14 @@ image16="images/group_photos/2023_9.jpg"
 link16="images/group_photos/2023_9.jpg"
 tooltip16="Christmas lunch together at Hunan Cuisine in Chicago"
 
+image16="images/group_photos/2024_1.jpg"
+link16="images/group_photos/2024_1.jpg"
+tooltip16="Dr. Li Wang show high school junior girls (image credit from https://news.feinberg.northwestern.edu/2024/03/15/sqe-inspire-program-hosts-shadow-day-for-high-school-girls/)"
+
+image17="images/group_photos/2024_4.jpg"
+link17="images/group_photos/2024_4.jpg"
+tooltip17="Eclipse watch at Indiana"
+
+
 %}
 

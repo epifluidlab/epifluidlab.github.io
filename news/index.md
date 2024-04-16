@@ -4,6 +4,7 @@ nav:
   order: 5
   tooltip: Published works
 ---
+- 03/30/2024: Our FinaleMe work is accepted by Nature Communications. See report from [Northwestern](https://news.feinberg.northwestern.edu/2024/04/11/developing-tools-to-explore-dna-methylation/)
 
 - 01/29/2024：Ravi Bandaru from Pen state university joins the lab as a Full-time Data Analyst. Welcome!
 
