@@ -60,6 +60,7 @@ filters="role: programmer"
 * Postdoc
   * **Haizi Zheng, Ph.D.**, Research associate, 2020-2022. <em>Current appointment</em>: Principal Scientist at Regeneron Pharmaceuticals. <br>
   * **Xionghui Zhou, Ph.D.**, Research fellow, 2019-2020. <em>Current appointment</em>: Faculty at Huazhong Agricultural University.<br>
+  * **David Katz, Ph.D.**, Research fellow, 2023-2024.
 
 * Technician
   * **Long Hu**, Research assistant, 2019-2020.<br>

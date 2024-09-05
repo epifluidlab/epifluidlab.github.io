@@ -4,6 +4,21 @@ nav:
   order: 5
   tooltip: Published works
 ---
+
+- 08/02/2024: Jiayan (Yoshii) Ma from DGP program decides to join us as the PhD student. Welcome!
+
+- 07/27/2024: Kundan Baliga from Neuqua Valley High School joined us as a high school intern. Welcome!
+
+- 07/25/2024: Ravi Bandaru received the runner up award ($10,000 for one year) from Science Olympiad Alumni Research (SOAR) Foundation for his cfDNA research work in our lab. Congrats!
+
+- 07/19/2024: Sanaz Ghotbaldini received the T32 Carcinogenesis fellowship for her PhD thesis project! Congrats!
+
+- 07/12/2024: James Li just presented his work did in our lab last summer at the ISMB conference (Montreal, Canada) and received the 2nd place award for the best talk at the student symposium! Congrats!!
+
+- 05/16/2024: Ethan Lin from Northwestern University won a Weinberg College Summer Research Grant and will join us for the summer internship. Congrats!
+
+- 04/06/2024: Sanaz Ghotbaldini from Dr. Joshua J Meeks's lab joins the lab as a co-mentored Ph.D. student. Welcome!
+
 - 03/30/2024: Our FinaleMe work is accepted by Nature Communications. See report from [Northwestern](https://news.feinberg.northwestern.edu/2024/04/11/developing-tools-to-explore-dna-methylation/)
 
 - 01/29/2024：Ravi Bandaru from Pen state university joins the lab as a Full-time Data Analyst. Welcome!

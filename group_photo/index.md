@@ -85,6 +85,22 @@ image17="images/group_photos/2024_4.jpg"
 link17="images/group_photos/2024_4.jpg"
 tooltip17="Eclipse watch at Indiana"
 
+image18="images/group_photos/2024_5.jpg"
+link18="images/group_photos/2024_5.jpg"
+tooltip18="Group together at lake front"
+
+image19="images/group_photos/2024_6.jpg"
+link19="images/group_photos/2024_6.jpg"
+tooltip19="Group together at Lincoln Park Zoo"
+
+image20="images/group_photos/2024_7.jpg"
+link20="images/group_photos/2024_7.jpg"
+tooltip20="James Li present his summer intern work at ISMB 2024 conference"
+
+image21="images/group_photos/2024_8.png"
+link21="images/group_photos/2024_8.png"
+tooltip21="Ravi Bandaru received the runner up award from SOAR Foundation"
+
 
 %}
 
