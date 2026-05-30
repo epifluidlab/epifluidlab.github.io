@@ -1,6 +1,6 @@
 # EpiFluid Lab Website
 
-Built with [Astro](https://astro.build). Automatically deploys to GitHub Pages when you push to `main`.
+Built with [Astro](https://astro.build). Automatically deploys to GitHub Pages when you push to `master`.
 
 ---
 
