@@ -17,7 +17,7 @@ Then open `http://localhost:4321` in your browser.
 
 ## Deploying
 
-Just push to `main`. GitHub Actions will build and deploy automatically. Takes about a minute.
+Just push to `master`. GitHub Actions will build and deploy automatically. Takes about a minute.
 
 ```
 git add .
