@@ -1,0 +1,66 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { members } from '../data/members';
+---
+<Layout title="Team" description="Meet the EpiFluid Lab team at Northwestern University.">
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">Team</h1>
+
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-x-8 gap-y-12">
+      {members.map((member) => (
+        <div class="flex flex-col items-center text-center">
+          <div class="w-36 h-36 rounded-full overflow-hidden mb-4 flex-shrink-0">
+            <img
+              src={member.image}
+              alt={member.name}
+              class="w-full h-full object-cover"
+            />
+          </div>
+          <h3 class="font-bold text-gray-900 text-base leading-tight mb-1">{member.name}</h3>
+          <p class="text-nu-purple text-xs font-medium mb-2">{member.title}</p>
+          <p class="text-xs text-gray-500 leading-relaxed">{member.bio}</p>
+          {member.email && (
+            <a href={`mailto:${member.email}`} class="mt-2 text-xs text-gray-400 hover:text-nu-purple transition-colors">
+              {member.email}
+            </a>
+          )}
+        </div>
+      ))}
+    </div>
+
+    <!-- Alumni -->
+    <div class="mt-20 mb-12">
+      <h2 class="text-xl font-bold text-gray-900 mb-6">Alumni</h2>
+      <div class="divide-y divide-gray-100">
+        {[
+          { name: 'Xionghui Zhou, Ph.D.', years: '2019–2020', note: 'Faculty, Huazhong Agricultural University' },
+          { name: 'Long Hu', years: '2019–2020', note: '' },
+          { name: 'Rosalyn Liou', years: '2019', note: 'MD Student, University of Toledo' },
+          { name: 'Michelle Zhu', years: '2019', note: 'MD Student, UT Southwestern' },
+          { name: 'Haizi Zheng, Ph.D.', years: '2020–2022', note: 'Principal Scientist, Regeneron Pharmaceuticals' },
+          { name: 'Ken Chen', years: '2021', note: 'Undergraduate, UC Berkeley' },
+          { name: 'David Katz, Ph.D.', years: '2023–2024', note: 'Research Fellow, Mayo Clinic' },
+        ].map(({ name, years, note }) => (
+          <div class="flex items-baseline justify-between py-2.5 gap-4">
+            <div class="flex items-baseline gap-3">
+              <span class="font-medium text-gray-900 text-sm">{name}</span>
+              {note && <span class="text-xs text-gray-400">{note}</span>}
+            </div>
+            <span class="text-xs text-gray-400 flex-shrink-0">{years}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Join us -->
+    <div class="flex items-center justify-between gap-6 rounded-xl bg-nu-ghost-soft border border-nu-ghost px-8 py-6">
+      <div>
+        <h2 class="text-lg font-bold text-gray-900 mb-1">Join the Lab</h2>
+        <p class="text-sm text-gray-500">We recruit graduate students, postdocs, and undergraduates interested in epigenomics and liquid biopsy.</p>
+      </div>
+      <a href="/contact" class="flex-shrink-0 px-5 py-2.5 bg-nu-purple text-white rounded-lg font-medium text-sm hover:bg-nu-dark transition-colors">
+        Get in Touch
+      </a>
+    </div>
+  </div>
+</Layout>

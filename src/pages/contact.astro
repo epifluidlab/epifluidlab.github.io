@@ -1,0 +1,85 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Contact" description="Contact the EpiFluid Lab at Northwestern University.">
+  <div class="max-w-4xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">Contact</h1>
+    <p class="text-gray-500 mb-16 max-w-2xl">
+      We are located on the 7th floor of the Simpson Querrey building (7-300 and 7-304).
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-10">
+      <!-- Contact info -->
+      <div class="space-y-8">
+        <div>
+          <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-widest mb-4">Principal Investigator</h2>
+          <div class="flex items-center gap-4 mb-4">
+            <img src="/images/yaping_2024.jpg" alt="Yaping Liu" class="w-16 h-16 rounded-xl object-cover" />
+            <div>
+              <div class="font-bold text-gray-900">Yaping Liu, Ph.D.</div>
+              <div class="text-sm text-nu-purple">Assistant Professor</div>
+            </div>
+          </div>
+          <div class="space-y-3 text-sm text-gray-600">
+            <div class="flex items-center gap-3">
+              <svg class="w-4 h-4 text-gray-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+              <a href="mailto:yaping@northwestern.edu" class="text-nu-purple hover:underline">yaping@northwestern.edu</a>
+            </div>
+            <div class="flex items-start gap-3">
+              <svg class="w-4 h-4 text-gray-400 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+              <span>Simpson Querrey Biomedical Research Center<br/>303 E. Superior St., Chicago, IL 60611</span>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-widest mb-4">Links</h2>
+          <div class="space-y-2">
+            {[
+              { label: 'Faculty Profile', href: 'https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=60180' },
+              { label: 'Google Scholar', href: 'https://scholar.google.com/citations?user=YapingLiu' },
+              { label: 'GitHub: epifluidlab', href: 'https://github.com/epifluidlab' },
+              { label: 'X / Twitter: @yapingliu', href: 'https://twitter.com/yapingliu' },
+              { label: 'ORCID', href: 'https://orcid.org/0000-0003-4165-7693' },
+            ].map(({ label, href }) => (
+              <a href={href} target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-gray-600 hover:text-nu-purple transition-colors group">
+                <svg class="w-4 h-4 text-gray-300 group-hover:text-nu-pale" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+                {label}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <!-- Join the lab -->
+      <div>
+        <div class="rounded-2xl bg-nu-ghost-soft border border-nu-ghost p-8 mb-6">
+          <h2 class="text-lg font-bold text-gray-900 mb-3">Join the Lab</h2>
+          <p class="text-sm text-gray-600 leading-relaxed mb-4">
+            We are actively recruiting motivated individuals at all levels:
+          </p>
+          <ul class="space-y-2 text-sm text-gray-600 mb-6">
+            <li class="flex items-start gap-2"><span class="text-nu-light mt-0.5">▸</span><span><strong>Postdoctoral researchers</strong> — computational genomics, epigenomics, or single-cell biology background</span></li>
+            <li class="flex items-start gap-2"><span class="text-nu-light mt-0.5">▸</span><span><strong>Ph.D. students</strong> — through DGP, NUIN, or similar Northwestern programs</span></li>
+            <li class="flex items-start gap-2"><span class="text-nu-light mt-0.5">▸</span><span><strong>Undergraduate / rotation students</strong> — computational or wet-lab interest</span></li>
+          </ul>
+          <p class="text-sm text-gray-600 mb-4">
+            Please send your CV and a brief statement of your research interests to Dr. Liu.
+          </p>
+          <a href="mailto:yaping@northwestern.edu" class="inline-block px-5 py-2.5 bg-nu-purple text-white rounded-lg text-sm font-medium hover:bg-nu-purple transition-colors">
+            Email Dr. Liu
+          </a>
+        </div>
+
+        <div class="rounded-2xl border border-gray-200 p-8">
+          <h2 class="text-lg font-bold text-gray-900 mb-3">Affiliations</h2>
+          <ul class="space-y-2 text-sm text-gray-600">
+            <li><a href="https://www.feinberg.northwestern.edu/sites/epigenetics/index.html" target="_blank" rel="noopener" class="text-nu-purple hover:underline">Simpson Querrey Institute for Epigenetics</a></li>
+            <li><a href="https://www.feinberg.northwestern.edu/sites/biochem/index.html" target="_blank" rel="noopener" class="text-nu-purple hover:underline">Dept. of Biochemistry and Molecular Genetics</a></li>
+            <li><a href="https://www.cancer.northwestern.edu/" target="_blank" rel="noopener" class="text-nu-purple hover:underline">Robert H. Lurie Comprehensive Cancer Center</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>

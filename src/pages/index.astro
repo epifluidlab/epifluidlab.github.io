@@ -1,0 +1,68 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Home">
+
+  <!-- Hero -->
+  <section class="relative bg-gradient-to-br from-nu-dark via-nu-purple to-nu-dark text-white overflow-hidden">
+    <div class="absolute inset-0 opacity-10">
+      <div class="absolute top-0 left-0 w-96 h-96 bg-nu-light rounded-full filter blur-3xl -translate-x-1/2 -translate-y-1/2"></div>
+      <div class="absolute bottom-0 right-0 w-96 h-96 bg-nu-light rounded-full filter blur-3xl translate-x-1/2 translate-y-1/2"></div>
+    </div>
+    <div class="relative max-w-6xl mx-auto px-6 py-24 md:py-32 flex items-center justify-between gap-12">
+      <div class="max-w-2xl">
+        <h1 class="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
+          EpiFluid Lab
+        </h1>
+        <p class="text-nu-ghost text-lg md:text-xl leading-relaxed mb-10 max-w-2xl">
+          The dark matter of the genome: decoding non-coding genetic variants through multi-omics inside and outside the cell.
+        </p>
+        <div class="flex flex-wrap gap-4">
+          <a href="/research" class="px-6 py-3 bg-white text-nu-dark rounded-lg font-semibold hover:bg-nu-ghost-soft transition-colors">Our Research</a>
+          <a href="/publications" class="px-6 py-3 border border-nu-pale text-white rounded-lg font-semibold hover:bg-white/10 transition-colors">Publications</a>
+        </div>
+      </div>
+      <div class="hidden lg:block flex-shrink-0">
+        <img src="/images/logo.epifluidlab.png" alt="EpiFluid Lab" class="w-72 h-72 object-contain opacity-90" />
+      </div>
+    </div>
+  </section>
+
+  <!-- About + Photo -->
+  <section class="max-w-6xl mx-auto px-6 py-20">
+    <div class="grid md:grid-cols-2 gap-16 items-center">
+      <div>
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">About the Lab</h2>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          We are an epigenomics and computational biology lab within the <a href="https://www.feinberg.northwestern.edu/sites/epigenetics/index.html" class="text-nu-purple hover:underline" target="_blank" rel="noopener">Simpson Querrey Institute for Epigenetics</a>, the <a href="https://www.feinberg.northwestern.edu/sites/biochem/index.html" class="text-nu-purple hover:underline" target="_blank" rel="noopener">Department of Biochemistry and Molecular Genetics</a>, and the <a href="https://www.cancer.northwestern.edu/" class="text-nu-purple hover:underline" target="_blank" rel="noopener">Robert H. Lurie Comprehensive Cancer Center</a> at Northwestern University Feinberg School of Medicine.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-4">
+          Our long-term research interest is to decode the human genome. We develop and apply computational and high-throughput experimental methods in epigenomics to understand the gene regulatory roles of non-coding genetic variants in pathological conditions, including cancers and neurodegenerative diseases.
+        </p>
+        <p class="text-gray-600 leading-relaxed mb-8">
+          Specifically, our work focuses on two fronts: computational method development for <span class="font-medium text-gray-800">circulating cell-free DNA fragmentation</span>, and new biotechnology for the <span class="font-medium text-gray-800">joint profiling of multi-omics within single cells</span>, with the ultimate goal of enabling biomarker discovery for the early diagnosis and prognosis of complex diseases.
+        </p>
+        <div class="flex gap-3 flex-wrap">
+          <a href="/team" class="inline-flex items-center gap-2 px-5 py-2.5 bg-nu-purple text-white rounded-lg font-medium hover:bg-nu-dark transition-colors text-sm">
+            Meet the Team
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-md">
+        <img src="/images/sqbrc.jpeg" alt="Simpson Querrey Biomedical Research Center" class="w-full h-full object-cover" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Funding -->
+  <section class="bg-nu-ghost-soft border-t border-nu-ghost">
+    <div class="max-w-6xl mx-auto px-6 py-12">
+      <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-widest mb-6">Funding</h2>
+      <p class="text-gray-600 leading-relaxed text-sm">
+        Our work is supported by <strong class="text-gray-800">NIH</strong> (R35GM147283, R56HG012360), <strong class="text-gray-800">NSF</strong> (ACCESS Resource Allocation), <strong class="text-gray-800">Bill &amp; Melinda Gates Foundation</strong> (MOMI Ideas Award), <strong class="text-gray-800">Sony Research Foundation</strong> (Sony Focus Research Award), and <strong class="text-gray-800">Northwestern University</strong>.
+      </p>
+    </div>
+  </section>
+
+</Layout>

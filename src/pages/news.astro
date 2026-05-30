@@ -1,0 +1,49 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { news } from '../data/news';
+---
+<Layout title="News" description="Latest news from the EpiFluid Lab.">
+  <div class="max-w-4xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">News</h1>
+    <p class="text-gray-500 mb-16">Updates from the lab — new papers, awards, and new members.</p>
+
+    <div class="relative">
+      <!-- Timeline line -->
+      <div class="absolute left-[5.5rem] top-0 bottom-0 w-px bg-gray-100 hidden sm:block"></div>
+
+      <div class="space-y-8">
+        {news.map((item, i) => {
+          const date = new Date(item.date);
+          const month = date.toLocaleDateString('en-US', { month: 'short' });
+          const year = date.getFullYear();
+          const day = date.getDate();
+          return (
+            <div class="flex gap-6 items-start group">
+              <!-- Date -->
+              <div class="flex-shrink-0 text-right w-20 pt-0.5 hidden sm:block">
+                <div class="text-xs text-gray-400 font-mono">{month} {year}</div>
+                <div class="text-lg font-bold text-nu-purple">{day}</div>
+              </div>
+              <!-- Dot -->
+              <div class="flex-shrink-0 w-3 h-3 rounded-full bg-nu-pale group-hover:bg-nu-pale transition-colors mt-1.5 hidden sm:block relative z-10"></div>
+              <!-- Content -->
+              <div class="flex-1 pb-2">
+                <div class="sm:hidden text-xs text-gray-400 font-mono mb-1">
+                  {date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}
+                </div>
+                <p class="text-gray-700 leading-relaxed">
+                  {item.text}
+                  {item.link && (
+                    <a href={item.link} target="_blank" rel="noopener" class="ml-1 text-nu-purple hover:underline font-medium">
+                      {item.linkText}
+                    </a>
+                  )}
+                </p>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  </div>
+</Layout>

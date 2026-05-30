@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Research" description="EpiFluid Lab research projects: AI for cell-free DNA liquid biopsy and single-cell multi-omics technology development.">
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">Research</h1>
+    <p class="text-xl text-gray-500 mb-16 max-w-2xl">
+      Our long-term goal is to decode the human genome. We combine computational method development and experimental technology to understand how non-coding regulatory elements drive disease.
+    </p>
+
+    <!-- cfDNA -->
+    <section id="cfdna" class="mb-20 scroll-mt-24">
+      <div class="grid md:grid-cols-5 gap-12 items-center">
+        <div class="md:col-span-2">
+          <span class="text-xs font-semibold text-nu-purple uppercase tracking-widest">Liquid Biopsy</span>
+          <h2 class="text-3xl font-bold text-gray-900 mt-2 mb-4">Artificial Intelligence for Liquid Biopsy</h2>
+          <p class="text-gray-600 leading-relaxed mb-4">
+            Circulating cell-free DNA (cfDNA) is released into the peripheral blood after cellular death and recycled every few minutes for up to 12 hours. The collection of cfDNA fragments represents a real-time <em>in vivo</em> snapshot of the genome from cells contributing to cfDNA, and cfDNA is not randomly fragmented, but reflects the epigenetic state of those source cells.
+          </p>
+          <p class="text-gray-600 leading-relaxed mb-4">
+            Millions of cfDNA sequencing datasets are generated in clinics every year. To leverage these datasets, we are developing computational methods based on generative AI to reconstruct cellular epigenomes and transcriptomes from a single cfDNA assay. This enables non-invasive identification of biomarkers for the early diagnosis and prognosis of cancers, neurodegenerative diseases, and neuroinflammatory conditions.
+          </p>
+          <div class="mt-6">
+            <h4 class="text-sm font-semibold text-gray-900 mb-3">Key tools &amp; publications</h4>
+            <ul class="space-y-2">
+              <li>
+                <a href="https://doi.org/10.1093/bioadv/vbaf236" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleToolkit · Bioinformatics Advances (2025)</a>
+                <p class="text-xs text-gray-500">High-speed toolkit for extracting cfDNA fragmentation features</p>
+              </li>
+              <li>
+                <a href="https://www.nature.com/articles/s41467-024-47196-6" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleMe · Nature Communications (2024)</a>
+                <p class="text-xs text-gray-500">Predicts DNA methylation from cfDNA fragmentation patterns</p>
+              </li>
+              <li>
+                <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">CRAG · Genome Medicine (2022)</a>
+                <p class="text-xs text-gray-500">De novo characterization of cfDNA fragmentation hotspots</p>
+              </li>
+              <li>
+                <a href="https://doi.org/10.1093/bioinformatics/btaa999" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleDB · Bioinformatics (2020)</a>
+                <p class="text-xs text-gray-500">Database and browser for cfDNA fragmentation patterns</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="md:col-span-3">
+          <img src="/images/cfdna_epi.png" alt="cfDNA epigenomics diagram" class="w-full object-contain" />
+          <p class="text-xs text-gray-400 text-center py-2 px-4">Utilizing cfDNA fragmentation patterns and AI to monitor gene regulation during disease initiation and progression.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="border-t border-gray-100 mb-20"></div>
+
+    <!-- Multi-omics -->
+    <section id="multiomics" class="mb-20 scroll-mt-24">
+      <div class="grid md:grid-cols-5 gap-12 items-center">
+        <div class="md:order-2 md:col-span-2">
+          <span class="text-xs font-semibold text-nu-purple uppercase tracking-widest">Multi-omics Technology</span>
+          <h2 class="text-3xl font-bold text-gray-900 mt-2 mb-4">Single-Cell &amp; Single-Molecule Multi-omics</h2>
+          <p class="text-gray-600 leading-relaxed mb-4">
+            Epigenetic modifications, including DNA methylation, histone modifications, and 3D genome topology, combine with genetic content to determine transcription factor binding and gene regulation. However, gene activation or repression potential cannot be entirely predicted by looking at a single molecular measurement, and the interactions between different epigenetic marks are currently studied either in homogenous cultured cells or bulk tissues that average the readout.
+          </p>
+          <p class="text-gray-600 leading-relaxed mb-4">
+            We develop technologies to simultaneously capture multiple molecular measurements in the same single cell. We have built several multi-omic platforms and continue developing more powerful approaches to dissect the regulatory roles of non-coding elements in heterogeneous tissues and identify therapeutic targets for human diseases.
+          </p>
+          <div class="mt-6">
+            <h4 class="text-sm font-semibold text-gray-900 mb-3">Key tools &amp; publications</h4>
+            <ul class="space-y-2">
+              <li>
+                <a href="https://doi.org/10.1186/s13059-023-02889-x" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">NOMe-HiC · Genome Biology (2023)</a>
+                <p class="text-xs text-gray-500">Joint profiling of DNA methylation, chromatin, and 3D genome in a single molecule</p>
+              </li>
+              <li>
+                <a href="https://doi.org/10.1038/s41592-019-0502-z" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">Methyl-HiC · Nature Methods (2019)</a>
+                <p class="text-xs text-gray-500">Nature Methods "Method of the Year 2019" highlight</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="md:order-1 md:col-span-3">
+          <img src="/images/singlecell_multi.png" alt="Single-cell multi-omics diagram" class="w-full object-contain" />
+          <p class="text-xs text-gray-400 text-center py-2 px-4">Single-cell multi-omics technologies to understand gene regulation and identify therapeutic targets.</p>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</Layout>

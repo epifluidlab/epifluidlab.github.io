@@ -1,0 +1,92 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { publications } from '../data/publications';
+
+const tags = ['All', 'EpiFluidLab', 'Computational Methods', 'Multi-omics Technology', 'Clinical Application', 'Tools', 'Review', 'Collaboration'];
+---
+<Layout title="Publications" description="Publications from the EpiFluid Lab at Northwestern University.">
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-4">Publications</h1>
+    <p class="text-gray-500 mb-10">
+      For the most complete and up-to-date list, see
+      <a href="https://scholar.google.com/citations?user=prIRHQQAAAAJ&hl=en" target="_blank" rel="noopener" class="text-nu-purple hover:underline">Google Scholar</a>.
+    </p>
+
+    <!-- Filter buttons -->
+    <div class="flex flex-wrap gap-2 mb-10" id="filter-bar">
+      {tags.map((tag) => (
+        <button
+          class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-nu-light hover:text-nu-purple transition-colors data-[active]:bg-nu-purple data-[active]:text-white data-[active]:border-nu-purple"
+          data-tag={tag}
+          data-active={tag === 'All' ? '' : undefined}
+        >
+          {tag}
+        </button>
+      ))}
+    </div>
+
+    <!-- Publication list -->
+    <div class="space-y-6" id="pub-list">
+      {publications.map((pub) => (
+        <article
+          class="pub-item rounded-xl border border-gray-200 p-6 hover:border-nu-ghost hover:shadow-sm transition-all"
+          data-tags={pub.tags.join(',')}
+        >
+          <div class="flex items-start gap-4">
+            {pub.journalIcon && (
+              <img src={pub.journalIcon} alt={pub.journal} class="w-10 h-10 object-contain rounded flex-shrink-0 mt-1" />
+            )}
+            <div class="flex-1 min-w-0">
+          <div class="flex flex-wrap gap-2 mb-3">
+            {pub.tags.map((tag) => (
+              <span class="text-xs font-medium px-2 py-0.5 rounded-full bg-nu-ghost-soft text-nu-purple">{tag}</span>
+            ))}
+          </div>
+          <h3 class="text-base font-semibold text-gray-900 leading-snug mb-2">
+            <a href={pub.link} target="_blank" rel="noopener" class="hover:text-nu-purple transition-colors">
+              {pub.title}
+            </a>
+          </h3>
+          <p class="text-sm text-gray-500 mb-2" set:html={pub.authors}></p>
+          <div class="flex flex-wrap items-center gap-3 text-xs text-gray-400">
+            <span class="font-medium text-gray-600">{pub.journal}</span>
+            <span>&middot;</span>
+            <span>{pub.year}</span>
+            <span>&middot;</span>
+            <a href={`https://doi.org/${pub.doi}`} target="_blank" rel="noopener" class="hover:text-nu-purple transition-colors">
+              DOI: {pub.doi}
+            </a>
+            {pub.sourceLink && (
+              <>
+                <span>&middot;</span>
+                <a href={pub.sourceLink} target="_blank" rel="noopener" class="text-nu-purple hover:text-nu-purple font-medium transition-colors">
+                  {pub.sourceText || 'Code'}
+                </a>
+              </>
+            )}
+          </div>
+            </div>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</Layout>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+  const items = document.querySelectorAll<HTMLElement>('.pub-item');
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const tag = btn.dataset.tag!;
+      buttons.forEach((b) => delete b.dataset.active);
+      btn.dataset.active = '';
+      items.forEach((item) => {
+        const tags = item.dataset.tags?.split(',') ?? [];
+        const show = tag === 'All' || tags.includes(tag);
+        item.style.display = show ? '' : 'none';
+      });
+    });
+  });
+</script>

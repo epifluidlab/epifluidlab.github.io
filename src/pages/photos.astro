@@ -1,0 +1,193 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const photos = [
+  { src: '/images/group_photos/2026_2.jpg', year: 2026, caption: 'Weimin gives talk on foundational model work' },
+  { src: '/images/group_photos/2025_9j.jpg', year: 2025, caption: 'Hailu presents at annual BMG retreat' },
+  { src: '/images/group_photos/2025_9h.jpg', year: 2025, caption: 'Jiayan presents at annual BMG retreat' },
+  { src: '/images/group_photos/2025_9.jpg', year: 2025, caption: 'Group dinner at hotpot' },
+  { src: '/images/group_photos/2025_6.jpg', year: 2025, caption: 'Ravi presents at Lurie Cancer Symposium' },
+  { src: '/images/group_photos/2024_10.jpg', year: 2024, caption: 'Group dinner with new rotation students Jocelyn and Eric' },
+  { src: '/images/group_photos/2024_8.png', year: 2024, caption: 'Ravi Bandaru received the runner up award from SOAR Foundation' },
+  { src: '/images/group_photos/2024_7.jpg', year: 2024, caption: 'James Li present his summer intern work at ISMB 2024 conference' },
+  { src: '/images/group_photos/2024_6d.jpg', year: 2024, caption: 'Genomics in the Dark dinner at Lincoln Park' },
+  { src: '/images/group_photos/2024_6.jpg', year: 2024, caption: 'Group together at Lincoln Park Zoo' },
+  { src: '/images/group_photos/2024_5.jpg', year: 2024, caption: 'Group together at lake front' },
+  { src: '/images/group_photos/2024_4.jpg', year: 2024, caption: 'Eclipse watch at Indiana' },
+  { src: '/images/group_photos/2024_1.jpg', year: 2024, caption: 'Dr. Li Wang shows high school junior girls around the lab', creditLink: 'https://news.feinberg.northwestern.edu/2024/03/15/sqe-inspire-program-hosts-shadow-day-for-high-school-girls/' },
+  { src: '/images/group_photos/2023_8.jpg', year: 2023, caption: "Yaping's farewell party at CCHMC" },
+  { src: '/images/group_photos/2023_5.jpg', year: 2023, caption: 'Group photo after 2023 summer in CCHMC' },
+
+  { src: '/images/group_photos/2023_4.jpg', year: 2023, caption: 'James present at 2023 CCHMC SURF symposium' },
+  { src: '/images/group_photos/2023_3.jpg', year: 2023, caption: 'Ravi present at 2023 CCHMC SURF symposium' },
+  { src: '/images/group_photos/2023_2.jpg', year: 2023, caption: 'Hailu present at 2023 CCHMC annual symposium' },
+  { src: '/images/group_photos/2023_1.jpg', year: 2023, caption: 'Manolis visit UC at 2023' },
+  { src: '/images/group_photos/2022_1.jpg', year: 2022, caption: '2022 USC reunion at Van Andel Institute after pandemic' },
+  { src: '/images/group_photos/2020_3.jpg', year: 2020, caption: '2020 Chinese New Year' },
+  { src: '/images/group_photos/2020_2.jpg', year: 2020, caption: '2020 Chinese New Year' },
+  { src: '/images/group_photos/2020_1.jpg', year: 2020, caption: '2020 group photo' },
+  { src: '/images/group_photos/2019_4.jpg', year: 2019, caption: 'Rosalyn Liou at 2019 SURF symposium' },
+  { src: '/images/group_photos/2019_3.jpg', year: 2019, caption: 'Michelle Zhu at 2019 SURF symposium' },
+  { src: '/images/group_photos/2019_2.jpg', year: 2019, caption: '2019 SURF students' },
+  { src: '/images/group_photos/2019_1.jpg', year: 2019, caption: 'First group photo' },
+  { src: '/images/group_photos/2019_0.jpg', year: 2019, caption: 'Yaping at AACR 2019' },
+];
+
+const years = [...new Set(photos.map(p => p.year))].sort((a, b) => b - a);
+---
+<Layout title="Photos" description="Group photos from the EpiFluid Lab.">
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <h1 class="text-4xl font-bold text-gray-900 mb-8">Photos</h1>
+
+    <!-- Year filter -->
+    <div class="flex flex-wrap gap-2 mb-10">
+      <button class="year-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-nu-light hover:text-nu-purple transition-colors" data-year="all" data-active="">All</button>
+      {years.map((year) => (
+        <button class="year-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-200 text-gray-600 hover:border-nu-light hover:text-nu-purple transition-colors" data-year={year}>{year}</button>
+      ))}
+    </div>
+
+    <!-- Photo grid -->
+    <div class="grid grid-cols-2 md:grid-cols-3 gap-4" id="photo-grid">
+      {photos.map((photo, i) => (
+        <button
+          class="photo-thumb group relative block overflow-hidden rounded-xl border border-gray-100 hover:shadow-md transition-shadow focus:outline-none focus:ring-2 focus:ring-nu-purple"
+          data-index={i}
+          data-year={photo.year}
+          data-caption={photo.caption}
+          data-credit={photo.creditLink || ''}
+        >
+          <img src={photo.src} alt={photo.caption || `EpiFluid Lab ${photo.year}`} class="w-full h-56 object-cover" loading="lazy" />
+          {photo.caption && (
+            <div class="absolute inset-x-0 bottom-0 bg-black/75 px-3 py-2.5 translate-y-full group-hover:translate-y-0 transition-transform duration-200">
+              <p class="text-white text-xs leading-snug">{photo.caption}</p>
+            </div>
+          )}
+        </button>
+      ))}
+    </div>
+  </div>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/90" role="dialog" aria-modal="true">
+    <!-- Close -->
+    <button id="lb-close" class="absolute top-4 right-4 text-white/70 hover:text-white p-2 rounded-full hover:bg-white/10 transition-colors" aria-label="Close">
+      <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+    </button>
+
+    <!-- Prev -->
+    <button id="lb-prev" class="absolute left-4 top-1/2 -translate-y-1/2 text-white/70 hover:text-white p-2 rounded-full hover:bg-white/10 transition-colors" aria-label="Previous">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+    </button>
+
+    <!-- Image -->
+    <div class="flex items-center justify-center w-full h-full px-20 pt-12 pb-20">
+      <img id="lb-img" src="" alt="" class="max-w-full max-h-full object-contain rounded-lg shadow-2xl" />
+    </div>
+
+    <!-- Next -->
+    <button id="lb-next" class="absolute right-4 top-1/2 -translate-y-1/2 text-white/70 hover:text-white p-2 rounded-full hover:bg-white/10 transition-colors" aria-label="Next">
+      <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+    </button>
+
+    <!-- Caption + Counter -->
+    <div class="absolute bottom-4 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 text-center px-8">
+      <p id="lb-caption" class="text-white/90 text-sm max-w-lg"></p>
+      <a id="lb-credit" href="" target="_blank" rel="noopener" class="hidden text-white/50 text-xs hover:text-white/80 underline underline-offset-2 transition-colors">Image credit</a>
+      <p id="lb-counter" class="text-white/50 text-xs"></p>
+    </div>
+  </div>
+</Layout>
+
+<script>
+  const photos = Array.from(document.querySelectorAll<HTMLButtonElement>('.photo-thumb'));
+  const lightbox = document.getElementById('lightbox')!;
+  const lbImg = document.getElementById('lb-img') as HTMLImageElement;
+  const lbCounter = document.getElementById('lb-counter')!;
+  const lbCaption = document.getElementById('lb-caption')!;
+  const lbCredit = document.getElementById('lb-credit') as HTMLAnchorElement;
+  let current = 0;
+  let visible: HTMLButtonElement[] = [...photos];
+
+  function getVisible() {
+    return photos.filter(p => p.style.display !== 'none');
+  }
+
+  function updateLightbox() {
+    const thumb = visible[current];
+    lbImg.src = thumb.querySelector('img')!.src;
+    lbImg.alt = thumb.querySelector('img')!.alt;
+    lbCaption.textContent = thumb.dataset.caption || '';
+    const credit = thumb.dataset.credit || '';
+    lbCredit.href = credit;
+    lbCredit.classList.toggle('hidden', !credit);
+    lbCounter.textContent = `${current + 1} / ${visible.length}`;
+  }
+
+  function open(index: number) {
+    visible = getVisible();
+    current = index;
+    updateLightbox();
+    lightbox.classList.remove('hidden');
+    lightbox.classList.add('flex');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    lightbox.classList.add('hidden');
+    lightbox.classList.remove('flex');
+    document.body.style.overflow = '';
+  }
+
+  function navigate(dir: number) {
+    visible = getVisible();
+    current = (current + dir + visible.length) % visible.length;
+    updateLightbox();
+  }
+
+  photos.forEach((btn, i) => {
+    btn.addEventListener('click', () => {
+      visible = getVisible();
+      const visIndex = visible.indexOf(btn);
+      open(visIndex);
+    });
+  });
+
+  document.getElementById('lb-close')!.addEventListener('click', close);
+  document.getElementById('lb-prev')!.addEventListener('click', () => navigate(-1));
+  document.getElementById('lb-next')!.addEventListener('click', () => navigate(1));
+
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox) close();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (lightbox.classList.contains('hidden')) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowLeft') navigate(-1);
+    if (e.key === 'ArrowRight') navigate(1);
+  });
+
+  // Year filter
+  const yearBtns = document.querySelectorAll<HTMLButtonElement>('.year-btn');
+  yearBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      yearBtns.forEach(b => {
+        delete b.dataset.active;
+        b.classList.remove('bg-nu-purple', 'text-white', 'border-nu-purple');
+      });
+      btn.dataset.active = '';
+      btn.classList.add('bg-nu-purple', 'text-white', 'border-nu-purple');
+
+      const year = btn.dataset.year;
+      photos.forEach(p => {
+        const show = year === 'all' || p.dataset.year === year;
+        p.style.display = show ? '' : 'none';
+      });
+    });
+  });
+
+  // Init active style for "All"
+  const allBtn = document.querySelector<HTMLButtonElement>('[data-year="all"]')!;
+  allBtn.classList.add('bg-nu-purple', 'text-white', 'border-nu-purple');
+</script>

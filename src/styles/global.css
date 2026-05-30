@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* Northwestern University official brand colors */
+  --color-nu-purple:       #4E2A84;
+  --color-nu-dark:         #401F68;
+  --color-nu-light:        #836EAA;
+  --color-nu-pale:         #B6ACD1;
+  --color-nu-ghost:        #E4E0EE;
+  --color-nu-ghost-soft:   #F0EDF8;
+  --color-nu-black:        #342F2E;
+  --color-nu-gray:         #716C6B;
+  --color-nu-gray-light:   #D8D6D6;
+}
