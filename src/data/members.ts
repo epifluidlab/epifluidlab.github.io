@@ -63,4 +63,11 @@ export const members: Member[] = [
     email: 'ravi.bandaru@northwestern.edu',
     bio: 'Medical student at Sidney Kimmel Medical College at Thomas Jefferson University. He received his B.S. from Penn State University.',
   },
+  {
+    name: 'Kundan Baliga',
+    image: '/images/kundan_baliga.jpg',
+    title: 'Intern',
+    email: 'kbaliga2@illinois.edu',
+    bio: 'Undergraduate at the University of Illinois Urbana-Champaign, studying Statistics and Computer Science.',
+  },
 ];

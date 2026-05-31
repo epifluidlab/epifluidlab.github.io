@@ -14,7 +14,7 @@ export interface Publication {
 export const publications: Publication[] = [
   {
     title: 'Genome-wide variation in cell-free DNA end motif entropy predicts immunotherapy response in head and neck cancer',
-    authors: '<strong>Ravi Bandaru</strong>, <strong>Hailu Fu</strong>, <strong>Haizi Zheng</strong>, <strong>Jocelyn Liang</strong>, <strong>Li Wang</strong>, Shuchi Gulati, Benjamin H. Hinrichs, Mingxiang Teng, Bin Zhang, Masha Kocherginsky, De-Chen Lin, David A. Hildeman, Francis P. Worden, Matthew O. Old, Neal E. Dunlap, John M. Kaczmar, Maura L. Gillison, Dalia El-Gamal, Trisha Wise Draper, <strong>Yaping Liu</strong>',
+    authors: '<strong>Ravi Bandaru</strong>, <strong>Hailu Fu</strong>, <strong>Haizi Zheng</strong>, <strong>Jocelyn Liang</strong>, <strong>Li Wang</strong>, Shuchi Gulati, Benjamin H. Hinrichs, Mingxiang Teng, Bin Zhang, Masha Kocherginsky, De-Chen Lin, David A. Hildeman, Francis P. Worden, Matthew O. Old, Neal E. Dunlap, John M. Kaczmar, Maura L. Gillison, Dalia El-Gamal, Trisha Wise Draper<sup>#</sup>, <strong>Yaping Liu</strong><sup>#</sup>',
     journal: 'Journal of Clinical Investigation',
     year: 2026,
     doi: '10.1172/JCI196284',
@@ -26,7 +26,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'FinaleToolkit: accelerating cell-free DNA fragmentation analysis with a high-speed computational toolkit',
-    authors: '<strong>James Wenhan Li</strong>, <strong>Ravi Bandaru</strong>, Kundan Baliga, <strong>Yaping Liu</strong>',
+    authors: '<strong>James Wenhan Li</strong><sup>*</sup>, <strong>Ravi Bandaru</strong><sup>*</sup>, <strong>Kundan Baliga</strong>, <strong>Yaping Liu</strong>',
     journal: 'Bioinformatics Advances',
     year: 2025,
     doi: '10.1093/bioadv/vbaf236',
@@ -38,7 +38,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'Circulating cell-free DNA methylation profiles as noninvasive multiple sclerosis biomarkers: A proof-of-concept study',
-    authors: '<strong>Hailu Fu</strong>, Kevin Huang, Wen Zhu, Lili Zhang, <strong>Ravi Bandaru</strong>, Shruthi Venkatesh, Elizabeth Walker, <strong>Li Wang</strong>, <strong>Yaping Liu</strong>, Zongqi Xia',
+    authors: '<strong>Hailu Fu</strong>, Kevin Huang, Wen Zhu, Lili Zhang, <strong>Ravi Bandaru</strong>, Shruthi Venkatesh, Elizabeth Walker, <strong>Li Wang</strong>, <strong>Yaping Liu</strong><sup>#</sup>, Zongqi Xia<sup>#</sup>',
     journal: 'medRxiv (preprint)',
     year: 2025,
     doi: '10.1101/2025.02.14.25322180',
@@ -50,7 +50,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'FinaleMe: Predicting DNA methylation by the fragmentation patterns of plasma cell-free DNA',
-    authors: '<strong>Yaping Liu</strong>, Sarah C. Reed, Christopher Lo, Atish D. Choudhury, Heather A. Parsons, Daniel G. Stover, Gavin Ha, Gregory Gydush, Justin Rhoades, Denisse Rotem, Samuel Freeman, David W. Katz, <strong>Ravi Bandaru</strong>, <strong>Haizi Zheng</strong>, <strong>Hailu Fu</strong>, Viktor A. Adalsteinsson, Manolis Kellis',
+    authors: '<strong>Yaping Liu</strong><sup>#</sup>, Sarah C. Reed, Christopher Lo, Atish D. Choudhury, Heather A. Parsons, Daniel G. Stover, Gavin Ha, Gregory Gydush, Justin Rhoades, Denisse Rotem, Samuel Freeman, <strong>David W. Katz</strong>, <strong>Ravi Bandaru</strong>, <strong>Haizi Zheng</strong>, <strong>Hailu Fu</strong>, Viktor A. Adalsteinsson<sup>#</sup>, Manolis Kellis<sup>#</sup>',
     journal: 'Nature Communications',
     year: 2024,
     doi: '10.1038/s41467-024-47196-6',
@@ -61,8 +61,18 @@ export const publications: Publication[] = [
     sourceText: 'FinaleMe Source Code',
   },
   {
+    title: 'Downstream-of-gene (DoG) transcripts contribute to an imbalance in the cancer cell transcriptome',
+    authors: 'Kouki Abe, Brian Maunze, Pedro Avila Lopez, Jessica Xu, Nefertiti Muhammad, Guang-Yu Yang, <strong>David W. Katz</strong>, <strong>Yaping Liu</strong><sup>#</sup>, Shannon M. Lauberth<sup>#</sup>',
+    journal: 'Science Advances',
+    year: 2024,
+    doi: '10.1126/sciadv.adh9613',
+    link: 'https://doi.org/10.1126/sciadv.adh9613',
+    tags: ['Collaboration'],
+    journalIcon: '/images/journals/science-advances.png',
+  },
+  {
     title: 'Reduced Nephron Endowment in Six2-TGCtg Mice Is Due to Six3 Misexpression by Aberrant Enhancer–Promoter Interactions in the Transgene',
-    authors: 'Alison J. Perl, Han Liu, Matthew Hass, ..., <strong>Yaping Liu</strong>, Raphael Kopan',
+    authors: 'Alison J. Perl, Han Liu, Matthew Hass, Nirpesh Adhikari, Praneet Chaturvedi, Yueh-Chiang Hu, Rulang Jiang, <strong>Yaping Liu</strong>, Raphael Kopan',
     journal: 'Journal of the American Society of Nephrology',
     year: 2024,
     doi: '10.1681/ASN.0000000000000324',
@@ -82,7 +92,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'NOMe-HiC: joint profiling of genetic variant, DNA methylation, chromatin accessibility, and 3D genome in the same DNA molecule',
-    authors: '<strong>Hailu Fu</strong>, <strong>Li Wang</strong>, et al.',
+    authors: '<strong>Hailu Fu</strong>, <strong>Haizi Zheng</strong>, Xiaoting Chen, Matthew T. Weirauch, Louis J. Muglia, <strong>Li Wang</strong><sup>#</sup>, <strong>Yaping Liu</strong><sup>#</sup>',
     journal: 'Genome Biology',
     year: 2023,
     doi: '10.1186/s13059-023-02889-x',
@@ -92,7 +102,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'Human fetal cerebellar cell atlas informs medulloblastoma origin and oncogenesis',
-    authors: 'Zaili Luo, Mingyang Xia, Wei Shi, ..., <strong>Yaping Liu</strong>, et al.',
+    authors: 'Zaili Luo, Mingyang Xia, Wei Shi, Chuntao Zhao, Jiajia Wang, Dazhuan Xin, Xinran Dong, Yu Xiong, Feng Zhang, Kalen Berry, Sean Ogurek, Xuezhao Liu, Rohit Rao, Rui Xing, Lai Man Natalie Wu, Siying Cui, Lingli Xu, Yifeng Lin, Wenkun Ma, Shuaiwei Tian, Qi Xie, Li Zhang, Mei Xin, Xiaotao Wang, Feng Yue, <strong>Haizi Zheng</strong>, <strong>Yaping Liu</strong>, Charles B. Stevenson, Peter de Blank, John P. Perentesis, Richard J. Gilbertson, Hao Li, Jie Ma, Wenhao Zhou, Michael D. Taylor, Q. Richard Lu',
     journal: 'Nature',
     year: 2022,
     doi: '10.1038/s41586-022-05487-2',
@@ -122,7 +132,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'FinaleDB: a browser and database of cell-free DNA fragmentation patterns',
-    authors: '<strong>Haizi Zheng</strong>, Michelle S. Zhu, <strong>Yaping Liu</strong>',
+    authors: '<strong>Haizi Zheng</strong>, <strong>Michelle S. Zhu</strong>, <strong>Yaping Liu</strong>',
     journal: 'Bioinformatics',
     year: 2020,
     doi: '10.1093/bioinformatics/btaa999',
@@ -132,7 +142,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'Joint profiling of DNA methylation and chromatin architecture in single cells',
-    authors: '<strong>Yaping Liu</strong>, et al.',
+    authors: 'Guoqiang Li<sup>*</sup>, <strong>Yaping Liu</strong><sup>*</sup>, Yanxiao Zhang, Naoki Kubo, Miao Yu, Rongxin Fang, Manolis Kellis, Bing Ren',
     journal: 'Nature Methods',
     year: 2019,
     doi: '10.1038/s41592-019-0502-z',
@@ -142,7 +152,7 @@ export const publications: Publication[] = [
   },
   {
     title: 'Machine learning enables detection of early-stage colorectal cancer by whole-genome sequencing of plasma cell-free DNA',
-    authors: '<strong>Yaping Liu</strong>, et al.',
+    authors: 'Nathan Wan, David Weinberg, Tzu-Yu Liu, Katherine Niehaus, Eric A. Ariazi, Daniel Delubac, Ajay Kannan, Brandon White, Mitch Bailey, Marvin Bertin, Nathan Boley, Derek Bowen, James Cregg, Adam M. Drake, Riley Ennis, Signe Fransen, Erik Gafni, Loren Hansen, <strong>Yaping Liu</strong>, Gabriel L. Otte, Jennifer Pecson, Brandon Rice, Gabriel E. Sanderson, Aarushi Sharma, John St. John, Catherina Tang, Abraham Tzou, Leilani Young, Girish Putcha, Imran S. Haque',
     journal: 'BMC Cancer',
     year: 2019,
     doi: '10.1186/s12885-019-6003-8',
@@ -157,16 +167,6 @@ export const publications: Publication[] = [
     year: 2018,
     doi: '10.1038/s41588-018-0154-4',
     link: 'https://doi.org/10.1038/s41588-018-0154-4',
-    tags: ['Computational Methods'],
-    journalIcon: '/images/journals/nature-genetics.jpg',
-  },
-  {
-    title: 'Estimating the causal tissues for complex traits and diseases',
-    authors: '<strong>Yaping Liu</strong>, Manolis Kellis',
-    journal: 'Nature Genetics',
-    year: 2017,
-    doi: '10.1038/ng.3981',
-    link: 'https://doi.org/10.1038/ng.3981',
     tags: ['Computational Methods'],
     journalIcon: '/images/journals/nature-genetics.jpg',
   },

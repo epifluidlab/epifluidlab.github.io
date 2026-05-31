@@ -7,8 +7,8 @@ import { members } from '../data/members';
     <h1 class="text-4xl font-bold text-gray-900 mb-4">Team</h1>
 
     <div class="grid grid-cols-2 md:grid-cols-4 gap-x-8 gap-y-12">
-      {members.map((member) => (
-        <div class="flex flex-col items-center text-center">
+      {members.map((member, i) => (
+        <div class={`flex flex-col items-center text-center${i === members.length - 1 && members.length % 4 !== 0 ? ' md:col-start-1' : ''}`}>
           <div class="w-36 h-36 rounded-full overflow-hidden mb-4 flex-shrink-0">
             <img
               src={member.image}
@@ -31,25 +31,55 @@ import { members } from '../data/members';
     <!-- Alumni -->
     <div class="mt-20 mb-12">
       <h2 class="text-xl font-bold text-gray-900 mb-6">Alumni</h2>
-      <div class="divide-y divide-gray-100">
-        {[
-          { name: 'Xionghui Zhou, Ph.D.', years: '2019–2020', note: 'Faculty, Huazhong Agricultural University' },
-          { name: 'Long Hu', years: '2019–2020', note: '' },
-          { name: 'Rosalyn Liou', years: '2019', note: 'MD Student, University of Toledo' },
-          { name: 'Michelle Zhu', years: '2019', note: 'MD Student, UT Southwestern' },
-          { name: 'Haizi Zheng, Ph.D.', years: '2020–2022', note: 'Principal Scientist, Regeneron Pharmaceuticals' },
-          { name: 'Ken Chen', years: '2021', note: 'Undergraduate, UC Berkeley' },
-          { name: 'David Katz, Ph.D.', years: '2023–2024', note: 'Research Fellow, Mayo Clinic' },
-        ].map(({ name, years, note }) => (
-          <div class="flex items-baseline justify-between py-2.5 gap-4">
-            <div class="flex items-baseline gap-3">
-              <span class="font-medium text-gray-900 text-sm">{name}</span>
-              {note && <span class="text-xs text-gray-400">{note}</span>}
-            </div>
-            <span class="text-xs text-gray-400 flex-shrink-0">{years}</span>
+
+      {[
+        {
+          category: 'Postdoctoral Researchers',
+          members: [
+            { name: 'Haizi Zheng, Ph.D.', role: 'Research Associate', years: '2020–2022', note: 'Principal Scientist, Regeneron Pharmaceuticals' },
+            { name: 'Xionghui Zhou, Ph.D.', role: 'Research Fellow', years: '2019–2020', note: 'Faculty, Huazhong Agricultural University' },
+            { name: 'David Katz, Ph.D.', role: 'Research Fellow', years: '2023–2024', note: 'Research Fellow, Mayo Clinic' },
+          ],
+        },
+        {
+          category: 'Technicians',
+          members: [
+            { name: 'Long Hu', role: 'Research Assistant', years: '2019–2020', note: '' },
+          ],
+        },
+        {
+          category: 'Undergraduate Volunteers',
+          members: [
+            { name: 'Ken Chen', role: 'SURF Student', years: '2021', note: 'Undergraduate student, UC Berkeley' },
+            { name: 'Kyle Van Blaricom', role: 'Research Volunteer', years: '2021', note: 'Undergraduate student, University of Cincinnati' },
+            { name: 'Dzhamal Sarvalov', role: 'Research Volunteer', years: '2019–2020', note: 'Research Assistant, CCHMC' },
+            { name: 'Rosalyn Liou', role: 'SURF Student', years: '2019', note: 'MD Student, University of Toledo' },
+            { name: 'Michelle Zhu', role: 'SURF Student', years: '2019', note: 'MD Student, UT Southwestern Medical Center' },
+          ],
+        },
+        {
+          category: 'High School Volunteers',
+          members: [
+            { name: 'Ava Norton', role: 'Research Volunteer', years: '2019', note: '' },
+          ],
+        },
+      ].map(({ category, members: alums }) => (
+        <div class="mb-8">
+          <h3 class="text-sm font-semibold text-nu-purple uppercase tracking-wide mb-3">{category}</h3>
+          <div class="divide-y divide-gray-100">
+            {alums.map(({ name, role, years, note }) => (
+              <div class="flex items-baseline justify-between py-2.5 gap-4">
+                <div class="flex items-baseline gap-3 flex-wrap">
+                  <span class="font-medium text-gray-900 text-sm">{name}</span>
+                  <span class="text-xs text-gray-400">{role}</span>
+                  {note && <span class="text-xs text-gray-500">· {note}</span>}
+                </div>
+                <span class="text-xs text-gray-400 flex-shrink-0">{years}</span>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
 
     <!-- Join us -->
