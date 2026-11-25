@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 import { publications } from '../data/publications';
 
@@ -37,7 +39,7 @@ const tags = ['All', 'EpiFluidLab', 'Computational Methods', 'Multi-omics Techno
         >
           <div class="flex items-start gap-4">
             {pub.journalIcon && (
-              <img src={pub.journalIcon} alt={pub.journal} class="w-10 h-10 object-contain rounded flex-shrink-0 mt-1" />
+              <Image src={img(pub.journalIcon)} alt={pub.journal} width={80} class="w-10 h-10 object-contain rounded flex-shrink-0 mt-1" />
             )}
             <div class="flex-1 min-w-0">
           <div class="flex flex-wrap gap-2 mb-3">
@@ -51,18 +53,15 @@ const tags = ['All', 'EpiFluidLab', 'Computational Methods', 'Multi-omics Techno
             </a>
           </h3>
           <p class="text-sm text-gray-500 mb-2" set:html={pub.authors}></p>
-          <div class="flex flex-wrap items-center gap-3 text-xs text-gray-400">
+          <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-gray-400">
             <span class="font-medium text-gray-600">{pub.journal}</span>
-            <span>&middot;</span>
             <span>{pub.year}</span>
-            <span>&middot;</span>
             <a href={`https://doi.org/${pub.doi}`} target="_blank" rel="noopener" class="hover:text-nu-purple transition-colors">
               DOI: {pub.doi}
             </a>
             {pub.sourceLink && (
               <>
-                <span>&middot;</span>
-                <a href={pub.sourceLink} target="_blank" rel="noopener" class="text-nu-purple hover:text-nu-purple font-medium transition-colors">
+                <a href={pub.sourceLink} target="_blank" rel="noopener" class="text-nu-purple hover:underline font-medium">
                   {pub.sourceText || 'Code'}
                 </a>
               </>

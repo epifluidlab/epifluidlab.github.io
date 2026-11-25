@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 import { members } from '../data/members';
 ---
@@ -10,8 +12,9 @@ import { members } from '../data/members';
       {members.map((member, i) => (
         <div class={`flex flex-col items-center text-center${i === members.length - 1 && members.length % 4 !== 0 ? ' md:col-start-1' : ''}`}>
           <div class="w-36 h-36 rounded-full overflow-hidden mb-4 flex-shrink-0">
-            <img
-              src={member.image}
+            <Image
+              src={img(member.image)}
+              width={288}
               alt={member.name}
               class="w-full h-full object-cover"
             />
@@ -36,9 +39,9 @@ import { members } from '../data/members';
         {
           category: 'Postdoctoral Researchers',
           members: [
+            { name: 'David Katz, Ph.D.', role: 'Research Fellow', years: '2023–2024', note: 'Research Fellow, Mayo Clinic' },
             { name: 'Haizi Zheng, Ph.D.', role: 'Research Associate', years: '2020–2022', note: 'Principal Scientist, Regeneron Pharmaceuticals' },
             { name: 'Xionghui Zhou, Ph.D.', role: 'Research Fellow', years: '2019–2020', note: 'Faculty, Huazhong Agricultural University' },
-            { name: 'David Katz, Ph.D.', role: 'Research Fellow', years: '2023–2024', note: 'Research Fellow, Mayo Clinic' },
           ],
         },
         {
@@ -72,7 +75,7 @@ import { members } from '../data/members';
                 <div class="flex items-baseline gap-3 flex-wrap">
                   <span class="font-medium text-gray-900 text-sm">{name}</span>
                   <span class="text-xs text-gray-400">{role}</span>
-                  {note && <span class="text-xs text-gray-500">· {note}</span>}
+                  {note && <span class="text-xs text-gray-500">{note}</span>}
                 </div>
                 <span class="text-xs text-gray-400 flex-shrink-0">{years}</span>
               </div>
@@ -83,7 +86,7 @@ import { members } from '../data/members';
     </div>
 
     <!-- Join us -->
-    <div class="flex items-center justify-between gap-6 rounded-xl bg-nu-ghost-soft border border-nu-ghost px-8 py-6">
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6 rounded-xl bg-nu-ghost-soft border border-nu-ghost px-8 py-6">
       <div>
         <h2 class="text-lg font-bold text-gray-900 mb-1">Join the Lab</h2>
         <p class="text-sm text-gray-500">We recruit graduate students, postdocs, and undergraduates interested in epigenomics and liquid biopsy.</p>

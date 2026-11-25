@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="Contact" description="Contact the EpiFluid Lab at Northwestern University.">
@@ -14,7 +16,7 @@ import Layout from '../layouts/Layout.astro';
         <div>
           <h2 class="text-sm font-semibold text-gray-400 uppercase tracking-widest mb-4">Principal Investigator</h2>
           <div class="flex items-center gap-4 mb-4">
-            <img src="/images/yaping_2024.jpg" alt="Yaping Liu" class="w-16 h-16 rounded-xl object-cover" />
+            <Image src={img('/images/yaping_2024.jpg')} alt="Yaping Liu" width={128} class="w-16 h-16 rounded-xl object-cover" />
             <div>
               <div class="font-bold text-gray-900">Yaping Liu, Ph.D.</div>
               <div class="text-sm text-nu-purple">Assistant Professor</div>
@@ -66,7 +68,7 @@ import Layout from '../layouts/Layout.astro';
           <p class="text-sm text-gray-600 mb-4">
             Please send your CV and a brief statement of your research interests to Dr. Liu.
           </p>
-          <a href="mailto:yaping@northwestern.edu" class="inline-block px-5 py-2.5 bg-nu-purple text-white rounded-lg text-sm font-medium hover:bg-nu-purple transition-colors">
+          <a href="mailto:yaping@northwestern.edu" class="inline-block px-5 py-2.5 bg-nu-purple text-white rounded-lg text-sm font-medium hover:bg-nu-dark transition-colors">
             Email Dr. Liu
           </a>
         </div>

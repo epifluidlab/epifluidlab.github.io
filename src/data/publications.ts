@@ -13,6 +13,18 @@ export interface Publication {
 
 export const publications: Publication[] = [
   {
+    title: 'Circulating cell-free DNA methylation profiles as candidate noninvasive multiple sclerosis biomarkers',
+    authors: '<strong>Hailu Fu</strong><sup>*</sup>, <strong>Jocelyn Liang</strong><sup>*</sup>, Kevin Huang, Wen Zhu, Lili Zhang, <strong>Ravi Bandaru</strong>, Shruthi Venkatesh, Elizabeth Walker, <strong>Li Wang</strong><sup>#</sup>, <strong>Yaping Liu</strong><sup>#</sup>, Zongqi Xia<sup>#</sup>',
+    journal: 'Communications Medicine',
+    year: 2026,
+    doi: '10.1038/s43856-026-01825-x',
+    link: 'https://www.nature.com/articles/s43856-026-01825-x',
+    tags: ['Computational Methods', 'Clinical Application', 'EpiFluidLab'],
+    journalIcon: '/images/journals/communications-medicine.webp',
+    sourceLink: 'https://github.com/epifluidlab/ms_cfnda_wgbs_manuscript',
+    sourceText: 'Source Code',
+  },
+  {
     title: 'Genome-wide variation in cell-free DNA end motif entropy predicts immunotherapy response in head and neck cancer',
     authors: '<strong>Ravi Bandaru</strong>, <strong>Hailu Fu</strong>, <strong>Haizi Zheng</strong>, <strong>Jocelyn Liang</strong>, <strong>Li Wang</strong>, Shuchi Gulati, Benjamin H. Hinrichs, Mingxiang Teng, Bin Zhang, Masha Kocherginsky, De-Chen Lin, David A. Hildeman, Francis P. Worden, Matthew O. Old, Neal E. Dunlap, John M. Kaczmar, Maura L. Gillison, Dalia El-Gamal, Trisha Wise Draper<sup>#</sup>, <strong>Yaping Liu</strong><sup>#</sup>',
     journal: 'Journal of Clinical Investigation',
@@ -35,18 +47,6 @@ export const publications: Publication[] = [
     journalIcon: '/images/journals/bioinformatics-advances.jpg',
     sourceLink: 'https://github.com/epifluidlab/FinaleToolkit',
     sourceText: 'FinaleToolkit Source Code',
-  },
-  {
-    title: 'Circulating cell-free DNA methylation profiles as noninvasive multiple sclerosis biomarkers: A proof-of-concept study',
-    authors: '<strong>Hailu Fu</strong>, Kevin Huang, Wen Zhu, Lili Zhang, <strong>Ravi Bandaru</strong>, Shruthi Venkatesh, Elizabeth Walker, <strong>Li Wang</strong>, <strong>Yaping Liu</strong><sup>#</sup>, Zongqi Xia<sup>#</sup>',
-    journal: 'medRxiv (preprint)',
-    year: 2025,
-    doi: '10.1101/2025.02.14.25322180',
-    link: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11875267/',
-    tags: ['Computational Methods', 'Clinical Application', 'EpiFluidLab'],
-    journalIcon: '/images/journals/medrxiv.png',
-    sourceLink: 'https://github.com/epifluidlab/ms_cfnda_wgbs_manuscript',
-    sourceText: 'Source Code',
   },
   {
     title: 'FinaleMe: Predicting DNA methylation by the fragmentation patterns of plasma cell-free DNA',

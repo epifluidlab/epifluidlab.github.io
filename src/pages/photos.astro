@@ -1,4 +1,6 @@
 ---
+import { Image, getImage } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 
 const photos = [
@@ -34,6 +36,8 @@ const photos = [
 ];
 
 const years = [...new Set(photos.map(p => p.year))].sort((a, b) => b - a);
+// Larger version for the lightbox, loaded only when a photo is opened
+const fullSize = await Promise.all(photos.map(p => getImage({ src: img(p.src), width: 2000 })));
 ---
 <Layout title="Photos" description="Group photos from the EpiFluid Lab.">
   <div class="max-w-6xl mx-auto px-6 py-16">
@@ -56,8 +60,9 @@ const years = [...new Set(photos.map(p => p.year))].sort((a, b) => b - a);
           data-year={photo.year}
           data-caption={photo.caption}
           data-credit={photo.creditLink || ''}
+          data-full={fullSize[i].src}
         >
-          <img src={photo.src} alt={photo.caption || `EpiFluid Lab ${photo.year}`} class="w-full h-56 object-cover" loading="lazy" />
+          <Image src={img(photo.src)} alt={photo.caption || `EpiFluid Lab ${photo.year}`} widths={[400, 800]} sizes="(min-width: 1152px) 370px, (min-width: 768px) 33vw, 50vw" class="w-full h-56 object-cover" />
           {photo.caption && (
             <div class="absolute inset-x-0 bottom-0 bg-black/75 px-3 py-2.5 translate-y-full group-hover:translate-y-0 transition-transform duration-200">
               <p class="text-white text-xs leading-snug">{photo.caption}</p>
@@ -115,7 +120,7 @@ const years = [...new Set(photos.map(p => p.year))].sort((a, b) => b - a);
 
   function updateLightbox() {
     const thumb = visible[current];
-    lbImg.src = thumb.querySelector('img')!.src;
+    lbImg.src = thumb.dataset.full || thumb.querySelector('img')!.src;
     lbImg.alt = thumb.querySelector('img')!.alt;
     lbCaption.textContent = thumb.dataset.caption || '';
     const credit = thumb.dataset.credit || '';

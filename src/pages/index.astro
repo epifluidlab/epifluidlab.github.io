@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="Home">
@@ -23,7 +25,7 @@ import Layout from '../layouts/Layout.astro';
         </div>
       </div>
       <div class="hidden lg:block flex-shrink-0">
-        <img src="/images/logo.epifluidlab.png" alt="EpiFluid Lab" class="w-72 h-72 object-contain opacity-90" />
+        <Image src={img('/images/logo.epifluidlab.png')} alt="EpiFluid Lab" width={576} loading="eager" class="w-72 h-72 object-contain opacity-90" />
       </div>
     </div>
   </section>
@@ -50,7 +52,7 @@ import Layout from '../layouts/Layout.astro';
         </div>
       </div>
       <div class="rounded-2xl overflow-hidden shadow-md">
-        <img src="/images/sqbrc.jpeg" alt="Simpson Querrey Biomedical Research Center" class="w-full h-full object-cover" />
+        <Image src={img('/images/sqbrc.jpeg')} alt="Simpson Querrey Biomedical Research Center" widths={[640, 1280]} sizes="(min-width: 768px) 50vw, 100vw" class="w-full h-full object-cover" />
       </div>
     </div>
   </section>

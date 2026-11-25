@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 import { tools } from '../data/tools';
 ---
@@ -11,7 +13,9 @@ import { tools } from '../data/tools';
         <article class="rounded-xl border border-gray-200 overflow-hidden hover:border-nu-ghost hover:shadow-sm transition-all">
           {tool.image && (
             <div class="w-full bg-gray-50 border-b border-gray-100 flex items-center justify-center p-6">
-              <img src={tool.image} alt={tool.name} class="max-h-80 w-full object-contain" />
+              {tool.image.endsWith('.gif')
+                ? <img src={img(tool.image).src} alt={tool.name} loading="lazy" class="max-h-80 w-full object-contain" />
+                : <Image src={img(tool.image)} alt={tool.name} widths={[600, 1200]} sizes="(min-width: 768px) 520px, 100vw" class="max-h-80 w-full object-contain" />}
             </div>
           )}
           <div class="p-6">

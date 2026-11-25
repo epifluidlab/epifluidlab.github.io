@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import { img } from '../lib/images';
 import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="Research" description="EpiFluid Lab research projects: AI for cell-free DNA liquid biopsy and single-cell multi-omics technology development.">
@@ -24,30 +26,34 @@ import Layout from '../layouts/Layout.astro';
             <h4 class="text-sm font-semibold text-gray-900 mb-3">Key tools &amp; publications</h4>
             <ul class="space-y-2">
               <li>
-                <a href="https://www.jci.org/articles/view/196284" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">cfDNA Regional Motif Diversity Score · Journal of Clinical Investigation (2026)</a>
+                <a href="https://www.nature.com/articles/s43856-026-01825-x" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">cfDNA Methylation in Multiple Sclerosis, Communications Medicine (2026)</a>
+                <p class="text-xs text-gray-500">cfDNA methylation profiles as candidate noninvasive biomarkers for multiple sclerosis</p>
+              </li>
+              <li>
+                <a href="https://www.jci.org/articles/view/196284" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">cfDNA Regional Motif Diversity Score, Journal of Clinical Investigation (2026)</a>
                 <p class="text-xs text-gray-500">cfDNA regional motif diversity predicts immunotherapy response in head and neck cancer</p>
               </li>
               <li>
-                <a href="https://doi.org/10.1093/bioadv/vbaf236" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleToolkit · Bioinformatics Advances (2025)</a>
+                <a href="https://doi.org/10.1093/bioadv/vbaf236" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleToolkit, Bioinformatics Advances (2025)</a>
                 <p class="text-xs text-gray-500">High-speed toolkit for extracting cfDNA fragmentation features</p>
               </li>
               <li>
-                <a href="https://www.nature.com/articles/s41467-024-47196-6" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleMe · Nature Communications (2024)</a>
+                <a href="https://www.nature.com/articles/s41467-024-47196-6" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleMe, Nature Communications (2024)</a>
                 <p class="text-xs text-gray-500">Predicts DNA methylation from cfDNA fragmentation patterns</p>
               </li>
               <li>
-                <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">CRAG · Genome Medicine (2022)</a>
+                <a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01141-8" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">CRAG, Genome Medicine (2022)</a>
                 <p class="text-xs text-gray-500">De novo characterization of cfDNA fragmentation hotspots</p>
               </li>
               <li>
-                <a href="https://doi.org/10.1093/bioinformatics/btaa999" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleDB · Bioinformatics (2020)</a>
+                <a href="https://doi.org/10.1093/bioinformatics/btaa999" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">FinaleDB, Bioinformatics (2020)</a>
                 <p class="text-xs text-gray-500">Database and browser for cfDNA fragmentation patterns</p>
               </li>
             </ul>
           </div>
         </div>
         <div class="md:col-span-3">
-          <img src="/images/cfdna_epi.png" alt="cfDNA epigenomics diagram" class="w-full object-contain" />
+          <Image src={img('/images/cfdna_epi.png')} alt="cfDNA epigenomics diagram" widths={[800, 1600, 2400]} sizes="(min-width: 1152px) 690px, (min-width: 768px) 60vw, 100vw" class="w-full object-contain" />
           <p class="text-xs text-gray-400 text-center py-2 px-4">Utilizing cfDNA fragmentation patterns and AI to monitor gene regulation during disease initiation and progression.</p>
         </div>
       </div>
@@ -71,18 +77,18 @@ import Layout from '../layouts/Layout.astro';
             <h4 class="text-sm font-semibold text-gray-900 mb-3">Key tools &amp; publications</h4>
             <ul class="space-y-2">
               <li>
-                <a href="https://doi.org/10.1186/s13059-023-02889-x" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">NOMe-HiC · Genome Biology (2023)</a>
+                <a href="https://doi.org/10.1186/s13059-023-02889-x" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">NOMe-HiC, Genome Biology (2023)</a>
                 <p class="text-xs text-gray-500">Joint profiling of DNA methylation, chromatin, and 3D genome in a single molecule</p>
               </li>
               <li>
-                <a href="https://doi.org/10.1038/s41592-019-0502-z" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">Methyl-HiC · Nature Methods (2019)</a>
+                <a href="https://doi.org/10.1038/s41592-019-0502-z" target="_blank" rel="noopener" class="text-sm text-nu-purple hover:underline font-medium">Methyl-HiC, Nature Methods (2019)</a>
                 <p class="text-xs text-gray-500">Nature Methods "Method of the Year 2019" highlight</p>
               </li>
             </ul>
           </div>
         </div>
         <div class="md:order-1 md:col-span-3">
-          <img src="/images/singlecell_multi.png" alt="Single-cell multi-omics diagram" class="w-full object-contain" />
+          <Image src={img('/images/singlecell_multi.png')} alt="Single-cell multi-omics diagram" widths={[800, 1600, 2400]} sizes="(min-width: 1152px) 690px, (min-width: 768px) 60vw, 100vw" class="w-full object-contain" />
           <p class="text-xs text-gray-400 text-center py-2 px-4">Single-cell multi-omics technologies to understand gene regulation and identify therapeutic targets.</p>
         </div>
       </div>

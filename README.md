@@ -40,7 +40,7 @@ Each publication is an object with these fields:
 - `doi` — DOI without the `https://doi.org/` prefix
 - `link` — full URL to the paper
 - `tags` — array of tags, e.g. `['Computational Methods', 'EpiFluidLab']`
-- `journalIcon` — path to journal logo image in `public/images/journals/`
+- `journalIcon` — path to journal logo image in `src/assets/images/journals/`, written as `/images/journals/filename.png`
 - `sourceLink` — (optional) GitHub or code link
 - `sourceText` — (optional) label for the code link, e.g. `'Source Code'`
 
@@ -52,7 +52,7 @@ To add a new paper, copy an existing entry and fill in the fields.
 
 Each member has: `name`, `image`, `title`, `email`, `bio`.
 
-Profile photos go in `public/images/`. Reference them as `/images/filename.jpg`.
+Profile photos go in `src/assets/images/`. Reference them as `/images/filename.jpg`.
 
 ---
 
@@ -60,7 +60,7 @@ Profile photos go in `public/images/`. Reference them as `/images/filename.jpg`.
 
 Each tool has: `name`, `description`, `details`, `tags`, `links`, `image`.
 
-Tool images go in `public/images/tools/`.
+Tool images go in `src/assets/images/tools/`.
 
 ---
 
@@ -72,7 +72,7 @@ Add a new entry to the `photos` array at the top of the file:
 { src: '/images/group_photos/filename.jpg', year: 2026, caption: 'Your caption here' },
 ```
 
-Photo files go in `public/images/group_photos/`.
+Photo files go in `src/assets/images/group_photos/`.
 
 ---
 
@@ -84,20 +84,19 @@ Edit `src/layouts/Layout.astro`. There is a small array near the top listing nav
 
 ### Favicon
 
-The favicon is `public/images/logo.epifluidlab.png`.
+The favicon is made from `src/assets/images/logo.epifluidlab.png`.
 
 ---
 
 ## File structure
 
 ```
-public/
-  images/
-    group_photos/   — photos page images
-    journals/       — journal logo icons
-    tools/          — software page images
-
 src/
+  assets/
+    images/
+      group_photos/ — photos page images
+      journals/     — journal logo icons
+      tools/        — software page images
   data/
     members.ts      — team members
     publications.ts — publications list
@@ -112,4 +111,8 @@ src/
     contact.astro
   layouts/
     Layout.astro    — shared nav, footer, head
+  lib/
+    images.ts       — looks up '/images/...' paths in src/assets/images
 ```
+
+Images are resized and converted to WebP automatically when the site builds, so full-size photos straight from a phone or camera are fine to add.
